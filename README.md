@@ -1,4 +1,5 @@
 # Notes
+
 ## Random notes
 
 ## Simple heap memory allocator. 
@@ -44,4 +45,6 @@ In practice the nodes for managing metadata would be part of the allocated block
 
 Note that it is necessary to allocate larger than the requested block size - that is, you need to allocate block size plus node size. You no longer need to store the pointer to the block in a node. As you know the location of the node in memory, you can simply add a constant to it (the node size) to find the start point of the actual allocation. 
 
-If you were doing a free() you would take the passed pointer and subtract the node size to get the start of the metadata.
+If you were doing a `free()` you would take the passed pointer and subtract the node size to get the start of the metadata.
+
+
