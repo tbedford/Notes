@@ -3,7 +3,7 @@
 
 ## Simple heap memory allocator. 
 
-Shows the basic design / data structures:
+The following diagram shows the basic design / data structures fo a simple heap allocator:
 
 ![Heap Memory Allocator](./Memory_allocator_1.png)
 
@@ -36,3 +36,12 @@ Simple case: You would walk along the linked-list checking for the first free bl
 
 Simple case: You are given the address of the block to free. In a real implementation the meta-data (node) associated with an allocated block would be part of the block itself. So given the address of the block to free we can quickly look up metadata for the block, set used to free, and coalesce any adjacent blocks, updating metadata as required.
 
+## Blocks containing metadata
+
+In practice the nodes for managing metadata would be part of the allocated block. This is shown in a modified version of the previous diagram:
+
+![Heap Memory Allocator](./Memory_allocator_2.png)
+
+Note that it is necessary to allocate larger than the requested block size - that is, you need to allocate block size plus node size. You no longer need to store the pointer to the block in a node. As you know the location of the node in memory, you can simply add a constant to it (the node size) to find the start point of the actual allocation. 
+
+If you were doing a free() you would take the passed pointer and subtract the node size to get the start of the metadata.
