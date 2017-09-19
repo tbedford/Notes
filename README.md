@@ -5,7 +5,7 @@ Simple heap memory allocator. Shows the basic design / data structures:
 
 ![Heap Memory Allocator](./Memory_allocator_1.png)
 
-It helps to visualize the blocks (used and free) as separate from the nodes that manage the blocks.
+It helps to visualize the blocks (used and free) as separate from the nodes that manage the blocks. Note that a `free()` has meant that there are two contiguous free blocks that can be coalesced into one free block, thus helping to avoid memory fragmentation.
 
 Basic node data structure would look something like (in dodgy pseudo-code):
 
