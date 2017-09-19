@@ -7,7 +7,7 @@ Shows the basic design / data structures:
 
 ![Heap Memory Allocator](./Memory_allocator_1.png)
 
-It helps to visualize the blocks (used and free) as separate from the nodes that manage the blocks. 
+It helps to visualize the blocks (used and free) as separate from the nodes that manage the blocks (metadata). The nodes would contain a pointer to the block, the size of the block, whether the block is used or not, and a couple of pointers to allow the nodes to be hooked into a doubly linked list. A doubly linked list seems a bit complex, but there are points where you will need to check the previous and next blocks to see if they are free and can be coalesced with the current block. For example, if you have free, used, free blocks and then you free the used block you have free, free, free. These blocks can be colalsced inot one free block.  
 
 Note that, in the diagram, a `free()` has meant that there are two contiguous free blocks that can be coalesced into one free block, thus helping to avoid memory fragmentation.
 
