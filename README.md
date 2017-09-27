@@ -3,8 +3,16 @@
 TODO:
 
 * Ant Allocator - simple memory allocator
-* Dita2html - rising pheonix-like from the ashes of DitaShark
+* DitaShark - clean up
 * MCDS - clean up
 * DitaShark - clean up
+
+Notes:
+
+* powerline - using in terminal you need to install patched fonts
+
+
+
+
 
 
