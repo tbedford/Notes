@@ -6,6 +6,8 @@ TODO:
 * DitaShark - clean up project
 * MCDS - clean up project
 * Start blog via GitHub pages
+* Move public writing into repo (off cloud)
+* Move personal writing into private repo
 
 Notes:
 
