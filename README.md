@@ -3,9 +3,9 @@
 TODO:
 
 * Ant Allocator - simple memory allocator
-* DitaShark - clean up
-* MCDS - clean up
-* DitaShark - clean up
+* DitaShark - clean up project
+* MCDS - clean up project
+* Start blog via GitHub pages
 
 Notes:
 
