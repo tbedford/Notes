@@ -9,7 +9,7 @@ TODO:
 
 Notes:
 
-* powerline - using in terminal you need to install patched fonts
+* powerline - using in terminal you need to install patched fonts. Plus you need to select the font for the terminal to use.
 
 
 
