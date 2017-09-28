@@ -2,12 +2,12 @@
 
 TODO:
 
-* Ant Allocator - simple memory allocator
-* DitaShark - clean up project
-* MCDS - clean up project
-* Start blog via GitHub pages
-* Move public writing into repo (off cloud)
-* Move personal writing into private repo
+1. Ant Allocator - simple memory allocator
+2. DitaShark - clean up project
+3. MCDS - clean up project
+4. Start blog via GitHub pages
+5. Move public writing into repo (off cloud)
+6. Move personal writing into private repo
 
 Notes:
 
