@@ -193,6 +193,24 @@ entropy: 6.942515
 bash-3.2$
 ```
 
-You can see there is a slight mathematicl 'glitch'.
+You can see there is a slight mathematical 'glitch'. This can be fixed
+with the `ceil()` function, which basically rounds up to the nearest
+integer:
 
+``` C
+double log2x = ceil(log10(x)/log10(2));
+```
+
+Ah, but hang on, it looks like the formula might be wrong:
+
+``` Bash
+bash-3.2$ ./to_binary 4
+Entropy Bits: 3
+00000100
+bash-3.2$ ./entropy 4
+entropy: 2.000000
+bash-3.2$ 
+```
+
+We'll need to look into that a bit more ...
 
