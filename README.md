@@ -14,13 +14,27 @@ here until I find a better place for them.
 
 ## Notes
 
-* powerline - using in terminal you need to install patched fonts. Plus you need to select the font for the terminal to use.
+* powerline - using in terminal you need to install patched
+  fonts. Plus you need to select the font for the terminal to use.
 
-## Scratchpad
+* I noticed Microsoft are keeping all their .NET docs in GitHub now. I
+  think that's a good idea and I need to write something up on that
+  topic.
 
-I was reading something on compression and it mentioned in passing that you can convert from base 10 to base 2 by simply dividing by the base to convert to, and then collecting the remainder digits. So for base 10 to base 2 conversion you simply keep dividing by two and collecting the remainders. I'd never heard of that before, so I had to try it out in code immediately, as it seemed like magic. I spent a few minutes coming up with some code to test it out and yes, it works! 
+## Scratchpad (a brain dump in progress)
 
-It seems like the sort of thing that should be doable in 3 lines or so, but my version is a bit long winded. It also seems like it should be amenable to recursion too. I'll come back to it at some point, but had to prove to myself that it worked.
+I was reading something on compression and it mentioned in passing
+that you can convert from base 10 to base 2 by simply dividing by the
+base to convert to, and then collecting the remainder digits. So for
+base 10 to base 2 conversion you simply keep dividing by two and
+collecting the remainders. I'd never heard of that before, so I had to
+try it out in code immediately, as it seemed like magic. I spent a few
+minutes coming up with some code to test it out and yes, it works! I
+then went off on a bit of a tangent...
+
+It seems like the sort of thing that should be doable in 3 lines or
+so, but my version is a bit long winded. It also seems like it should
+be amenable to recursion too. Anyway, here's some noddy code:
 
 ```C
 #include <stdio.h>
@@ -76,7 +90,10 @@ int main (int argc, char **argv)
     return 0;
 }
 ```
-It's then possible to take this silliness a step further and add a little tweak to tell us how many bits are required to code a number. This is the entropy of a number:
+
+It's then possible to take this silliness a step further and add a
+little tweak to tell us how many bits are required to code a
+number. This is the entropy of a number:
 
 ```C
 #include <stdio.h>
@@ -213,4 +230,13 @@ bash-3.2$
 ```
 
 We'll need to look into that a bit more ...
+
+But it can be fixed easily enough like this:
+
+``` C
+double log2x = ceil(log10(x+1)/log10(2));
+```
+
+So, as per Shannon's law, the entropy of x is log2(x), and you use the
+formula to work that out.
 

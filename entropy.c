@@ -14,7 +14,7 @@ int main (int argc, char **argv)
     
     double x = atof(argv[1]);;
 
-    double log2x = ceil(log10(x)/log10(2));
+    double log2x = ceil(log10(x+1)/log10(2));
 
     printf ("entropy: %f\n", log2x);
     
