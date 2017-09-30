@@ -1,6 +1,9 @@
 # Notes
 
-TODO:
+Here is a collection of random notes/code samples that I will keep
+here until I find a better place for them.
+
+## TODO
 
 1. Ant Allocator - simple memory allocator
 2. DitaShark - clean up project
@@ -9,11 +12,11 @@ TODO:
 5. Move public writing into repo (off cloud)
 6. Move personal writing into private repo
 
-Notes:
+## Notes
 
 * powerline - using in terminal you need to install patched fonts. Plus you need to select the font for the terminal to use.
 
-Scratchpad:
+## Scratchpad
 
 I was reading something on compression and it mentioned in passing that you can convert from base 10 to base 2 by simply dividing by the base to convert to, and then collecting the remainder digits. So for base 10 to base 2 conversion you simply keep dividing by two and collecting the remainders. I'd never heard of that before, so I had to try it out in code immediately, as it seemed like magic. I spent a few minutes coming up with some code to test it out and yes, it works! 
 
