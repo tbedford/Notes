@@ -153,6 +153,43 @@ Entropy Bits: 5
 bash-3.2$
 ```
 
+There is a mathematical formula for calculating entropy. The following
+code shows this formula in action:
 
+``` C
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+
+int main (int argc, char **argv)
+{
+
+    if (argc == 1)
+    {
+        printf("Example usage: entropy 123\n");
+        exit(-1);
+    }
+
+    
+    double x = atof(argv[1]);;
+
+    double log2x = log10(x)/log10(2);
+
+    printf ("entropy: %f\n", log2x);
+    
+    return 0;
+}
+```
+You can then compare the output between the two programs:
+
+``` Bash
+bash-3.2$ ./to_binary 123
+Entropy Bits: 7
+bash-3.2$ ./entropy 123
+entropy: 6.942515
+bash-3.2$
+```
+
+You can see there is a slight mathematicl 'glitch'.
 
 
