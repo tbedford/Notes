@@ -21,6 +21,9 @@ here until I find a better place for them.
   think that's a good idea and I need to write something up on that
   topic.
 
+* Neocities.org - a real throw back. Wonderful idea and there's some
+  real creativity there. 
+
 ## Scratchpad (a brain dump in progress)
 
 I was reading something on compression and it mentioned in passing

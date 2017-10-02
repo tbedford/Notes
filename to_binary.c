@@ -55,7 +55,7 @@ int main (int argc, char **argv)
     clear_array(bin_array);
     to_binary(bin_array, atoi(argv[1]));
     print_array(bin_array);
-    
+
     return 0;
 }
 
