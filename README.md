@@ -24,6 +24,18 @@ here until I find a better place for them.
 * Neocities.org - a real throw back. Wonderful idea and there's some
   real creativity there. 
 
+* [Excellent talk on Rust and Concurrency by David
+  Sullins](https://www.youtube.com/watch?v=oIikwmeGVYY). As a
+  programmer it's really important to understand concepts of
+  Resources, Ownership, Lifetime, Scope - and this is critical in a
+  concurrent context. One minor point, scope is not necessarily the
+  same thing as lifetime, at least in C (you can have a static
+  varaible in a function with global lifetime but local scope).
+
+* [Kavya Joshi on Keeping Time in Real
+  Systems](https://youtu.be/BRvj8PykSc4). Great talk on clocks and
+  clock synchronization in distributed systems.
+  
 ## Scratchpad (a brain dump in progress)
 
 I was reading something on compression and it mentioned in passing
