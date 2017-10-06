@@ -142,6 +142,26 @@ It works fine, but there's a couple of problems:
    of a no-no in a large codebase.
 2. What other useful checks might I do in the fake malloc call?
 
+You can build and run with:
+
+``` Bash
+clang -ldl fake_malloc.c -o test
+./test
+```
+
+You do get a warning though when you compile. The system knows enough
+to know that changing `malloc(size_t)` to `malloc(size_t, ...)` is
+probably a dodgy thing to do: 
+
+``` Bash
+fake_malloc.c:5:7: warning: incompatible redeclaration of library function
+      'malloc' [-Wincompatible-library-redeclaration]
+```
+
+The code runs though.
+
+It also worked without the `-ldl` option. 
+
 So, a work in progress. Maybe it's time to learn Valgrind?
    
 
