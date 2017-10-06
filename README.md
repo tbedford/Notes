@@ -26,6 +26,8 @@ dots of course.
 
 ## Notes
 
+* grip README.md --export --no-inline index.html
+
 * (Web tier, app tier, database tier) x N these days
 
     - Provision
