@@ -1,8 +1,19 @@
 # Notes
 
 Here is a collection of random notes/code samples that I will keep
-here until I find a better place for them.
-    
+here until I find a better place for them. I hope to have a website
+up and running soon where a lot of this stuff can go.
+
+## Contact
+
+My email is:
+
+``` Bash
+tony.bedford_NOSPAM AT live DOT co DOT uk
+```
+
+You will need to remove the _NOSPAM and replace the DOTs by actual
+dots of course.
 
 ## TODO
 
@@ -65,7 +76,32 @@ The approach I took, which I think is quite common, is to interject
 a fake malloc which does my tracing and possible other clever stuff, 
 before calling the real `malloc()`. 
 
-Here's what I came up with:
+My first attempt used functions pointers and was an epic fail. I created
+a `fake_malloc()` and the idea was to do this:
+
+1. Set a function pointer `real_malloc` with `malloc`. `real_malloc` now
+   points at `malloc` - if you call `real_malloc()`, `malloc()` actually gets
+   called. This bit worked fine.
+2. Create a new function `fake_malloc` which has my tracing in it. 
+3. Set `malloc = fake_malloc`, so that whereever I have `malloc` my 
+   `fake_malloc` would actually get called. I couldn't get this to work. 
+   The compiler doesn't like you assigning something to `malloc` - even
+   a function pointer.
+   
+I then tried another approach where I tried to #define malloc to
+fake_malloc, but I couldn't quite get the syntax right to make this
+work. Does anyone out there know?
+
+So, after a bit of reading on Stack Overflow I discovered there are
+another couple of cool ways you can do this. The first was using GCC's
+--wrap=malloc option. This allows you to wrap any function with a
+wrapper function of your own design. But, this only works for GCC. I'm
+using `clang` on Mac and I couldn't find a similar option.
+
+Anyway, I ended up modifiying something on Stack Overflow which seemed
+to work fine on Mac.
+
+Here's what I used:
 
 ``` C
 #define _GNU_SOURCE
