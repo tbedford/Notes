@@ -26,6 +26,35 @@ dots of course.
 
 ## Notes
 
+* (Web tier, app tier, database tier) x N these days
+
+    - Provision
+    - Configure
+    - Deploy
+
+* NAT rewrites packet data but not application data (that may contain
+  device network details).
+
+* I didn't know this really basic thing - the following address
+  ranges are for private use only!
+
+    - 10.0.0 to 10.255.255.255
+    - 172.16.0.0 to 172.31.255.255
+    - 192.168.0.0 to 192.168.255.255 
+
+These are forbidden from being routed over the public Internet! How
+did I not know that!?
+
+* Python libraries:
+  - [Standard libraries](https://docs.python.org)
+  - [Third-party](https://pypi.python.org)
+
+* sudo less /etc/services - lists well-known ports. For example:
+
+``` Bash
+sudo less /etc/services | grep mysql
+```
+
 * powerline - using in terminal you need to install patched
   fonts. Plus you need to select the font for the terminal to use.
 
@@ -41,6 +70,12 @@ dots of course.
 ## Presentations
 
 Some recently watched presentations:
+
+* [Python, Fabric, Ansible by Tim
+  Henderson](https://www.youtube.com/watch?v=4qav2EuXsGU) Not many
+  presentations start with a poem, but this one does and it's
+  great. Very good presenter who speaks clearly and at the right
+  pace. Very useful presentation on managing systems.
 
 * [Excellent talk on Rust and Concurrency by David
   Sullins](https://www.youtube.com/watch?v=oIikwmeGVYY). As a
@@ -63,6 +98,8 @@ Some recently watched presentations:
   this talk! One of the best presenters I've seen in a while.
   
 ## Scratchpad (or a brain dump in progress)
+
+## Simple memory allocation debugging
 
 Having written the basis of a simple memory allocator, I was thinking
 about debugging memory allocations. Of course there are various tools
@@ -165,7 +202,29 @@ It also worked without the `-ldl` option.
 So, a work in progress. Maybe it's time to learn Valgrind?
    
 
-xxx
+## Threads vs event-driven (brief notes)
 
-Brain malfunction ...
+Event-driven is essentially:
+
+1. Single-threaded
+2. Non-blocking (asynchronous)
+3. Has event loop
+
+There are various ways event-driven software can be implemented.
+
+Example - for an asynchronous read:
+
+1. Main app sets up callback handlers to handle various 
+   events of interest.
+2. Perform reada(...) return immediately.
+3. Main loop then sleeps (to conserve CPU/battery resource). 
+4. I/O operation (reada()) completes and registered callback is invoked.
+5. Callback runs and returns to main code.
+
+Example - event polling from main loop
+
+1. Main app sets up callback handlers to handle various 
+   events of interest.
+2. Main loop polls for events.
+3. When event is received the corresponding event handler is invoked.
 
