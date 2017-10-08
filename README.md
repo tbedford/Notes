@@ -17,16 +17,26 @@ dots of course.
 
 ## TODO
 
-1. Ant Allocator - simple memory allocator
+1. Ant Allocator - simple memory allocator + article
 2. DitaShark - clean up project
 3. MCDS - clean up project
 4. Start blog via GitHub pages
 5. Move public writing into repo (off cloud)
 6. Move personal writing into private repo
+7. Data munging in Python article
 
 ## Notes
 
-* grip README.md --export --no-inline index.html
+* Markdown converter:
+
+``` shell
+brew install npm
+npm install markdown-to-html -g
+```
+
+* `grip README.md --export --no-inline index.html` - This could be
+  post-processed with a little Python to make the basis of a really
+  simple static website generator (from GFM source).
 
 * (Web tier, app tier, database tier) x N these days
 
