@@ -8,7 +8,7 @@ up and running soon where a lot of this stuff can go.
 
 My email is:
 
-``` Bash
+``` shell
 tony.bedford_NOSPAM AT live DOT co DOT uk
 ```
 
@@ -17,13 +17,9 @@ dots of course.
 
 ## TODO
 
-1. Ant Allocator - simple memory allocator + article
-2. DitaShark - clean up project
-3. MCDS - clean up project
-4. Start blog via GitHub pages
-5. Move public writing into repo (off cloud)
-6. Move personal writing into private repo
-7. Data munging in Python article
+1. Ant Allocator - simple memory allocator + article ONGOING
+2. DitaShark - ARCHIVED
+3. MCDS - ARCHIVED
 
 ## Notes
 
@@ -63,7 +59,7 @@ did I not know that!?
 
 * sudo less /etc/services - lists well-known ports. For example:
 
-``` Bash
+``` shell
 sudo less /etc/services | grep mysql
 ```
 
