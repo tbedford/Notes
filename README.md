@@ -23,6 +23,18 @@ dots of course.
 
 ## Notes
 
+* This site is LEGEND:
+
+- [TurboDOS](http://www.cpm8680.com/turbodos/)
+
+When I started work in 1984 the office computer system consisted of a
+Northstar Horizon running TurboDOS feeding about half a dozen serial
+lines connected the dumb terminals. The terminals were green
+screens. We were running Wordstar and Supercalc and Dbase. When the
+system was updated in around 1986 the terminals were colour and I was
+literally hopping around the room in excitement - I thought *that* was
+soooo cool. Great to see this fantastic site!
+
 * Markdown converter:
 
 ``` shell
@@ -78,6 +90,36 @@ sudo less /etc/services | grep mysql
 ## Presentations
 
 Some recently watched presentations:
+
+* [Deconstructing the OS](https://www.youtube.com/watch?v=h7D88U-5pKc)
+  Absolutely brilliant talk by Alfred Bratterud. Alfred is a great
+  presenter and this is a wonderful talk. Say what you like about the
+  old DOS days but you _were_ in control of your system. You could
+  write directly to the hardware (get a pointer to VGA memory, put a
+  byte, and yay a pixel in one of 256 colours). Of course with that
+  power came a certain danger. If a pointer went awry you could bring
+  your system down. With a single (protected) address space that is
+  less likely. DOS DPMI was the "protected mode" - you could have a
+  crash control handler that would get invoked if your code started to
+  write to places it shouldn't. Some of the "demoscene" demoes had
+  built-in crash protection handlers, which was pretty cool. On DOS
+  you could access hardware directly, and do things like intercept
+  timer interrupts, reprogram the CTC, read and write various ports
+  and so on. I do like the idea of Microkernels which this talk is
+  about. Definitely one worth watching.
+  
+* [Unicode strings](https://www.youtube.com/watch?v=ysh2B6ZgNXk)
+  Interesting presentation. Interesting that U+21B4 requires three
+  bytes if encoded in UTF-8 and only two bytes with UTF-16 - which
+  explains why UTF-16 is commonly used for non-latin (e.g. Japanese)
+  character encoding - it's a lot more efficient at encoding those
+  non-latin characters. I think what they are doing with
+  [CopperSpice](http://www.copperspice.com/index.html) is also
+  interesting. It's amazing the state (i.e. mess) of many legacy
+  libraries when it comes to encodings. Also have a [YouTube
+  channel](https://www.youtube.com/copperspice). Documentation on
+  [string
+  terminology](http://www.copperspice.com/docs/cs_string/overview_terminology.html).
 
 * [Python, Fabric, Ansible by Tim
   Henderson](https://www.youtube.com/watch?v=4qav2EuXsGU) Not many
