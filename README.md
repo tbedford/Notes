@@ -12,6 +12,40 @@ up and running soon where a lot of this stuff can go.
 
 ## Notes
 
+* Single process with single address space shared with kernel. While
+it may sound "dodgy" there are advantages to having a single address
+space containing the main process and possibly threads, as well as the
+kernel, all sharing the same address space:
+
+1. You no longer need to copy (potentially) large chunks of data from
+   one address space to another. You can simply pass a pointer around.
+2. Switching between threads (lightweight processes) is much lower
+   overhead than switching between memory protected (heavyweight)
+   processes.
+3. The memory manager is a lot simpler (and faster).
+
+
+* Intel calling conventions (32-bit):
+
+Caller:
+  1. Push EAX, ECX, EDX
+  2. Push arguments in reverse order
+  3. Execute `call` (pushes return address onto stack).
+
+Callee:
+  1. Push EBP, EBX, EDI, ESI
+  2. Push space for local variables
+  3. Set EBP and ESP
+  4. Return (and pop off the stack).
+
+* Made a little progress on the "website". This is interesting though:
+
+https://tools.pingdom.com/#!/bg1kRA/https://coffeeandcode.neocities.org
+
+The bulk of the processing is for the very simple stylesheet and the
+syntax colouring library. The syntax colouring is an annoying
+overhead - but probably worth it. 
+
 * It started with a simple question "I wonder what system calls
   RocksDB uses?" So by system calls I really mean library calls, which
   in turn call down to into the kernel (via syscalls) at some point
@@ -79,38 +113,6 @@ Surely there must be a better way?
 
 I did find the [kernel grok site](http://syscalls.kernelgrok.com)
 though. Very cool, but not quite what I was looking for.
-
-
-* Thinking about Rust. First here's some C code:
-
-``` C
-#include<stdlib.h>
-
-void my_func (int *ptr)
-{
-    free (ptr);
-}
-
-int main (int argc, char **argv)
-{
-
-    int *p = malloc (1024);
-
-    my_func(p);
-
-    *p = 1234;    
-        
-    return 0;
-}
-```
-
-Can you see the problem? With clang this compiles and actually runs
-without error. The most likely reason it doesn't crash is because we
-only just freed up that memory so nothing else is using it. If that
-memory was in use we have potential data corruption or a crash. Of
-course you could argue if you do stupid things like the above what do
-you expect? This is true. It would be nice if the compiler caught such
-problems. Could Rust do it better?
 
 * Markdown converter:
 
