@@ -4,17 +4,6 @@ Here is a collection of random notes/code samples that I will keep
 here until I find a better place for them. I hope to have a website
 up and running soon where a lot of this stuff can go.
 
-## Contact
-
-My email is:
-
-``` shell
-tony.bedford_NOSPAM AT live DOT co DOT uk
-```
-
-You will need to remove the _NOSPAM and replace the DOTs by actual
-dots of course.
-
 ## TODO
 
 1. Ant Allocator - simple memory allocator + article ONGOING
@@ -23,17 +12,105 @@ dots of course.
 
 ## Notes
 
-* This site is LEGEND:
+* It started with a simple question "I wonder what system calls
+  RocksDB uses?" So by system calls I really mean library calls, which
+  in turn call down to into the kernel (via syscalls) at some point
+  (e.g. `sys_open`).  I couldn't think of a good way - you can grep
+  for the usual suspects. Then I was thinking I could do something in
+  Python and here's what I came up with in about five minutes:
+  
+``` python
+#!/usr/bin/env python
 
-- [TurboDOS](http://www.cpm8680.com/turbodos/)
+import fileinput
+import re
+import os
 
-When I started work in 1984 the office computer system consisted of a
-Northstar Horizon running TurboDOS feeding about half a dozen serial
-lines connected the dumb terminals. The terminals were green
-screens. We were running Wordstar and Supercalc and Dbase. When the
-system was updated in around 1986 the terminals were colour and I was
-literally hopping around the room in excitement - I thought *that* was
-soooo cool. Great to see this fantastic site!
+calls = [
+    r'open[\s]*?\([\s\S]*?\);',
+    r'fopen[\s]*?\([\s\S]*?\);',
+    r'read[\s]*?\([\s\S]*?\);',
+    r'write[\s]*?\([\s\S]*?\);',
+    r'sys_[\S]*?\([\s\S]*?\);'
+]
+
+def find_call (s, t, filename):
+    m = re.search (s, t)
+    if m:
+        print ("File: "+filename)
+        print (m.group(0))
+
+
+# Read filename from stdin
+for filename in fileinput.input():
+    
+    # chomp
+    filename = filename.rstrip()
+    
+    # open file
+    fin = open (filename, 'r')
+
+    # Grab all of the things
+    things = fin.read()
+
+    # Search for system/library calls
+    for call in calls:
+        find_call(call, things, filename)
+    
+    # close down open files
+    fin.close()
+``` 
+  
+I could then run this like:
+
+``` shell
+find ../rocksdb -name "*.cc" | ./syscalls.py
+```
+  
+This is obviously not a very good way to do it. But it does seem like
+a thing you would want to know. 
+
+A couple of other ways seem a bit tedious:
+
+1. Manually grep through the code.
+2. Use GDB to set a breakpoint and then step into the code (this seems especially tedious)
+
+Surely there must be a better way?
+
+I did find the [kernel grok site](http://syscalls.kernelgrok.com)
+though. Very cool, but not quite what I was looking for.
+
+
+* Thinking about Rust. First here's some C code:
+
+``` C
+#include<stdlib.h>
+
+void my_func (int *ptr)
+{
+    free (ptr);
+}
+
+int main (int argc, char **argv)
+{
+
+    int *p = malloc (1024);
+
+    my_func(p);
+
+    *p = 1234;    
+        
+    return 0;
+}
+```
+
+Can you see the problem? With clang this compiles and actually runs
+without error. The most likely reason it doesn't crash is because we
+only just freed up that memory so nothing else is using it. If that
+memory was in use we have potential data corruption or a crash. Of
+course you could argue if you do stupid things like the above what do
+you expect? This is true. It would be nice if the compiler caught such
+problems. Could Rust do it better?
 
 * Markdown converter:
 
