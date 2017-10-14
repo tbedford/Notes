@@ -20,9 +20,23 @@ Projects I can do late at night:
 
 - Custom Emacs key bindings
 - C colour printf
+- A nice project idea: profile assets for a game: you generate a
+  histogram of asset sizes. Could for example just try it on the Doom
+  WAD and Quake PAK files
 
 
 ## Notes
+
+# Ever expanding Playstation memory
+
+| Model         | Year   |  RAM (MB) | VRAM (MB) 
+|---------------|:------:|:----------|:---------
+| Playstation 1 |  1994  | 2         | 1 
+| Playstation 2 |  2000  | 32        | 4 
+| Playstation 3 |  2006  | 256       | 256 
+| Playstation 4 |  2013  | 8000      | 256
+| Playstation 5 |  2020? |  ??       | ??
+
 
 # Diving into the buffer pool
 
