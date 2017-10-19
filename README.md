@@ -25,7 +25,108 @@ Projects I can do late at night:
   WAD and Quake PAK files
 
 
+
+John Lakos
+Memory allocators
+https://www.youtube.com/watch?v=nZNd5FjSquk
+
+
+
 ## Notes
+
+Static allocation in program code. 
+
+``` C
+typedef {unsigned char} byte;
+
+memory_sz = 4 // MB
+
+byte memory[memory_sz * 1024 * 1024]
+```
+
+Memory can then be accessed through array indexes.
+
+An allocated memory block would then need to contain:
+
+- index
+- size (in bytes)
+
+Free blocks would need the same info.
+
+These memory blocks could be stored in another memory area, such as
+another array. Wasteful but very simple.
+
+So, with this approach you would give back a "handle" which is an
+index into an array of memory blocks. The memory block data structure
+would have an index and size into the main memory area.
+
+You could then add allocated blocks to an allocated list and
+freed blocks to a freed list
+
+Look into Stack allocators
+- Simple
+- Downside you don't have arbitrary free
+- Rollback marker 
+
+Double-ended stack allocators
+- bottom used for level allocations
+- top used for temporary allocations freed every frame
+- Hydro Thunder used this
+
+Worth implementing a double-ended stack allocator class.
+
+Follow up / update to pool allocators - I forgot to mention one big
+advantage : no fragmentation!
+
+Single-frame allocators
+Double-buffered allocators
+
+Aside: does anyone remember disk defragmenters? They were quite
+commonly used on DOS machines.
+
+Worth doing a little implementation for handle-based memory
+allocation:
+
+handle = ant_alloc (size_t size)
+bool ant_free (handle)
+
+Also need to do an application memory pool implementation in C and
+C++.
+
+Defragmenting allocator is feasible if you amortize the cost over
+multiple frames.
+
+Implement an extendable array:
+- allocate new array of new required size
+- copy data cross (in an optimized manner - use asm?)
+- destroy the original array 
+
+NOTE: when you grow the array do so by a reasonable amount e.g. double
+it.
+
+Aside: If you have two processes and one sends a message to the other
+if you use a doubly-linked list (queue) and process 1 adds to head and
+process 2 removes from tail then I don't believe any locking of the
+list structure would be required. Would have to think through how this
+is different to using mailboxes.
+
+I'm thinking "local allocators" are basically application-level
+allocators.
+
+Implement a circular list (doubly-linked).
+
+
+# Elephant in the room - Go's garbage collector
+
+Some thoughts on how the use of a garbage collector impacts on
+Go's potential.
+
+# Big O Notation
+
+O(1) constant time. For example, adding a node to the beginning of a
+list is a constant time operation. Walking a list is not a constant
+time operation because the duration of the operation would depend on
+how many items in the list.
 
 # Ever expanding console memory
 
