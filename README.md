@@ -11,28 +11,56 @@ up and running soon where a lot of this stuff can go.
    - Attempt 2 complete and documented. 
        - Requires more testing code.
        - Documentationneeds cleanup/editing.
-2. DitaShark - ARCHIVED
-3. MCDS - ARCHIVED
 
-## Midnight code
+## Notes
 
-Projects I can do late at night:
+Notes on strings:
 
-- Custom Emacs key bindings
-- C colour printf
-- A nice project idea: profile assets for a game: you generate a
-  histogram of asset sizes. Could for example just try it on the Doom
-  WAD and Quake PAK files
+* strcmp() is slow. Faster way: hash a string, hash another string,
+then, when you need to compare, compare the hashes.
 
+* Do the hash before run time if possible.
+
+* CRC32 possible hashing algorithm.
+
+
+Simple memory leak detector
+
+depends on trace file:
+
+    malloc:0x12345678:n bytes:__FILE__:__LINE__
+    ...
+    free:0x12345678:__FILE__:__LINE__
+    ...
+
+Process the trace file in an efficient way so that you match up
+mallocs and frees. Every malloc should have a corresponding free.
 
 
 John Lakos
 Memory allocators
 https://www.youtube.com/watch?v=nZNd5FjSquk
 
+Shocked to see this:
 
+http://www.cplusplus.com/reference/cuchar/
 
-## Notes
+I thought the world was moving to UTF-8?
+
+More trouble with C pointers:
+
+``` C
+int * my_func ()
+{
+    int *p;
+    int my_array[1024];
+    
+    p = my_array;
+    
+    return p;
+} // my_array destroyed (was local on stack). p points to something that
+  // no longer exists - should this be a compile time error?
+```
 
 Static allocation in program code. 
 
