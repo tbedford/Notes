@@ -14,6 +14,58 @@ up and running soon where a lot of this stuff can go.
 
 ## Notes
 
+
+---
+- Buffered I/O = Stream I/O
+    fopen, f*
+- Unbuffered I/O = Low-level I/O
+    open, close, read, write etc.
+
+Tracing data into a file can be a bit of an overhead in a game. You
+can get around this by creating your own buffer and using the
+low-level I/O routines. When the buffer is full you write it out to
+the filesystem/disk. You can put the dump procedure on its own thread.
+
+- Synchronous I/O
+- Asynchronous I/O
+
+File loading:
+- Seek time
+- Time to Open file 
+- Time to read data into memory
+
+Due to these times game resources are often packed into a single file,
+which reduces all three of the above.
+
+Compressed data loads faster into memory as it is smaller. Yes, it
+needs to be decompressed, but decompression times would be small
+relative to disk access times. Note both PS4 and XBox One do *not* use
+SSDs - so spinning lumps of magentized metal is still the norm
+there. Note this is even more true for DVD and BluRay drives which are
+very slow.
+
+---
+
+Stack-based allocator. Interesting. You would do something like this:
+
+1. Load global data (think of it as game static)
+2. Mark the stack point A
+3. Load level 1
+4. Mark the stack point B
+
+At end of level 1:
+
+1. Reset marker to A
+2. Load level 2
+3. Mark stack pointer C
+
+etc.
+
+This assumes all data for a level can fit on a stack. It also assumes
+you are OK with a "level loading" message at the beginning of each
+level.
+
+---
 Notes on strings:
 
 * strcmp() is slow. Faster way: hash a string, hash another string,
