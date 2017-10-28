@@ -15,6 +15,7 @@ up and running soon where a lot of this stuff can go.
 ## Notes
 
 
+
 ---
 - Buffered I/O = Stream I/O
     fopen, f*
@@ -207,24 +208,6 @@ O(1) constant time. For example, adding a node to the beginning of a
 list is a constant time operation. Walking a list is not a constant
 time operation because the duration of the operation would depend on
 how many items in the list.
-
-# Ever expanding console memory
-
-| Model         | Year   |  RAM (MB) | VRAM (MB) 
-|---------------|:------:|:----------|:---------
-| Playstation 1 |  1994  | 2         | 1 
-| Playstation 2 |  2000  | 32        | 4 
-| Playstation 3 |  2006  | 256       | 256 
-| Playstation 4 |  2013  | 8000      | 256
-| Playstation 5 |  2020? |  ??       | ??
-
-
-| Model         | Year   |  RAM (MB) | VRAM (MB) 
-|---------------|:------:|:----------|:---------
-| Xbox          |  2001  | 64        | ? 
-| Xbox 360      |  2005  | 512       | ? 
-| Xbox One      |  2013  | 8000      | ?
-| Xbox One X    |  2017  | 12000     | ?
 
 
 * Single process with single address space shared with kernel. While
