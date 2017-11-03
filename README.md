@@ -6,15 +6,45 @@ up and running soon where a lot of this stuff can go.
 
 ## TODO
 
-1. Ant Allocator - simple memory allocator + article ONGOING
-   - Attempt 1 complete
-   - Attempt 2 complete and documented. 
-       - Requires more testing code.
-       - Documentationneeds cleanup/editing.
+TBD
 
 ## Notes
 
+Using Doxygen to analyze RocksDB:
 
+1. brew update
+2. brew install doxygen
+3. doxygen --help
+4. doxygen -g     (generates Doxyfile)
+5. emacs Doxyfile
+6. Set EXTRACT_ALL, EXTRACT_PRIVATE, RECURSIVE, HAVE_DOT, CALL_GRAPH, CALLER_GRAPH to YES
+7. doxygen Doxyfile
+8. Put kettle on
+9. Browser -> index.html in html directory
+
+
+Databases
+
+Important to note, heavy write access patterns require a completely
+different mindset, and database technology, to heavy read access. The
+days of "one size (MySQL) fits all" are long gone. At web scale heavy
+write use requires a different technology to the relational model.
+
+---
+Could be useful at some point:
+
+https://en.wikipedia.org/wiki/Apache_Portable_Runtime
+
+See also:
+
+https://en.wikipedia.org/wiki/Memory_pool
+
+
+PAXOS -> [RAFT](https://en.wikipedia.org/wiki/Raft_(computer_science))
+
+Problem with some database as a service providers - Lock in!
+
+[DuckDuckGo video (architecture)](https://www.youtube.com/watch?v=-IIE6IWi3-M)
 
 ---
 - Buffered I/O = Stream I/O
