@@ -9,6 +9,6 @@ import re
 
 str = "This 2017-12-01 string contains a date 2017-11-08 but can we find it?"
 
-result = re.sub (r'(\d\d\d\d-[0-1][1-9]-[0-3][1-9])', r'<span class="date">\1</span>', str) 
+result = re.sub (r'(\d\d\d\d-[0-1][0-9]-[0-3][0-9])', r'<span class="date">\1</span>', str) 
 
 print (result)
