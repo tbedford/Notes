@@ -6,6 +6,21 @@ up and running soon where a lot of this stuff can go.
 
 ## Notes
 
+To generate UUID on command line use:
+
+``` shell
+uuidgen
+```
+
+Python:
+
+``` python
+import uuid
+uuid.uuid4()
+```
+
+UUID('5361a11b-615c-42bf-9bdb-e2c3790ada14')
+
 Need an article of parsing ISO-8601 date and time.
 
 Worth scraping at some point?:
