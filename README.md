@@ -4,11 +4,14 @@ Here is a collection of random notes/code samples that I will keep
 here until I find a better place for them. I hope to have a website
 up and running soon where a lot of this stuff can go.
 
-## TODO
-
-TBD
-
 ## Notes
+
+Need an article of parsing ISO-8601 date and time.
+
+Worth scraping at some point?:
+
+http://web.archive.org/web/20061008122852/http://www.diveintomark.org:80/archives/
+http://web.archive.org/web/20090403051532/http://diveintomark.org/archives
 
 Using Doxygen to analyze RocksDB:
 
