@@ -6,6 +6,28 @@ up and running soon where a lot of this stuff can go.
 
 ## Notes
 
+Getting an ISO-8601 date/time:
+
+date -u +"%Y-%m-%dT%H:%M:%SZ"
+
+Output:
+
+2011-08-27T23:22:37Z
+
+or
+
+date +%Y-%m-%dT%H:%M:%S%z
+
+Output:
+
+2011-08-27T15:22:37-0800
+
+From:
+
+https://stackoverflow.com/questions/7216358/date-command-on-os-x-doesnt-have-iso-8601-i-option#7216394
+
+
+
 To generate UUID on command line use:
 
 ``` shell

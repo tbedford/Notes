@@ -1,0 +1,2193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom'
+      xmlns:thr='http://purl.org/syndication/thread/1.0'
+      xml:lang='en-us'>
+ <title>ongoing by Tim Bray</title>
+ <link rel='hub' href='http://pubsubhubbub.appspot.com/' />
+ <id>https://www.tbray.org/ongoing/</id>
+ <link href='https://www.tbray.org/ongoing/' />
+ <link rel='self' href='https://www.tbray.org/ongoing/ongoing.atom' />
+ <link rel='replies'       thr:count='101'       href='https://www.tbray.org/ongoing/comments.atom' />
+ <logo>rsslogo.jpg</logo>
+ <icon>/favicon.ico</icon>
+ <updated>2017-11-05T09:34:32-08:00</updated>
+ <author><name>Tim Bray</name></author>
+ <subtitle>ongoing fragmented essay by Tim Bray</subtitle>
+ <rights>All content written by Tim Bray and photos by Tim Bray Copyright Tim Bray, some rights reserved, see /ongoing/misc/Copyright</rights>
+ <generator uri='/misc/Colophon'>Generated from XML source code using Perl, Expat, Emacs, Mysql, Ruby, Java, and ImageMagick.  Industrial-strength technology, baby.</generator>
+
+<entry>
+ <title>Vintage Nauticals</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/11/04/Vintage-Nauticals' />
+ <link rel='replies'        thr:count='1'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/11/04/Vintage-Nauticals#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/11/04/Vintage-Nauticals</id>
+ <published>2017-11-04T12:00:00-07:00</published>
+ <updated>2017-11-05T09:34:30-08:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Photos' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Photos' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World/Places/Howe Sound' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Places' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Howe Sound' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>We keep <a href='/ongoing/When/201x/2012/08/26/There-and-back'>our boat</a>  at <a href='https://en.wikipedia.org/wiki/Horseshoe_Bay,_West_Vancouver'>Horse&#xad;shoe Bay</a>, a pret&#xad;ty lit&#xad;tle place when ap&#xad;proached by land. Boaters in&#xad;bound by ocean come face-to-face with a huge an&#xad;tique float/pier/break&#xad;wa&#xad;ter kind of thing, whose ug&#xad;li&#xad;ness I&#x2019;ve long found mag&#xad;nif&#xad;i&#xad;cent and which to&#xad;day I took the time to tour and pho&#xad;tograph.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>We keep
+<a href="/ongoing/When/201x/2012/08/26/There-and-back">our boat</a> at
+<a href="https://en.wikipedia.org/wiki/Horseshoe_Bay,_West_Vancouver">Horseshoe
+Bay</a>, a pretty little place when approached by land. Boaters inbound by ocean
+come face-to-face with a huge antique float/pier/breakwater kind of
+thing, whose ugliness I’ve long found magnificent and which today I took the
+time to tour and photograph.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/11/04/IMG_20171104_121830.png" alt="Vintage Nautical" />
+<div class='caption'><p>Turns out this huge steel thing is afloat, actually;
+here’s how it’s fastened to the land.  Those are <em>big</em> chains and huge
+truck tires.</p></div>
+<p>What happened was, I was out winterizing the boat. Vancouver missed autumn
+this year, snapped over from 18°C Indian-summer to basically zero more or less
+overnight.  Today a few snowflakes drifted down and I was wearing a nontraditional
+Canadian boating toque.  You can see snowflakes in all but one of
+today’s photos, if you look closely.</p>
+<p>I’d neglected my camera and was thus shooting with the Pixel, really
+not much of a handicap for daylight photos when they’re close-ups and big landscapes.
+Here are one of each.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/11/04/IMG_20171104_121857.png" alt="Vintage Nautical" />
+<div class='caption'><p>Wow, this thing is, well, “going back to nature”
+doesn’t feel like the right phrase.  But there’s definitely an entropy
+gradient.</p></div>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/11/04/IMG_20171104_122108.png" alt="Boat approaching Horseshoe Bay" />
+<p>I’ve been using the Lightroom camera app, which is a little on the
+slow side but has nice controls and pulls the raw bits off the sensor, and
+I like the app’s editing primitives.  But in recent weeks it’s
+become unusably crashy<span class='dashes'> —</span> I’ve already
+cleared its data once to no effect<span class='dashes'> —</span> so my
+fallback is the well-regarded native Android Camera app.  It’s quick and the
+pix look good, I have to say.  And while Lightroom claims to be shooting RAW
+and indeed emits DNG’s, they don’t contain anything like the amount of hidden
+potential a good RAW file from a real camera exhibits.  So the native Android
+JPEGs are not making me unhappy.</p>
+<p>I have to shuffle them through DropBox to get them on the Mac so I can
+prettify them with Lightroom; I miss Adobe’s nice smooth mobile/PC sync.
+Anyhow, I thought Lightroom did a nice job on this monochrome.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/11/04/IMG_20171104_121916.png" alt="Vintage Nautical" />
+<p>This float is quite a structure.  It’s not solid, it’s sort of a frame so
+you can look down at the ocean in the middle.  Well, you could, except for
+that piece of water is stacked up with old styrofoam, the kind that’s used to
+make floating docks float.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/11/04/IMG_20171104_122212.png" alt="Vintage Nautical" />
+<div class='caption'><p>This picture isn’t beautiful or anything, but<br/>
+there’s a <em>lot</em> happening, top to bottom, left to right.</p></div>
+<p>As for the boat, I installed its low-level winter heating apparatus, ran
+the engine for a bit, set up support poles to protect the canvas cover from
+heavy snow, 
+and adjusted the lines against winter storms; then went
+for a burger and beer at the waterfront alehouse.</p>
+<p>That’s a satisfying early-winter half-day.</p>
+</div></content></entry>
+
+<entry>
+ <title>Working at Amazon</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/10/26/Working-at-Amazon' />
+ <link rel='replies'        thr:count='9'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/10/26/Working-at-Amazon#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/10/26/Working-at-Amazon</id>
+ <published>2017-10-26T12:00:00-07:00</published>
+ <updated>2017-10-26T23:17:24-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Business/Internet' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Business' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Internet' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>Some&#xad;times when we&#x2019;re try&#xad;ing to hire a se&#xad;nior em&#xad;ploy&#xad;ee, I get asked to do a &#x201c;sell call&#x201d;, tell them what it&#x2019;s like to work here. Since I&#x2019;m com&#xad;ing up on three years and haven&#x2019;t quit, I guess the sup&#xad;po&#xad;si&#xad;tion is that I&#x2019;ll be pos&#xad;i&#xad;tive. Since these can&#xad;di&#xad;dates are out&#xad;siders and some of them don&#x2019;t come to work for us, noth&#xad;ing I can say can be a se&#xad;cret. So why don&#x2019;t I tell ev&#xad;ery&#xad;one?</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Sometimes when we’re trying to hire a senior employee, I get asked to do a
+“sell call”, tell them what it’s like to work here.  Since I’m coming up on
+three years and haven’t quit, I guess the supposition is that I’ll be
+positive. Since these candidates are outsiders and some of them don’t
+come to work for us, nothing I can say can be a secret. So why don’t I
+tell everyone?</p>
+<p>Before I dive in any further, everything here relates to AWS, not 
+Amazon as a whole. It might be true of the retail side too, but I don’t
+know because I don’t work there.</p>
+<p>So, what <em>is</em> it like to work here?</p>
+<h2 id='p-2'>Customers</h2>
+<p>That’s the big deal.  AWS has over a million and you get to meet them all
+the time, and while there are lots of geek introverts who might not like that,
+I do. Anyhow, lots of the customers are geek introverts too.</p>
+<p>When you ship low-level horizontal general-purpose technology, there’s no
+way to predict what people are going to do with it.  Which in practice means
+that you’re going to be shocked by the way it gets used.  For an old guy like
+me it’s hilarious to hear the kid engineers looking at a bug report or feature
+request and saying “WTF, why would anybody want to do <em>that</em>?”</p> 
+<p>Me, I like computers, and I like hearing about interesting things people do
+with them, and it makes me happy when the things they do work out well,
+especially when I helped build what they’re using.  I
+could tell you stories that’d curl your hair (or straighten your wavy locks) but
+they’re not mine to tell.</p>
+<p>Anyhow, if you like talking to customers you’ll like working here, and if
+not, probably not.</p>
+<h2 id='p-1'>Uptime</h2>
+<p>It matters more than anything. Some of our services are cooler than others,
+but what I think customers care about most is confidence that
+the services, cool or boring, will be there 24/7/365.  What that means is that
+everything has to be automated, and much of the most brilliant engineering at
+AWS, done by some of the smartest people, does its work behind the scenes
+where nobody will ever see it.</p>
+<p>So if you’re the kind of person who, for example, thinks figuring out a better way to
+automate detecting hot-spots in back-end clusters and re-routing traffic to
+cool things down is interesting work, then you’ll like working here.  If not,
+maybe not.</p>
+<p>Only <em>maybe</em> not,  because we have lots of people who wrangle JavaScript
+frameworks and mobile SDKs and build tools and database kernels all day.  But
+operational automation, that’s the heart of the matter.</p>
+<h2 id='p-3'>Being document-driven</h2>
+<p>Go ahead and Google “Amazon six-pager” if you haven’t already.</p>
+<p>If you’re the kind of person who’s OK with spending a lot of time
+constructing carefully-written narratives, and being in meetings that start
+with 20+ quiet minutes while everyone reads the narrative, 
+you’ll like working here, and if
+not, definitely not.  Disclosure: I’ve written over a million words on this
+blog so I’m seriously  predisposed to like this part.</p>
+<p>There is one downside: Suppose you’re an author of the document being read.
+It can be simultaneously
+crushingly boring and twitchingly nervous while AWS’s senior leadership plows
+their way through your words in stony silence.</p>
+<h2 id='p-5'>The actual software</h2>
+<p>I don’t think anyone would be surprised.  The services are usually conventional
+RESTful services, usually composed of multiple microservices, usually
+in mainstream programming languages using mainstream programming
+frameworks, We use conventional compilers and debuggers and IDEs and
+frameworks for HTTP and unit testing and integration testing and dependency
+injection and so on.</p>
+<p>Yes, there’s some secret sauce voodoo down in the infrastructure that’s
+pretty magical.  But most of us don’t work on that most of the time.</p>
+<p>What’s unusual is the proportion of the code focused on availability
+and data durability.  But you already knew that.  We also care a lot about
+doing better than O(N), because N is typically so freaking huge at Amazon. I personally
+seem to end up working mostly on message processing of one kind or another
+which is sort of stuck on O(N) in the number of messages, so we’re often left 
+with micro-optimizations.</p>
+<p>You know what makes me happy? One little library I
+wrote is currently being used by several different teams to efficiently do a useful thing
+on a million-ish messages per second in aggregate.  There aren’t that many
+places where your code gets that kind of opportunity.</p>
+<h2 id='p-8'>Organization and culture</h2>
+<p>The teams at AWS have a huge amount of independence.  If you’re on a team that’s
+trying to ship something or operate something or improve something, that’s
+generally great; nobody will get in your way.  On the other hand, if you’re
+trying to build something that works across multiple service teams, it can
+give you grey hairs. But I already had those; and it’s mostly a feature not a
+bug.</p>
+<p>Corporate “culture” is a thing I find it hard to be articulate about. I
+find the asshole density nonzero but lower than average.  We are trying to do very
+difficult things and we fail a lot; Mature technology companies try make
+those teachable moments, and we do a pretty good job of that.  There is
+<i>[*gasp*]</i> politics.  I’m going to argue that the proportion of really bad
+managers is unusually low; but that’s just an anecdote, wouldn’t know how to
+measure it.</p>
+<p>My time rarely feels wasted.</p>
+<h2 id='p-6'>Money?</h2>
+<p>If you work in a tech job at any large high-tech company, you’ll
+be well-paid by any reasonable standard.  Want more than just “well-paid”? The brutal truth is that the way
+high-tech compensation is structured, you’re making a bet on your employer’s
+share price.  If it goes up really a lot while you’re working there, you’re
+gonna make out like a bandit, and if not, not.  All these things are as true
+at Amazon as anywhere else. Welcome to twenty-first
+century capitalism.</p>
+<h2 id='p-4'>What sucks?</h2>
+<p>After I’ve talked through all this stuff, the person who might come to work
+for us wants to hear about the downside.  Fair enough.</p>
+<p>I guess the biggest one is that we’re not perfect at operational
+automation, so everything we fail to automate, every combination of compute and
+network and storage failure we weren’t smart enough to auto-remediate in
+advance, has to be dealt with manually.  Which means people have to be on-call
+and yeah, sometime the phone goes off after midnight.</p>
+<p>The good news is, we’re getting better, learning how to build automation in
+at the core.  Which means that the fresh new AWS services are better at
+self-maintaining and self-healing, so on-call sucks less.
+On the other hand, the older services tend to have bigger teams and thus
+less on-call time per person, so it evens out.</p>
+<p>But there are some people who sufficiently dislike
+the prospect of that occasional wee-hours page that they just don’t want to
+stick around with us.  Fair enough.</p>
+<p>I dislike our office-automation setup, but then I’m the kind of person
+who really likes Google Docs and Calendar and Gmail, so maybe I’m an outlier.</p>
+<p>One more thing:  Most jobs at AWS, you’ll never be able to
+explain to civilians what it is you do for a living.  I generally say “I help keep
+the Internet running” and you know what? That’s not a total lie.</p>
+<h2 id='p-7'>On balance</h2>
+<p>I could go on about diversity and work environments and benefits and
+process and promotion and so on, but at the end of the day it’s just another
+high-tech company, nothing surprising.</p>
+<p>I don’t <em>really</em> need the money, but I haven’t quit.</p>
+</div></content></entry>
+
+<entry>
+ <title>Live Metal is Better</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/10/13/Live-Metal' />
+ <link rel='replies'        thr:count='5'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/10/13/Live-Metal#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/10/13/Live-Metal</id>
+ <published>2017-10-13T12:00:00-07:00</published>
+ <updated>2017-10-14T14:58:56-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Music' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Music' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Photos' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Photos' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>Re&#xad;cent&#xad;ly I went out for a live met&#xad;al triple-bill, with <a href='https://www.facebook.com/tokyodionysos/'>En&#xad;don</a>  and <a href='https://en.wikipedia.org/wiki/Sumac_(band)'>SUMAC</a>  open&#xad;ing for <a href='http://www.borisheavyrocks.com/'>Boris</a>, whom I&#x2019;ve <a href='/ongoing/When/201x/2011/10/13/Pictures-of-Wata'>cov&#xad;ered here be&#xad;fore</a>  (with groovy pix). More pix to&#xad;day, with words on the his&#xad;to&#xad;ry and  mean&#xad;ing of met&#xad;al, and how to pho&#xad;to&#xad;graph it.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Recently I went out for a live metal triple-bill, with
+<a href="https://www.facebook.com/tokyodionysos/">Endon</a> and
+<a href="https://en.wikipedia.org/wiki/Sumac_(band)">SUMAC</a> opening for
+<a href="http://www.borisheavyrocks.com/">Boris</a>, whom I’ve
+<a href="/ongoing/When/201x/2011/10/13/Pictures-of-Wata">covered here
+before</a> (with groovy pix). More pix today, with words on the history and
+meaning of metal, and how to photograph it.</p>
+<p>Endon, the openers, are described as
+<a href="https://noisey.vice.com/en_ca/article/rzeb35/endon-interview-57a206a19bea6ddf702dde02">catastrophic
+noise metal</a> and yeah, they were pretty catastrophic.  A little too
+abstract for me, but sincere and really trying to bring it.  Didn’t get any
+pix.</p>
+<p>Here’s my problem: I wholeheartedly love this music, in particular live,
+and yet I have to acknowledge that it’s sort of, well, ridiculous.  The volume
+is much louder than can be sanely necessary.  The choreography is all moves
+invented around 1970 by Robert Plant or Jon Anderson or someone like that.
+The musical content is built monomaniacally around a single sound, that of an
+overdriven guitar amp.</p>
+<p>SUMAC (on <a href="https://sumac.bandcamp.com/">Bandcamp</a>) are
+<em>very</em> traditional metallistas; the poses, the riffs, the look, the
+barked vocals.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/13/FXT10256.png" alt="SUMAC guitarist" />
+<p>Metal is harder to photograph than many other genres, because they like to
+keep the stage dark, and bathed in subdued reds and blues that stress out the
+poor sensor.  Sometimes you get an incredibly dramatic color treatment, but
+often the best bet is just to switch to high-contrast B&amp;W.</p>
+<p>Wikipedia says the guitarist is
+<a href="https://en.wikipedia.org/wiki/Aaron_Turner">Aaron Turner</a>
+and the bassist
+<a href="https://en.wikipedia.org/wiki/Brian_Cook_(musician)">Brian Cook</a>,
+but their picture doesn’t look like this guy.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/13/FXT10253.png" alt="SUMAC bass player"/>
+<h2 id='p-1'>Analytics</h2>
+<p>Metal’s not just one thing, there are many linked strands in its fabric.
+Check out
+<a href="https://en.wikipedia.org/wiki/Heavy_metal_genres">Heavy metal
+genres</a> over at Wikipedia (part of
+<a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Metal">WikiProject
+Metal</a>).  For more fun, 
+consider the heavy-metal documentaries by Canadian sociologist
+<a href="https://en.wikipedia.org/wiki/Sam_Dunn">Sam Dunn</a>.  I haven’t seen
+them all, but I can heartily recommend
+<a href="http://amzn.to/2xHUvQ6">Metal<span class='dashes'> —</span> A
+Headbanger’s Journey</a>, his first, which dives deep, deep, deep, on the
+subject and is also full of heavy guitar riffs.  Best played loud.</p>
+<p>Dunn points out that while you can argue all you want about the birth of
+metal, Black Sabbath usually gets the most votes.  I’d go further: It helps
+that I’m old and was thus there at the time.  It was in 1970; I was fifteen
+and we were visiting my cousin who was a couple years older and infinitely
+cooler.  “Come listen to this record” he said, and put on Sabbath’s eponymous 
+<a href="https://en.wikipedia.org/wiki/Black_Sabbath_(song)">Black
+Sabbath</a>.  Go listen (not to the flavorless sample on the Wikipedia page,
+the real thing’s all over the Internet).  It’s all there, and I mean
+<em>all</em> there in the first 1:08. Portentous
+thunderstorm noise, church bell, then four repetitions of a beautifully-heavy
+three-note riff. No vocals, no nothing, just that awesome guitar tone.  
+I hadn’t imagined that such a sound could exist in this world and my
+life was never the same after.</p>
+<p>There’s more to the song, some pretty good singing from Ozzy and of course
+the explicitly Satanic lyrics. But Heavy Metal is basically about taking those
+sixty-eight seconds and building a hundred subgenres and a rabid following
+around them.  I don’t think the occult angle was initially necessary; but it
+was a clever 
+move by Ozzy and Geezer, and got dragged along with that guitar sound
+in later years.</p>
+<p>Enough history and sociology.</p>
+<h2 id='p-2'>Boris</h2>
+<p>Like I said, the <em>good</em> pictures of Boris are
+<a href="/ongoing/When/201x/2011/10/13/Pictures-of-Wata">here</a>.  On this
+outing, the lights were darker and the fake-fog flow almost continuous.  This
+time around, they obviously and by design wanted to play behind a curtain of
+bright red/blue/violet smoke; which as an artistic choice, is nicely
+harmonious with their music, which itself is nicely harmonious albeit
+crushingly loud.</p>
+<p>For this outing, I rented the
+<a href="http://amzn.to/2z9xbaa">Fujinon 23mm f/1.4</a> from
+<a href="http://www.beauphoto.com/">Beau Photo</a>, and the
+wide-open/wide-angle combination was helpful.  But it was still tough; here’s
+what I got.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/13/FXT10265.png" alt="Boris in 2017" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/13/FXT10267.png" alt="Boris in 2017" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/13/FXT10285.png" alt="Boris in 2017" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/13/FXT10299.png" alt="Boris in 2017" />
+<p>Pro tip: When the last opener quits playing, you can
+almost always snag a great photographers’ spot up near the front of the stage. 
+And then, after the first few songs, it’s polite to turn it over to a fellow
+fan. On this occasion I was dead center and had the rare experience of live
+metal in stereo, with Wata’s amps to my left and Atsuo’s to my right. Cool!</p>
+<p>Yes, Wata picked up an accordion for a couple tunes.  The general sound is
+remarkably like her guitar, but doesn’t allow for her rare-but-wonderful
+excursions up the neck into screaming-treble territory.</p>
+<img src="Altar-small.png" class="inline" alt="Altar" />
+<p>Damn, I love their music.  Wata’s guitar tone is up there with the greats,
+and the beauty of their crushing melodious drone is not equalled by
+anyone except maybe
+<a href="https://en.wikipedia.org/wiki/Sunn_O)))">Sunn O)))</a>; and it’s
+worth mentioning that the Boris/Sunn O))) collaboration
+<a href="http://amzn.to/2ymQZIg">Altar</a> is a very beautiful piece of
+music.</p>
+<p>Other Boris outings that I strongly recommend are
+<a href="http://amzn.to/2hHb8kf">Pink</a> (from 2005) and the much more recent
+<a href="http://amzn.to/2zn8sQF">Attention Please</a>.</p>
+<h2 id='p-4'>Why it’s OK to love Metal</h2>
+<p>I mean, I’m old and completely out of fucks to give about what others think
+of my tastes.  But still…</p>
+<p>First of all, Metal is <em>serious music</em>. Given the size of the crowds
+at this point in the 21<sup>st</sup> century (small), it’s no road to
+riches. 
+And the players are completely oblivious to issues of packaging and
+pandering.  And if you actually listen closely past the surface of the roar,
+the music is constructed with care, and then obviously the result of endless
+practice and dedication to the craft.  It may lack a backbeat and a catchy
+chorus, but there’s beauty aplenty in there.</p>
+<p>I’ve quoted Sasha Frere-Jones, erstwhile <cite>New Yorker</cite> rock
+critic, before on this subject, but he said two things that are worth
+repeating. First, “Get past the novelty, though, and you find a level of
+passion and an attention to detail that make a number of mere rock bands look
+lazy.” And “You may eventually find a TV that is sufficiently large that
+it makes going to a movie theatre pointless, but you are never going to
+replicate anything like a black-metal show at home, no matter how fancy your
+stereo is.”.</p>
+<h2 id='p-5'>Metal people</h2>
+<p>There are very few gatherings in the world at which I feel totally at
+home.  Examples are O’Reilly’s OSCON and an Amazon principal-engineers’
+gathering.  But a metal concert is another.  Here’s the cute end of metal
+style.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/13/FXT10247.png" alt="Metal fans" />
+<div class='caption'><p>Aren’t they adorable?</p></div>
+<p>When I was young, I aspired to hair like that, but mine was always too thin
+and stringy, and now I don’t have much.  But the crowd included grizzled
+hardasses with facial tattoos, a couple of subgroups of Japanese extreme-music
+culture that I don’t begin to understand, and then a lot of ordinary people
+off the street who just share the love of this extreme, crazy, deadly-serious
+art form.</p>
+<p>It’s OK to crowd up to the front and stand there like a post. It’s OK to
+head-bang when the beat picks up. It’s OK to sit motionless in the back row,
+eyes closed. It’s a perfectly fine thing, in 2017, to be a greybearded
+metal-head.</p>
+</div></content></entry>
+
+<entry>
+ <title>Macro Trends</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/10/07/Macroeconomics' />
+ <link rel='replies'        thr:count='3'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/10/07/Macroeconomics#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/10/07/Macroeconomics</id>
+ <published>2017-10-07T12:00:00-07:00</published>
+ <updated>2017-10-07T12:23:04-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World/Politics' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Politics' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>In <a href='https://www.economist.com/news/briefing/21729988-low-interest-rates-have-made-more-or-less-all-investments-expensive-bubble-without-any-fizz?frsc=dg%7Ce'>The bub&#xad;ble with&#xad;out any fizz</a>, <cite>The Economist</cite>  ad&#xad;dress&#xad;es the fact that financial-asset prices  (s&#xad;tock&#xad;s, bond&#xad;s, and the like) keep drift&#xad;ing up and up in a world where  in&#xad;fla&#xad;tion  doesn&#x2019;t; are we in a mega-bubble? What&#x2019;s re&#xad;al&#xad;ly go&#xad;ing on? Looks ob&#xad;vi&#xad;ous to me,  but then I&#x2019;m a left-winger.  I think it&#x2019;s all a straight&#xad;for&#xad;ward con&#xad;se&#xad;quence of eco&#xad;nom&#xad;ic ef&#xad;fi&#xad;cien&#xad;cy and  class war&#xad;fare.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>In
+<a href="https://www.economist.com/news/briefing/21729988-low-interest-rates-have-made-more-or-less-all-investments-expensive-bubble-without-any-fizz?frsc=dg%7Ce">The bubble without any fizz</a>,
+<cite>The Economist</cite> addresses the fact that financial-asset prices
+(stocks, bonds, and the like) keep drifting up and up in a world where
+inflation 
+doesn’t; are we in a mega-bubble? What’s really going on? Looks obvious to me,
+but then I’m a left-winger.
+I think it’s all a straightforward consequence of economic efficiency and
+class warfare.</p>
+<h2 id='p-1'>Inflation?</h2>
+<p>It stays low because our globalized economy is hyperefficient
+at making the things we want, extracting the fuels we burn, and growing the
+food we eat. And also flexible enough that it can scale up and down to meet
+demand without apparently kicking off waves of inflation or bankruptcy.</p>
+<p>All of which is true, but I think the effect of class war is even
+bigger. Let’s start with a picture.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/10/07/IMF.png" alt="Labor is losing out" />
+<div class='caption'><p>From
+<a href="https://blogs.imf.org/2017/04/12/drivers-of-declining-labor-share-of-income/">Drivers of Declining Labor Share of Income</a>,
+published by those commies at the International Monetary Fund.</p></div>
+<p>Unions are in retreat and conservatives rule in the great economies of
+the developed world. Generation Z is being forced into the gig economy, into
+low-agency, low-paying, no-commitment jobs where being a shift lead at
+Starbucks is an aspirational goal.</p>
+<p>When you don’t have to pay people much, well yeah, you get low
+inflation.</p>
+<h2 id='p-2'>Financial Boom?</h2>
+<p>When it’s the prices of household goods, they call it “inflation”. When it’s
+financial assets, they call it “a bull market”.  But the cause is the same:
+Too much money chasing too few targets.</p>
+<p>It’s like this: There’s a surplus of
+accumulated wealth (<a href="/ongoing/When/201x/2014/05/01/Piketty-Capital">see Piketty</a>), and the people who hold it can’t possibly
+spend it on 
+goods and services<span class='dashes'> —</span> how many yachts can you
+waterski behind?  So they throw it at financial products, which then
+inflate.</p>
+<p>I think this is bleedingly obvious, but that’s possibly because I’m a
+citizen of the technology scene, and of Vancouver. 
+In the venture-capital business, there’s just way too much money chasing way
+too few unicorns.  Go to a 
+startup showcase sometime and hear the pitches, see who’s getting funded. If
+you’re like most people, you’ll leave shaking your head.</p>
+<p>I also sit in Vancouver, which <em>is</em> experiencing severe inflation,
+in our housing sector.  Since Vancouver is a relatively low-paying city, not
+just on a world scale but compared to its Canadian peers, it’s obvious that
+global capital is part of the problem.  Our real-estate frenzy has become an
+international news story (it appears in the <cite>Economist</cite> piece
+linked above), but I un-humbly think my own 2015
+<a href="/ongoing/When/201x/2015/11/29/Game-of-Homes">Game of Homes</a>
+captures the essentials pretty well.</p>
+<p>So, what do Vancouver real estate and financial instruments have in common?
+Limited supply, that’s what.  Check out
+<a href="https://www.nytimes.com/2017/03/28/business/dealbook/fewer-ipos-regulation-stock-market.html">A Dearth of I.P.O.s, but It’s Not the Fault of Red Tape
+</a>;
+not only has the IPO rate plunged (from 706 in 1996 to 105 in 2016), so
+has the number of public companies (from 7,322 to 3,671).  Declining supply,
+increasing demand, d’oh.</p>
+<p>Other financial assets, e.g. bonds, may not be as supply-starved (I couldn’t
+turn up good numbers) but it stands to reason that when companies all over
+the world are reporting robust profits (class war, remember?) they probably
+don’t need to borrow as much.  And (as <cite>The Economist</cite> notes) when
+investors are driven to buying 100-year bonds from Argentina, a nation that
+has defaulted on its bonds six times in the last 100 years, you know they’re
+getting desperate.</p>
+<p>More evidence, were any needed, of the global capital surplus?  How about
+the
+<a href="http://www.bbc.com/news/business-18944097"><em>$21 trillion</em></a>
+being hidden from the tax-man here and there around the world?</p>
+<h2 id='p-3'>What next?</h2>
+<p>Beats me. The sad thing is, I don’t see any reason why things can’t go on
+the way they are for the foreseeable future.  Objectively, it would probably
+be good for the world if a lot of the accumulated wealth was just
+vaporized. Unfortunately, the only way that seems to happen historically is in
+major wars, as Piketty’s graphs illustrate.  Which nobody wants.</p>
+<p>Then there’s the leftist world-view, for example 
+<a href="https://www.tbray.org/ongoing/When/201x/2016/06/04/On-the-Left">On
+the Left</a> from last year.  Tl;dr: Tax wealth, force radical transparency on
+asset ownership, jail business criminals, offer universal basic income. Works
+for me; but I’m still looking for the right political party.</p>
+<p>There’s just too much money out there not doing anything particularly
+useful.</p>
+</div></content></entry>
+
+<entry>
+ <title>Refresh Is Sacred</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/09/27/Refresh-Button' />
+ <link rel='replies'        thr:count='8'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/09/27/Refresh-Button#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/09/27/Refresh-Button</id>
+ <published>2017-09-27T12:00:00-07:00</published>
+ <updated>2017-09-28T08:24:49-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology/Web' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Web' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>There are two kinds of client ap&#xad;pli&#xad;ca&#xad;tion&#xad;s: The first kind has a &#x201c;refresh&#x201d; or &#x201c;reload&#x201d; but&#xad;ton to make sure your app&#x2019;s in sync with its server&#x2019;s view of the world. The sec&#xad;ond kind is bro&#xad;ken.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>There are two kinds of client applications: The first kind has a “refresh”
+or “reload” button to make sure your app’s in sync with its server’s view of
+the world.  The second kind is broken.</p>
+<img src="refresh.png" alt="Refresh" class="inline" />
+<p>Of late, I have to deal regularly with several apps, notably including an emailer
+and a car-sharing service, that lack such a button.  I can
+imagine why<span class='dashes'> —</span> a customer-focused product manager
+said “Steve Jobs taught us that fewer controls are better and we should just
+take care of making sure we’re in sync with the cloud. So lose the
+button.”</p>
+<p>Except for, it doesn’t work.  Apparently nobody in the world is smart
+enough to arrange for flawlessly reliable hands-off client/cloud
+synchronization. There are times when you <em>just know</em> that what you’re
+seeing on the screen is <em>wrong</em> and if the stupid app would
+just take your word for it that
+its world-view is stale and ask for a brain transplant from its server,
+things would be OK.</p>
+<p>The car-share app is particularly aggravating, showing me a map dotted with
+nearby vehicles when I know for sure that this time of day I’ll be lucky if
+there’s even one within walkable distance.  Since it totally refuses to sync,
+I have to switch to the Android “recents” screen and kill it.  When I
+re-open the app, it’s OK.</p>
+<p>Why might this happen?  Well, maybe switching from WiFi to cell data (or
+vice versa) left some layer confused about network truth. Possibly, because
+your app was written in a programming language with multiple threads and shared mutable
+state (silly, <em>silly</em> programmer), the cache is malfunctioning. Maybe
+that same thing happened on the server.  Or in the CDN. Or maybe there’s an
+obscure hiccup in a distant node_modules dependency that
+you’re tickling.</p>
+<p>Dear product managers: Show some humility. When a customer really thinks
+your app is wrong <em>and</em> they know how to fix it, don’t get in their way.</p>
+</div></content></entry>
+
+<entry>
+ <title>You Might Be Evil</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/09/20/Tech-is-Evil' />
+ <link rel='replies'        thr:count='8'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/09/20/Tech-is-Evil#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/09/20/Tech-is-Evil</id>
+ <published>2017-09-20T12:00:00-07:00</published>
+ <updated>2017-09-20T22:34:54-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Business' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Business' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>Or at least, your em&#xad;ploy&#xad;er might be. Over the years we in the tech sec&#xad;tor have got&#xad;ten used to be&#xad;ing well-regarded. After al&#xad;l, we make people&#x2019;s lives bet&#xad;ter, on bal&#xad;ance. That&#x2019;s chang&#xad;ing. At the mo&#xad;ment it&#x2019;s rum&#xad;blings from thought lead&#xad;er&#xad;s, not per&#xad;va&#xad;sive pop&#xad;u&#xad;lar anger. The oth&#xad;er thing that&#x2019;s new is that they&#x2019;re thought lead&#xad;ers who are pro&#xad;gres&#xad;sives and lib&#xad;er&#xad;al&#xad;s; just like most of us in the tech pro&#xad;fes&#xad;sion&#xad;s. It no&#xad;tably in&#xad;volves the M-word and those of us on the in&#xad;side need to be think&#xad;ing about it.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Or at least, your employer might be. Over the years we in the tech sector have
+gotten used to being well-regarded. After all, we
+make people’s lives better, on balance.  That’s changing.  At the moment
+it’s rumblings from thought leaders, not pervasive popular anger.
+The other thing that’s new is that they’re 
+thought leaders who are progressives and liberals; just like most of us
+in the tech professions.
+It notably involves the M-word and those of us on the inside need
+to be thinking about it.</p>
+<p>The general public, by and large, love reading the news of their friends
+and the world on Facebook, buying stuff cheap on Amazon, using Google maps and
+mail for free, and using recent Windows releases at work.</p>
+<p>But these days, it seems like every other day I read a chilling anti-tech
+rant, usually written by someone smart, articulate, and (like me)
+leftist.  Here are a few recent offerings:</p>
+<ul>
+<li><p><a href="http://talkingpointsmemo.com/edblog/a-serf-on-googles-farm">A
+Serf on Google’s Farm</a>: About how the advertising end of the business fails to
+combine customer support and scalability, and what it feels like to be a minor
+customer: “It’s a bit like being assimilated by the Borg. You get cool new powers. But having been assimilated, if your implants were ever removed, you’d certainly die.”
+“Google is so big and so powerful that even when it’s trying to do something good, it can be dangerous and frightening.”</p>
+</li>
+<li><p><a href="https://twitter.com/matthewstoller/status/908828025273364480">You
+can’t quit Facebook</a>, a Twitter rant by Matt Stoller: “Your data and identity is trapped inside a machine that spends huge $$$ to addict and manipulate you, your friends, and your culture.”
+“We cannot as individual consumers resist the tens of billions spent to manipulate us. But we as citizens can do so through politics.”</p>
+</li>
+<li><p><a href="http://www.politico.eu/article/margrethe-vestagers-growing-american-fan-club/amp/">Margrethe Vestager’s growing American fan club</a>,
+on the savvy Eurocrat who’s been tormenting Google, Apple, and
+Facebook: “There is growing concern … about bigness and size, and power because power corrupts absolutely.”</p>
+</li>
+<li><p><a href="https://www.buzzfeed.com/bensmith/theres-blood-in-the-water-in-silicon-valley?utm_term=.gsV5YE1bE#.yl1rpZdkZ">There’s Blood In The Water In Silicon Valley</a>:
+“This sort of political change happens slowly until it happens fast. Uber
+provided a new model for a transformative tech giant to crash through with a
+dark, negative brand.”</p></li>
+<li><p>
+<a href="http://talkingpointsmemo.com/edblog/facebooks-heading-toward-a-bruising-run-in-with-the-russia-probe">Facebook’s Heading Toward a Bruising Run-In With the Russia Probe</a>,
+interesting not so much for the Russian angle but for the visceral contempt
+for Facebook:
+“Facebook’s ‘internal policies’ amount to a kind of Stepford Wives version of civic liberalism and speech and privacy rights, the outward form of the things preserved while the innards have been gutted and replaced by something entirely different, an aggressive and totalizing business model which in many ways turns these norms and values on their heads.”</p></li>
+</ul>
+<h2 id='p-2'>Disclosures</h2>
+<p>I’m not going to claim my curation is unbiased.  I left out Microsoft
+because, weirdly, nobody seems to hate Microsoft that much any more.  I
+certainly don’t.  I left out Twitter because it’s not actually a company, it’s
+a dysfunctional non-profit that accidentally provides a valuable service.
+I left out Amazon (although it appears in a few of those pieces) because
+I’d have no chance of coming anywhere near balance.</p>
+<h2 id='p-1'>The M-Word</h2>
+<p>It’s “Monopoly” of course.  If you follow the links above and read, the
+authors come
+at the tech giants from every which direction, but always ending up banging
+out the monopoly melody.  Sometimes they say “corporate concentration” or
+another euphemism, because being anti-monopoly sounds kind of old-fashioned;
+and anyhow, shouldn’t you be talking about Comcast or United?</p>
+<p>Not any more.  A lot of smart people think it’s good economics, good
+policy, and good politics to aim the anti-trust gun at the tech sector.
+I’m not saying they’re wrong. I’m also not predicting that they’ll get any
+traction, particularly in the America where the short-term focus has to be on
+combating Nazis and pussy-grabbers.</p>
+<p>But this is a trend that nobody in technology leadership should ignore.</p>
+</div></content></entry>
+
+<entry>
+ <title>Photos of the Sky</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/09/17/No-Mans-Sky-Photos' />
+ <link rel='replies'        thr:count='1'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/09/17/No-Mans-Sky-Photos#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/09/17/No-Mans-Sky-Photos</id>
+ <published>2017-09-17T12:00:00-07:00</published>
+ <updated>2017-09-17T20:47:22-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Games' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Games' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>I mean <a href='https://www.nomanssky.com/'>No Man&#x2019;s Sky</a>  the game, which I&#x2019;ve   been play&#xad;ing again late&#xad;ly. It&#x2019;s been ac&#xad;cused of be&#xad;ing most&#xad;ly   a plat&#xad;form for gen&#xad;er&#xad;at&#xad;ing cheesy sci-fi book cov&#xad;er&#xad;s, but   that&#x2019;s not true, and al&#xad;so I <em>love</em>  cheesy sci-fi book cov&#xad;er&#xad;s, so this is most&#xad;ly to show you some. With a few words  on the game.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>I mean
+<a href="https://www.nomanssky.com/">No Man’s Sky</a> the game, which I’ve
+been playing again lately.  It’s been accused of being mostly
+a platform for generating cheesy sci-fi book covers, but 
+that’s not true, and also I
+<em>love</em> cheesy sci-fi book covers, so this is mostly to show you some.  With a few words
+on the game.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/09/17/NMS_20170709014211.png" alt="Starship flying in No Man’s Sky" />
+<div class='caption'><p>Oh, just flying my starship over the landscape of<br/>a
+planet I recently discovered and named. As one does.</p></div>
+<h2 id='p-1'>Updates</h2>
+<p>No Man’s Sky launched just over a year ago, preceded by a massive hype wave
+and followed by howls of disappointment when it fell short of
+expectations. There’ve been three major updates, each with massive
+additions. and it’s becoming increasingly like a “normal” game, with missions
+and NPC’s and economies and so on.</p>
+<p>Its biggest charm probably remains that it’s an <em>easy</em> game,
+occasional flashes of excitement, but mostly just cruising along from star to
+star, enjoying the views.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/09/17/NMS_20170915233930.png" alt="Nice view in No Man’s Sky" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/09/17/NMS_20170709012153.png" alt="Desert-scape, No Man’s Sky" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/09/17/NMS_20170715172551.png" alt="Nice view in No Man’s Sky" />
+<p>The game is starting to add inklings of multi-player, and multiple players 
+are self-organizing, most notably to create
+<a href="https://nomanssky.gamepedia.com/Galactic_Hub_Project">The Galactic
+Hub</a>, which I hope to reach some day.</p>
+<h2 id='p-2'>Aliens!</h2>
+<p>In <cite>NMS</cite> they’re, more than anything, fun. The planets have
+their own procedurally-generated menageries, but there are three main species
+you can actually have relationships with, and learn the languages of.  There’s
+lots of back-story that you soak up as you move through the game.  Here’s a
+Gek.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/09/17/NMS_20170709013038.png" alt="a Gek in No Man’ Sky" />
+<div class='caption'><p>Aren’t they cute?</p></div>
+<p>The beasts in <cite>NMS</cite> are chatty and come in all sizes, shapes, and colors.
+They’re more playful than scary.  And like I said, it’s an easy game, any
+creature that attacks you is pretty well toast.  But, here’s Jabba the Flowerpott.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/09/17/NMS_20170910220134.png" alt="No Man’s Sky with fat alien" />
+<h2 id='p-3'>My experience</h2>
+<p>In the picture just above, that’s my current starship, parked on the left. 
+Nice  ride, eh?  For the cognoscenti: A decent little Samamoga
+27-slot B-class fighter, modest stats but a reliable pirate-killer.  
+Which sort of sums up my playing style.  I’m busy, with a 
+job and family; thus not a serious gamer.  One of the
+really nice things about <cite>NMS</cite> is you can do it for an hour here and an hour
+there and keep progressing and never really get stuck.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/09/17/NMS_20170907234711.png" alt="Ship parked on peak, No Man’s Sky" />
+<div class='caption'><p>Good parking spot!</p></div>
+<p>I restarted after the 1.3 update (like a lot of others) and 
+I’m going to keep playing till I get a freighter.</p>
+<h2 id='p-4'>Gender</h2>
+<p>The three primary alien races you deal with do not participate in the human
+notion of gender. Thus, when individuals are mentioned in text (and there’s a
+lot of text in <cite>NMS</cite>) it’s always in a scrupulous third-person: 
+They, them, their.  It’s amazing how quickly you get used to it.</p>
+<p>On the other hand, the beasts that populate the planets <em>are</em>
+gendered, and while male and female do appear, one also finds Asymptotic,
+Asymmetric, Orthogonal, Prime, Radical, Indeterminate,and Vectorised.</p>
+<p>So the authors of <cite>NMS</cite> are having some real postmodern
+twenty-first century fun; which on balance is a fair description of the whole
+game.  I’m still on board.</p>
+</div></content></entry>
+
+<entry>
+ <title>Canadian Tax Wrangling</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/09/09/Canadian-Tax-Flavors' />
+ <link rel='replies'        thr:count='5'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/09/09/Canadian-Tax-Flavors#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/09/09/Canadian-Tax-Flavors</id>
+ <published>2017-09-09T12:00:00-07:00</published>
+ <updated>2017-09-09T17:16:52-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World/Politics' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Politics' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>Our me&#xad;di&#xad;a, pro and so&#xad;cial, echo with blasts of self-righteous anger over  pro&#xad;posed leg&#xad;is&#xad;la&#xad;tion which would elim&#xad;i&#xad;nate a few  pop&#xad;u&#xad;lar tax dodges. Weird&#xad;ly, I see no-one ar&#xad;gu&#xad;ing the oth&#xad;er  side; that the tax pro&#xad;pos&#xad;als are rea&#xad;son&#xad;able. I think I&#x2019;m  qual&#xad;i&#xad;fied to make that ar&#xad;gu&#xad;men&#xad;t, so I will. <i>[If you&#x2019;re not Cana&#xad;di&#xad;an, you can prob&#xad;a&#xad;bly stop read&#xad;ing here.]</i></div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Our media, pro and social, echo with blasts of self-righteous anger over
+proposed legislation which would eliminate a few 
+popular tax dodges. Weirdly, I see no-one arguing the other
+side; that the tax proposals are reasonable.  I think I’m
+qualified to make that argument, so I will. <i>[If you’re not Canadian, you
+can probably stop reading here.]</i></p> 
+<h2 id='p-2'>The proposed tax changes</h2>
+<p>They’re summarized pretty well
+<a href="http://www.cbc.ca/news/politics/morneau-tax-changes-wealthy-consultations-tuesday-1.4210201">here</a>.
+Basically, if you have a business and it’s incorporated<span
+class='dashes'> —</span> say
+you’re a doctor, lawyer, contractor, accountant, that kind of thing<span class='dashes'> —</span> you can use
+your corporation for tax
+tricks, the effect being that you pay less tax on the same income.</p>
+<p>The tricks have been well-known for years; every competent financial
+advisor and wealth manager in the country tells every client about them.</p>
+<h2 id='p-1'>Disclosures</h2>
+<p>(And I wish a few more people publishing op-eds on this subject would offer
+theirs.)</p>
+<ol>
+<li><p>I have a good income and pay a lot of tax.</p></li>
+<li><p>I’ve had capital gains over the years, from a successful
+startup and a couple of lucky investments.</p></li>
+<li><p>My wife and I have a corporation, which is useful in supporting
+the consulting businesses both of us have run from time to time.
+But we’ve hardly ever been able to use any tricks; one time
+by accident and acqui-hire the corporation ended up with pre-IPO Twitter
+shares, and we did save some tax bucks when we sold them.</p></li>
+<li><p>I was a co-founder of a company that currently has just over 14,000
+employees.</p></li>
+<li><p>I didn’t vote for the government that’s making the proposals.</p></li>
+</ol>
+<p>My feelings on tax generally? My bills are shocking, but on the other hand
+I’m a heavy direct user of government services: roads, bridges, public transit,
+bikeways, libraries, athletic facilities, public broadcasting, health care,
+emergency first responders. Plus, having grown up in a third-world country, I
+have a hearty appreciation for the rule of law and the social safety net.  So
+yeah, I’d like a lower tax bill and I might vote for a party that had specific
+proposals on paying for one with cutbacks on the parts of government I
+don’t like.</p> 
+<p>But I generally do think that people who make about as much money as me
+should pay about as much tax as me.</p>
+<h2 id='p-3'>The complaints</h2>
+<p>It amounts to a bunch of well-off people who are going to start
+paying the same tax rate I do explaining why they shouldn’t have to, because
+they work hard, create jobs, and are just all-around nice people.</p>
+<p>Here’s
+<a href="http://www.greaterfool.ca/2017/09/04/the-burden/">an
+anesthesiologist</a> who’s so upset that, he says, he and the other doctors
+are going to go mini-John Galt and start working less.  </p>
+<p>Here’s a
+<a href="http://www.greaterfool.ca/2017/08/29/fair-is-fair/">guy who pays
+$225K in tax</a> and says he’s “already contributing FAR more than his fair
+share”.</p>
+<p>The complainers complain that they don’t get a pension.  Neither do I; in
+fact <em>nobody</em> does any more, except civil servants.</p>
+<p>They also bitch about not getting paid vacation or “any other benefits”.
+Oddly enough, when we’re on vacation in sunny destinations, we tend to
+encounter lots of doctors and lawyers and contractors and so on, so somehow
+they manage to get away.  And now that we’re older and know a few retirees, I
+gotta say that the small-biz-owner contingent seems well-represented among
+those in their “golden years” where by “golden” I mean “rolling in dough”.</p>
+<p>Also, do the math: Anyone who’s paying $225K in tax is a very well-off
+individual, with lots of room to save for retirement, and enough cash-flow to
+visit Maui or Cabo every winter.</p>
+<p>But they do have a point; It wouldn’t seem completely insane
+to me if there were tax deductions for those whose employment situation is
+low on benefits.  But that should be done explicitly, rather than
+nudge-nudge-wink-winking at 
+small-biz corporate fiddles.</p>
+<p>That aside, I’m sorry but I just don’t see any reason why someone who makes
+my kind of money shouldn’t have to pay my kind of
+taxes, just because they’re a small business.  And in the testimonies I read,
+they come across as hypocrisy-drenched greedheads.</p>
+<p>If you want lower taxes, I think there are two good courses of action: Move
+to a jurisdiction that has them, or do the political work to elect a party
+that will cut them (and correspondingly, services).
+Spare me, please, the “supply-side” fantasy in which
+tax cuts generate increased revenue.
+<a href="http://www.businessinsider.com/kansas-experiment-with-tax-cutting-failed-on-its-own-terms-2017-6">It’s
+been tried</a>.</p>
+<h2 id='p-4'>So, tax all income equally?</h2>
+<p>Maybe.  In Canada, the tax on capital gains is half that on salary.
+The idea is to encourage people to start businesses and
+invest in other businesses. 
+I’ve created businesses and invested in them too, so it’d be easy for me to
+say “Look, it works” and maybe I’d be right.  But maybe not; I probably
+would have gone ahead and done those things anyhow.  It’s amazing how many tax
+policies officially aimed at one good end or another seem mostly to result in
+rich people paying less.</p>
+<p>Also I’ve started
+to hear progressive economists arguing against this kind of thing.  And a
+hard-line policy of “income is income” has the advantage that people don’t pay
+tax consultants to fool around and try to make one kind of income look like
+another.  So it’s not a slam-dunk.</p>
+<h2 id='p-5'>What’s going to happen?</h2>
+<p>The politics is interesting.  The people lined up against the tax proposals
+have loud, well-funded voices, and donate lots to
+political parties, so their concerns are going to get careful attention from
+legislators.  And it’s easy to convince the public that any government tax
+tactic is a grubby revenue grab.</p>
+<p>But at the end of the day the noise is coming from a bunch of fat cats
+trying to pay less tax than other fat cats, based on what feel like
+really flimsy arguments. They exude entitlement.  I think the politics on this
+one could go either way.</p>
+</div></content></entry>
+
+<entry>
+ <title>Murder at Adolf&#x2019;s Cottage</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/09/03/Murder-chez-Hitler' />
+ <link rel='replies'        thr:count='0'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/09/03/Murder-chez-Hitler#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/09/03/Murder-chez-Hitler</id>
+ <published>2017-09-03T12:00:00-07:00</published>
+ <updated>2017-09-04T00:33:17-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Books' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Books' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>I re&#xad;cent&#xad;ly read <a href='http://amzn.to/2x36bfL'>Prus&#xad;sian Blue</a>  by <a href='http://philipkerr.org/'>Philip Kerr</a>. It&#x2019;s good<span class="dashes"> &#x2009;&#x2014;</span> &#x2009;a Fifties-Iron-Curtain   spy thriller grace&#xad;ful&#xad;ly mashed up with a pre-war mur&#xad;der mys&#xad;tery set in Hitler&#x2019;s   Bavar&#xad;i&#xad;an coun&#xad;try get&#xad;away, <a href='https://en.wikipedia.org/wiki/Berghof_(residence)'>Berghof</a>. It&#x2019;s a re&#xad;peat ap&#xad;pear&#xad;ance for Kerr&#x2019;s Bernie Gun&#xad;ther, an ap&#xad;peal&#xad;ing&#xad;ly hard-boiled vet&#xad;er&#xad;an so&#xad;cial&#xad;ist cop who finds him&#xad;self work&#xad;ing for Na&#xad;tion&#xad;al So&#xad;cial&#xad;ist man&#xad;age&#xad;men&#xad;t.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>I recently read
+<a href="http://amzn.to/2x36bfL">Prussian Blue</a> by
+<a href="http://philipkerr.org/">Philip Kerr</a>.  
+It’s good<span class='dashes'> —</span> a Fifties-Iron-Curtain
+spy thriller gracefully mashed up with a pre-war murder mystery set in Hitler’s
+Bavarian country getaway, <a href="https://en.wikipedia.org/wiki/Berghof_(residence)">Berghof</a>.  
+It’s a repeat appearance for Kerr’s Bernie Gunther,
+an appealingly hard-boiled veteran socialist cop who finds himself working for
+National Socialist management.</p>
+<img src="Prussian-Blue.png" alt="Prussian Blue by Philip Kerr" class="inline" />
+<p>And yep, there are Nazis in this story; the real not tiki-torch flavor.  A
+couple of mega-Nazis, Bormann and Heydrich, and some relatively minor odd fish
+like
+<a href="https://en.wikipedia.org/wiki/Karl_Brandt">Karl Brandt</a> and
+<a href="https://en.wikipedia.org/wiki/Gerdy_Troost">Gerdy Troost</a>.</p>
+<p>Nazis are convenient for a novelist, because they are reliably evil and
+twisted, so he can economize on characterization and leave room for plot and
+atmospherics. Having said that, he cuts Troost a little slack; you’d have to
+be a better historian than me to know whether that’s a travesty or not.</p>
+<p>Did I mention atmospherics? You’ve come to the right place. While
+substantial parts of the novel aren’t at der Führer’s country
+digs, the ones that are bask in deep you-are-there weirdness, and (I
+thought) a pretty deep take on what it’d be like for the yokels in a pretty
+backwater when the Fascist architects come to put up palaces.  Some,
+predictably, react a lot better than others.  But Kerr doesn’t pretend the
+presence of any serious resistance.</p>
+<p>Hey, and here’s a fascinating little sidelight: The lead contractor for the
+Berghof construction was a company called Polensky &amp; Zöllner; some part of
+which
+<a href="http://www.polensky-zoellner.com/">apparently still exists</a>, albeit
+in Abu Dhabi.  Their motto: “All knowledge comes from experience”.  And yeah,
+they’ll still
+<a href="http://ps-ae.com/cms/upload/PDF/2015/20150127_PZ_Aushang_Private_Villa_in_Khalifa_City_A.pdf">build
+you a villa</a>.</p>
+<p>Oops, I got distracted. This is a fine piece of writing, intense and
+atmospheric and instructive and just really good fun. Recommended.</p>
+</div></content></entry>
+
+<entry>
+ <title>Large Companies Considered Harmful</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/08/30/Smaller-Companies' />
+ <link rel='replies'        thr:count='13'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/08/30/Smaller-Companies#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/08/30/Smaller-Companies</id>
+ <published>2017-08-30T12:00:00-07:00</published>
+ <updated>2017-08-30T22:45:46-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World/Politics/Radical Ideas' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Politics' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Radical Ideas' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>There&#x2019;s a plau&#xad;si&#xad;ble case that cap&#xad;i&#xad;tal&#xad;ism <i>per se</i>  isn&#x2019;t the prob&#xad;lem.  Con&#xad;cen&#xad;tra&#xad;tion is: Vari&#xad;a&#xad;tions range from &#x201c;too big to fail&#x201d; to  good old-fashioned monopoly.  It&#x2019;s painful&#xad;ly ob&#xad;vi&#xad;ous that the  ac&#xad;qui&#xad;si&#xad;tion of one mon&#xad;ster tele&#xad;com or bank or air&#xad;line by an&#xad;oth&#xad;er does nei&#xad;ther  their cus&#xad;tomers nor the econ&#xad;o&#xad;my as a whole any good. It&#x2019;s tough to write  anti-monopoly law, be&#xad;cause how do you quan&#xad;ti&#xad;fy mar&#xad;ket pow&#xad;er?  How&#xad;ev&#xad;er, you can quan&#xad;ti&#xad;fy size. So let&#x2019;s use that as a club to bash away at  the prob&#xad;lem.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>There’s a plausible case that capitalism <i>per se</i> isn’t the problem.
+Concentration is: Variations range from “too big to fail” to
+good old-fashioned monopoly.
+It’s painfully obvious that the
+acquisition of one monster telecom or bank or airline by another does neither
+their customers nor the economy as a whole any good.  It’s tough to write
+anti-monopoly law, because how do you quantify market power?
+However, you can quantify size. So let’s use that as a club to bash away at
+the problem.</p>
+<p>Specifically: Pick a number <i>X</i>, and pass legislation decreeing that
+no company can have more than <i>X</i> full-time-equivalent employees.</p>
+<h2 id='p-1'>How big is <i>X</i>?</h2>
+<p>Let’s look at some data:</p>
+<table >
+<tr><td class="empty"></td>
+<th>Employees (K)</th></tr>
+<tr align="right"><th>Accenture</th><td>410</td></tr>
+<tr align="right"><th>Alphabet</th><td>70</td></tr>
+<tr align="right"><th>British Airways</th><td>40</td></tr>
+<tr align="right"><th>Cemex</th><td>40</td></tr>
+<tr align="right"><th>Comcast</th><td>150</td></tr>
+<tr align="right"><th>Facebook</th><td>17</td></tr>
+<tr align="right"><th>GE</th><td>290</td></tr>
+<tr align="right"><th>GM</th><td>200</td></tr>
+<tr align="right"><th>Goldman Sachs</th><td>30</td></tr>
+<tr align="right"><th>Lenovo</th><td>60</td></tr>
+<tr align="right"><th>Microsoft</th><td>110</td></tr>
+<tr align="right"><th>Netflix</th><td>3.5</td></tr>
+<tr align="right"><th>Qualcomm</th><td>30</td></tr>
+<tr align="right"><th>RBC</th><td>80</td></tr>
+<tr align="right"><th>Samsung</th><td>300</td></tr>
+<tr align="right"><th>Siemens</th><td>340</td></tr>
+<tr align="right"><th>Sony</th><td>120</td></tr>
+<tr align="right"><th>Tesla</th><td>30</td></tr>
+<tr align="right"><th>United</th><td>80</td></tr>
+</table>
+<p>The numbers aren’t perfect, mostly sourced from Wikipedia, rounded down to
+the nearest 10K above around 30K.  Some people say Samsung has over 500K. The
+Tesla number is after acquiring Grohmann and SolarCity in late 2016.</p>
+<p>I’m going to say <i>X</i> is maybe around twenty thousand.  Every single
+one of those companies that’s 20K+ could, I think, be broken up into saner,
+sounder, smaller chunks that would be decent, profitable, high-quality
+businesses.</p>
+<p>I guess maybe you couldn’t have a telecom that owned a national network and
+also had kiosks in every mall.  Or an Internet giant that did email
+<em>and</em> operating systems <em>and</em> cloud.  Or a bank that operated
+branches in every town of a vast nation.  Or an automotive company that sold a
+full line of personal, recreational, and business vehicles on seven
+continents.  All these things seem OK to me.</p>
+<p>The picture would be weirdly different: A successful young company 
+approaching size <i>X</i> would have to make painful choices about which
+business it really wanted to be in, and walk away from the rest. This doesn’t
+sound terrible.</p>
+<p>You could still grow financially if you could figure out a force multiplier
+for the abilities and energies of your employees.  This doesn’t sound
+terrible.</p>
+<p>Companies could still be extremely powerful; look at Facebook.  But I still
+think that, broadly, smaller companies are less so.  And further, it’s very
+likely that this marketplace has a lot more competition than we see
+currently.</p>
+<h2 id='p-2'>Enforcement</h2>
+<p>We fortunate citizens of the developed world
+live under the rule of laws not men, but an unfortunate corollary is that
+businesses will game the rules right up to the edge and beyond.  So the rules
+would have to be pretty well cinched down.</p>
+<ol>
+<li><p>There’s no distinction between
+employees and contractors; the number of workday hours you pay people to work
+can’t exceed 
+8 times <i>X</i>.</p></li> 
+<li><p>It’s not distinct employees, it’s how many are working on any given
+day.</p></li>
+<li><p>(Anti-<i>keiretsu</i>):</p>
+<ol>
+<li><p>If any company owns more than 5% of the equity
+of another, directly or indirectly, they are considered a single company
+for the purposes of this legislation.</p></li>
+<li><p>If any company derives more than 25% of its
+revenue from another company, likewise.</p></li>
+<li><p>If any legal entity owns more than 5% of the equity of more than one
+company, likewise.</p></li>
+</ol></li>
+</ol>
+<h2 id='p-3'>Punishment</h2>
+<p>Laws are always violated, and it’s crystal-clear that certain sectors of
+the business community see fines and other forms of financial penalty as just
+another cost of doing business.</p>
+<p>So I propose a system where there is only one penalty.  Should a
+corporation be convicted of exceeding size <i>X</i>, its chief executive and
+Board of Directors at the time the violation started to occur, and any
+successors, would be subject to imprisonment until the illegal condition is
+corrected.  So simple!</p>
+<h2 id='p-4'>This idea is completely crazy and could never happen!</h2>
+<p>Overton Window.  First they laugh at you. Etc…</p>
+</div></content></entry>
+
+<entry>
+ <title>Enlightenment Technology</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/08/20/Mokyr-on-Enlightenment' />
+ <link rel='replies'        thr:count='11'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/08/20/Mokyr-on-Enlightenment#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/08/20/Mokyr-on-Enlightenment</id>
+ <published>2017-08-20T12:00:00-07:00</published>
+ <updated>2017-08-24T20:29:31-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World/History' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='History' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>Around  1500, the lev&#xad;els of tech&#xad;nol&#xad;o&#xad;gy and pro&#xad;duc&#xad;tiv&#xad;i&#xad;ty in Europe and Asia were not  dra&#xad;mat&#xad;i&#xad;cal&#xad;ly dif&#xad;fer&#xad;en&#xad;t. But by 1700, Europe had leaped ahead and,  by the twen&#xad;ti&#xad;eth cen&#xad;tu&#xad;ry, most&#xad;ly come to dom&#xad;i&#xad;nate the world; the la&#xad;bels  &#x201c;Enlightenment&#x201d; and &#x201c;Industrial Revolution&#x201d; are  com&#xad;mon&#xad;ly ap&#xad;plied. <a href='http://amzn.to/2xhHsAl'>A Cul&#xad;ture of Growth: The Ori&#xad;gins of the Modern Econ&#xad;o&#xad;my</a>, a 2016 book by <a href='https://en.wikipedia.org/wiki/Joel_Mokyr'>Joel Mokyr</a>  asks &#x201c;Why?&#x201d; and  tries to an&#xad;swer.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Around 
+1500, the levels of technology and productivity in Europe and Asia were not
+dramatically different. But by 1700, Europe had leaped ahead and, 
+by the twentieth century, mostly come to dominate the world; the labels
+“Enlightenment” and “Industrial Revolution” are 
+commonly applied. 
+<a href="http://amzn.to/2xhHsAl">A Culture of Growth: The Origins of the
+Modern Economy</a>, a 2016 book by
+<a href="https://en.wikipedia.org/wiki/Joel_Mokyr">Joel Mokyr</a> asks “Why?” and
+tries to answer.</p>
+<img src="Mokyr-cover.png" alt="A Culture of Growth by Joel Mokyr" class="inline" />
+<p>I encountered many jewels of insight and erudition in this book, which
+however is difficult, a rough read; I’m not entirely comfy recommending it.
+But it’d feel wrong not to pass a few jewels along, and in a couple places add
+perspectives that I think will resonate among geeks.
+<i>[Apologies in advance for the length of what you are about to
+probably not finish reading.]</i></p>
+<p>He’s not the first to ask, of course. It’s a sort of central problem in History
+and explanations are, as it were, all over the map.
+They include Europe’s relative agricultural and mineral wealth, theories
+involving population genetics, and (not so much recently) Christianity and of
+course the inherent wonderfulness of us <i>gweilo</i> honkey gringos.
+Let’s see…</p>
+<blockquote><p>…any suggestion that Christianity as such created a civil
+society and enhanced economic performance as such is sheer nonsense. <i>[This,
+like all subsequent block quotations, is from the book.<span class='dashes'> —</span>Tim]</i></p></blockquote>
+<p>And:</p>
+<blockquote><p>It is important to stress that nothing suggests that any inherent qualities of Europeans or Christians were systematically different from other societies in a way that would foster the development of useful knowledge.</p></blockquote>
+<p>I’ve often thought that as a result of Europe’s being interpenetrated by
+bodies of water
+including the Mediterranean, Adriatic, Baltic, and North Sea, marine
+technology’s being less optional than it might have been in India or China was
+a probable contributor.</p>
+<p>But Mokyr thinks it’s mostly about culture, enabled by fortunate historical accidents.  I’m not going to reproduce his
+argument (Brad DeLong does
+<a href="http://www.bradford-delong.com/2016/09/outline-of-joel-mokyr-a-culture-of-growth-the-origins-of-the-modern-economy.html">here</a>,
+but misses some of the really good stuff in the last third.)  I’m just going
+to pull out a few of the lessons and questions and examples that grabbed my
+attention, and link to juicy related reading. Way down at the bottom of this
+piece, I’m going to gripe about the book’s problems and why you possibly don’t
+want to read it; but let’s do the good stuff first.</p>
+<h2 id='p-1'>The idea of progress</h2>
+<p>For me, this was the biggest mind-bomb because, like every human who reads
+these words, I assume as a matter of course that the work of scientists and engineers
+improves the world, and that by deepening our understanding of how things
+work, we can make them work better so that we can live better.</p>
+<p>But <i>ca.</i> 1500, that was a radical idea.  In Europe, the “Wisdom Of The
+Ancients” was the watchword.  There was no point trying to improve on
+Aristotle, Galen, and Ptolemy; in fact attempts to do so, taken too far, could
+win you a starring role in a scene involving a stake and firewood.</p>
+<p>This wasn’t just Eurostupidity; China had its own “Wisdom Of” culture,
+where the ancients were mostly just one ancient, namely Confucius, and in fact
+the wisdom was strictly as transmitted in the
+<a href="https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics">Four
+Books</a> as curated by
+<a href="https://en.wikipedia.org/wiki/Zhu_Xi">朱熹 (Zhu Xi)</a> sometime
+before 1200.</p>
+<p>Central to this whole discussion and thus, argues Mokyr, the Enlightenment and
+Industrial Revolution, was generally the notion that Progress Is Good
+(Corollary: The Ancients didn’t know it all):</p>
+<blockquote><p>Galen had no microscope, Ptolemy no telescope, Archimedes no
+calculus. More than anything, the moderns stressed, knowledge was
+cumulative.</p></blockquote>
+<p>Put another way:</p>
+<blockquote><p>Intellectual sacred cows were increasingly being led to the slaughterhouse of evidence.</p></blockquote>
+<p>To which most of us would say: Well, yeah. And while I try to be open-minded, I
+basically disrespect any arguments which in the twenty-first century appeal to the
+Wisdom Of The Ancients, notably including those of Christians, Muslims, and Buddhists,
+to mention only those most numerous.  They say: “This old text, as transmitted
+through multiple fallibly-mutable scribal generations, says (for example) how women should
+behave sexually.” I say: “We know better now, because we measure what nature
+tells us.”  Case closed.</p>
+<p>So, who first made an argument like that?</p>
+<h2 id='p-2'>Francis Bacon (1561-1626)</h2>
+<p>Mokyr says he did. It
+<a href="https://en.wikipedia.org/wiki/Francis_Bacon">turns out</a> that Bacon,
+a failed politician in permanent financial trouble, wrote the ur-narrative
+on what we now call the Scientific Method.  He himself wasn’t much
+of a scientist, but was (apparently, if you read Latin) a good writer, and
+after all it’s a convincing line of argument: Observe nature, come up with
+explanations of what you see, try to prove they’re wrong, and the more you
+can’t the more you believe them.</p>
+<p>In this context I need to link to two more long-form pieces: First Mokyr’s
+own
+<a href="https://www.theatlantic.com/business/archive/2016/11/progress-isnt-natural-mokyr/507740/">Progress Isn't Natural</a>
+last year in <cite>The Atlantic</cite>.  Intriguingly, he calls out lots of
+luminaries of intellectual history, but not Bacon. However,
+<a href="http://www.exurbe.com/?page_id=21">Ada Palmer</a>, a
+<a href="http://www.exurbe.com/?p=4269">remarkable person</a>, certainly does
+in
+<a href="http://www.exurbe.com/?p=4041">On Progress and Historical Change</a>,
+a messy, sprawling blog piece that might be even longer than this one will end
+up.  It’s erudite, instructive, and fun!  I quote: “In the early
+seventeenth century, Francis Bacon invented progress.”</p>
+
+<h2 id='p-7'>Enemies of progress</h2>
+<p>We’ve always had them.  Any system, no matter how
+impoverished, has people at the top of the pyramid for whom things are
+working just fine, and would prefer that they not change.</p>
+<blockquote><p>As we have seen, one bias in cultural evolution is what I call coercion bias, the ability of those in power who have a strong stake in the cultural status quo<span class='dashes'> —</span> be it religious, artistic, or scientific<span class='dashes'> —</span> to suppress innovation and persecute heterodox cultural entrepreneurs who deviate from the received wisdom. Innovations can undermine an existing structure of beliefs and in the process “erode beliefs” that provide certain groups with rents and legitimization. Another way of looking at this bias is to note that incumbents erect high barriers to entry into the market for ideas to protect their monopoly. These barriers often rely on such terminology as “heresy,” “apostasy,” and “blasphemy” and depend on raw political power to prevent new ideas from competing.</p></blockquote>
+<h2 id='p-9'>Could the Contras have won?</h2>
+<p>Mokyr is pretty sure they could have:</p>
+<blockquote><p>Fairly minor rewrites of history could have secured Europe for an obscurantist
+Catholic regime in which the Republic of Letters would have turned into a
+benighted theocracy dominated by Jesuits…</p></blockquote>
+<p>The essay by Ada Palmer that I linked above goes deep on whether
+history has a direction, whether anything can be said to be inevitable.
+The answer, <em>of course</em>, is “it depends”.  But I thought Mokyr’s case
+was strong.</p>
+<p>Here’s another interesting notion, formal barriers to the introduction of
+new knowledge.  It turns out sociologists have a word for it:</p>
+<blockquote><p>A mechanism that has long been known to scholars working in cultural evolution
+is known as transmission isolating mechanisms, or TRIMs. TRIMs isolate a society from foreign cultural features, thus in
+some sense making its cultural macro-evolution more like biological evolution.</p>
+<p>None of those TRIMs ever proved wholly effective, although those in Tokugawa
+Japan before the Meiji revolution came close, and North Korea in our time is
+making a serious effort in the same direction.</p></blockquote>
+<p>But Europe around 1500 was just too easy to move around in, and its
+cultures too incestuously intermingled.</p>
+<h2 id='p-8'>Religion’s role</h2>
+<p>You may have noticed above that Mokyr is scathing about religion.
+But it’s not that simple; both he and Palmer point out
+that Bacon and his followers had a line of argument that Science was best seen
+as a form of Divine Worship, work that in and of itself glorified God, and thus
+intrinsically praiseworthy.  I gather it was at least adequately
+convincing to those who unlike me believe in one or more divinities and
+further that they Have A Plan For Us.</p>
+<p>In practice, it turned out that the Catholic church was, on balance but
+with notable exceptions, anti-progress; that Protestant denominations leaned
+somewhat the other way, and that England’s Puritans in particular lapped up
+the Science-as-Worship narrative.</p>
+<blockquote><p>After 1650, the power of conservative forces to hold back new ideas dissolved north of the Alps and the Pyrenees.</p></blockquote>
+<p>Why, then, did the proponents of Progress overcome their adversaries and
+successfully roll the rock down the hill that eventually became the Industrial
+Revolution?</p>
+<h2 id='p-3'>Euro politics</h2>
+<p>Mokyr’s explanation relies heavily on Europe’s (then as now)
+political fragmentation, with many polities who even in times of peace struggle
+for power, influence, and money.  This meant that when Science (or
+as they said then, “Natural Philosophy”; gotta love that) started to become A
+Thing, and the local Jesuits or Wool-guildsmen or whoever decided it was A Bad
+Thing, a Natural Philosopher In Trouble could skip across the border to the
+nearest unfriendly principality, where public disfavor at home might be enough to win
+you a court income and high standing.</p>
+<p>I’m pretty well convinced on this point, if only because Mokyr offers
+lots of examples of thought leaders who did just that. It also helps explain
+why China, where people are just as smart and inventive as in Europe, never had its
+Industrial Revolution: There were no principalities a radical Natural
+Philosopher could sneak across the border of.</p>
+<h2 id='p-10'>Networking</h2>
+<p>Part of the argument here is negative: “The enemies of Progress failed
+because…” but the positive part is more interesting.  Mokyr discusses at
+length the “Republic of Letters”, the actual network of collaborating
+intellectuals that pushed back the boundaries of Natural Philosophy and,
+partially as a consequence, technology.</p>
+<p>It was a
+functioning more-or-less meritocracy, driven by regular interchange of paper
+letters between the thought leaders, which eventually crystallized into
+intellectual coffeehouses, salons, and finally institutions such as the Royal
+Society and its peers.</p>
+<p>These paragraphs will probably resonate with anyone who, like me, has lived
+substantially on the Internet:</p>
+<blockquote><p>The networks of people who rarely or never met one another
+turned out, paradoxically, to create a unity of purpose and method in a
+community that was overlaid on a highly fragmented world.</p></blockquote>
+<p>Also:</p>
+<blockquote><p>Special nodal figures whose responsibility it was to copy letters and send
+them on to other members were known as “intelligencers.” Correspondence
+clearinghouses or “offices of addresses” were set up, in which private
+communications were further disseminated. </p></blockquote>
+<p>A key feature was rough-and-ready egalitarianism; nobody had the standing
+to be believed uncritically, without someone else having considered and
+replicated their results.  It’s hard to imagine how radical this would have
+been in an era where the Wisdom was mostly considered to be Ancient.</p>
+<p>And another supporting accident of history that might not have
+happened:</p>
+<blockquote><p>Much less discussed than printing but of great importance in
+the operation of the Republic of Letters was the improvement in the
+continent-wide flow of mail.</p></blockquote>
+<p>Mokyr notes that the rise of postal services in pre-Enlightenment Europe
+was partly a function of the aforementioned fragmentation, particularly in the
+Hapsburg dominions. I also am cheered by the knowledge that the British postal
+system was built by, more than any other single individual, the novelist
+Anthony Trollope, in his civil-servant day job.</p>
+<p>Really a lot of lucky accidents: We came awfully close to missing out on
+modernity:</p>
+<blockquote><p>Much of what is to follow describes cultural changes as a result of the
+incentives and stimuli provided by an institutional environment. Institutional
+outcomes, moreover, have a large aleatory component. They are the result of
+battles, dynastic arrangements, power struggles, the arbitrary preferences of
+unusually influential or powerful individuals, political compromises, and maps
+drawn by generals or politicians. There was nothing inevitable in the survival
+of relatively tolerant institutions in the Low Countries and Britain in the
+seventeenth century, any more than in the emergence of very different
+institutional outcomes in Korea or Germany after World War II. Such
+differences often seem to be the outcome of historical flukes rather than of
+deep cultural processes. </p></blockquote>
+<h2 id='p-11'>Does Science work?</h2>
+<p>Here’s the thing: Driven by Baconian thinking, Natural Philosophy (er
+Science) took off in the 1600s, and sort of roughly at the same time, there
+was a surge of technology progress, mostly around manufacturing.  What
+could be more obvious? The Natural Philosophers did the theory, and the
+craftspeople (A.K.A. engineers) did the practice.</p>
+<p>Except for, no.  If you try to draw a line between the Laws of Nature as
+worked out by theoreticians and actual works-on-the-street technology, you end
+up with an embarrassing lag of perhaps two centuries. What’s remarkable is
+that the actual scientists found wealthy patrons to keep them in operation for
+generations in which their only output was public demonstration of things like
+electrostatic effects.  In fact, Mokyr quotes the “well-worn adage that
+science owed more to the steam engine than the steam engine owed to
+science”.</p>
+<p>Palmer and Mokyr both spin their wheels a bit trying to explain this; she
+offers “It is not an easy thing to prove science works when you have no
+examples of science working yet” and Mokyr says, unsatisfyingly:</p>
+<blockquote><p>A counterfactual world of technological progress entirely carried by skilled and imaginative artisans, without any input from Baconian-minded intellectuals and natural philosophers, might have seen some local technical advances in textiles and metals in the eighteenth century, but it would not have produced a sustainable and self-reinforcing Industrial Revolution.</p></blockquote>
+<p>Uh, care to introduce any empirical evidence, Dr Mokyr?</p>
+<p>But I think the story isn’t that complicated; maybe because I’m one of today’s
+engineers/craftsmen, downstream from the scientists.</p>
+<p>Here’s the thing: Science is a long shot. Most hypotheses are falsified. Of
+those that hold up, few have any useful effect. Many academic papers are
+<a href="http://blogs.lse.ac.uk/impactofsocialsciences/2014/04/23/academic-papers-citation-rates-remler/">entirely
+uncited</a>.</p>
+<p>Occasionally scientists stumble into a rich vein of theory with a short
+pipeline to practice, for example semiconductor physics or antibiotic drug
+discovery.  But given the overall size of the Natural-Philosophy enterprise in
+the Enlightenment, tiny compared to modern Science, it’s unsurprising to me
+that it took a couple of centuries to get any goodies.</p>
+<p>It’s worth noting that not only is science a long shot, it’s
+unpredictable.  Who could have predicted that culturing moulds would bear
+lifesaving fruit, or fooling with germanium and silicon would launch
+cyberspace?  Or (my favorite) that the rambling edifice of number theory, its
+towers of the purest ivory, would
+give us the first wave of strong Internet encryption?</p>
+<p>I’m just thankful that the Enlightenment scientists’ patrons hung in there
+with them through all those decades where all they had were cool demos and peers’
+plaudits.</p>
+<h2 id='p-4'>What About Asia?</h2>
+<p>That’s the big question. Why didn’t India or China make the
+scientific/industrial leap?  Mokyr digs deep on the subject of China, and oh
+my did I ever learn a lot about its intellectual history.  The short
+version is that stasis was advantageous to China’s rulers and so
+Wisdom-of-the-Ancients became Imperial policy.  Mokyr goes deep on this
+and he really knows a lot about the subject; I learned about
+<a href="https://en.wikipedia.org/wiki/Mohism">墨家 (Mohism)</a> and 
+the
+<a href="https://en.wikipedia.org/wiki/Kaozheng">考證 (Kaozheng)</a> movement
+and a few interesting Chinese thought leaders; none of whom, however, managed
+to break the Imperial intellectual shackles.</p>
+<blockquote><p>…the Kangxi emperor banned all questions on natural studies
+from the civil service examination and his successor, the Yongzheng emperor,
+began a closed door policy that lasted until after the Opium Wars in the
+1840s.</p></blockquote> 
+<p>That seems almost as insane as, I don’t know, um, walling a billion-strong
+nation off from the Internet? And hey, those wall-builders are also trying to
+<a href="https://www.economist.com/news/china/21726748-and-glossing-over-its-own-history-mauling-chinese-culture-communist-party-redefining">bring
+back Confucianism</a>, which they explain as “Listen to your parents at home,
+to your teachers at school, to your boss at work and to the state and
+government in the country—then you will have happiness.” Feaugh.</p>
+<h2 id='p-14'>What about education?</h2>
+<p>This shocked me too: It turned out that the great famous-named unversities
+(Oxford, the Sorbonne, and so on) were mostly part of the
+establishment, in the Wisdom-of-the-Ancients camp:</p>
+<blockquote><p>Universities in early modern Europe were, then, mostly highly
+conservative organizations in which, for the most part, “critical learning”
+meant purging classical texts of distortions introduced through copying and
+translation errors in a later time. The goal of the typical university scholar
+was “textual purity rather than scientific truth”.</p></blockquote>
+<p>Even more shocking:</p>
+<blockquote><p>Econometric work has found little support for a major role
+for education in explaining economic progress. A closer examination of the
+postulated role of human capital in growth also suggests that, alas, education
+(or human capital more generally) is not a magic formula for rapid economic
+development. </p></blockquote>
+<p>So there.</p>
+<h2 id='p-12'>Is it actually a good book?</h2>
+<p>Not really.  It’s only 400 pages long, but it’s a brutal, grinding read;
+put me to sleep a couple of evenings.
+The biggest problem is that it’s not actually written as a popular nonfiction
+book, but as an extended social-sciences academic paper. Let me give an
+example from early in the text:</p>
+<blockquote><p>The importance of these elements was already pointed out by John Stuart Mill
+([1848], 1929, pp. 111–12) and different levels of trust have been shown to
+explain income differences between nations (Zak and Knack, 2001).</p></blockquote>
+<p>In the quotations up till this point, I have suppressed the endless
+citations. But the book is marred by way too many of these platitudes
+with academic fluff on top.  Don’t want to hurt Zak and Knack’s feelings, but
+they sound like an third-rate standup-comedy duo.</p>
+<p>Mokyr’s core argument is that the Enlightenment and Industrial Revolution
+grew out of a special moment in culture when Bacon’s ideas blossomed into the
+Republic of Letters, which built scholarly institutions and overturned the
+Wisdom-of-the-Ancients paradigm, and waited the necessary centuries for the
+science-to-technology-to-craftsmanship ecosystem to start working well.  I think it’s
+a strong argument.  Except for, the first hundred or so pages are
+dedicated to painstakingly defining what he means by “culture”,
+“institutions”, “progress”, and so on.  Tl;dr: They mean what you think they
+do, as when said colloquially.</p>
+<p>It is not the case that inside every big fat book there’s a slim one
+fighting to get out, but in this particular case I think Mokyr’s material could be
+distilled into a really superb little 200ish-page nonfiction gem that might
+sell a gazillion copies, improve the world, and make him rich.</p>
+<p>I have more gripes.  Consider this:</p>
+<blockquote><p>One might ask, had Britain and India been at the same level of economic and institutional development in 1700, why was there no “Western-Europe Company” set up in Delhi that would have exploited the deep political divisions within Europe to establish an Indian Raj in London, extracting high rents from Europeans remitted to nouveaux riche nabobs in India and forced Europe to accept Indian calicoes without tariffs?</p></blockquote>
+<p>Good question! After all, India featured the same political fragmentation
+and religious diversity that Mokyr (convincingly) claims underlay Europe’s
+intellectual surge.  Why no Indian Enlightenment?  He just doesn’t say, which
+feels like a hole in the book.</p>
+<h2 id='p-13'>Business bumph</h2>
+<p>I know how to read through academic apparatus and am prepared to forgive
+the author, who apparently thought he was writing for his professional
+peers.</p>
+<p>Less forgiveably, the book is suffused by fashionable 21st-century business
+jargon, which Mokyr
+seems to think useful in understanding the Enlightenment.
+The thought leaders, people like Leibniz, Newton,
+and Mersenne, are described as “cultural entrepreneurs” and the larger
+intellectual landscape is repeatedly referred to as a “marketplace of ideas”.</p>
+<p>I know something about entrepreneurship and markets, and this is just
+totally cockeyed.  Entrepreneurs know what they’re trying to accomplish and
+are especially distinguished by an unusual amount of risk tolerance. With a
+stretch, the term might apply to, say, Hitler or Mao.  But these Enlightenment
+geeks were monomaniacally chasing whatever idea had its claws into them at any
+given moment, without any concern at all for what the results might be.
+That’s how thought leaders thought-lead.</p>
+<p>And “markets”?! Gimme a break.  The central defining feature of a market is
+that the entities exchanged therein have prices, and that prices are
+important.
+But <em>ideas are free</em>.
+When they compete, it is never on the basis of cost, it is the basis of power,
+simplicity, and credibility.  Subtracting this crap would be another step
+toward extracting the many gems from this messy lump of prose and combining
+them into a bright clean instructive story.</p>
+<p>A few more jewels:</p>
+<blockquote><p>Some scholars have proposed getting rid of such categories as “science” and
+“technology” altogether and instead proposed something like a “mindful hand”, which stresses the difficulty of drawing a line
+separating skill from knowledge.</p>
+<p>We should indeed stress that knowledge was produced by a continuous range
+of people, from mindful hands to handy minds…</p></blockquote>
+<p>And:</p>
+<blockquote><p>The two most progressive nations in eighteenth-century Europe,
+the Netherlands and Britain, were the most heavily taxed on
+average…</p></blockquote>
+<p>And:</p>
+<blockquote><p>To repeat: the key to Europe’s success was its fortunate condition that combined political fragmentation with cultural unity. If it had had one without the other, the end result would in all likelihood have been profoundly different.</p></blockquote>
+<p>Finally:</p>
+<blockquote><p>…economists today speak of technological progress but
+institutional change: the directionality of the latter is much less
+self-evident.</p></blockquote>
+<h2 id='p-15'>And, in the end</h2>
+<p>On one of the book’s last pages Mokyr introduces a notion he’s apparently
+written about previously:</p>
+<blockquote><p>But most societies that ever existed were subject to what I have called
+elsewhere Cardwell’s Law, which is a generalization of the phenomenon that
+technology in any economy crystallizes at some point, and progress slows down
+and then fizzles out.</p></blockquote>
+<p>Well, that’s a surprise.  I wonder if it’s true. Fortunately, he has input
+on how to dodge it:</p>
+<blockquote><p>Breaking out of Cardwell’s Law requires, above all, a community
+that combines pluralism and competition with a coordination mechanism that
+allows knowledge to be distributed and shared, and hence challenged,
+corrected, and supplemented.</p></blockquote> 
+<p>It may sound hackneyed in 2017, but: Me, I believe in progress.  I believe
+in building understanding cumulatively and striving always for
+<a href="/ongoing/Truth">Truth</a>.
+Unfortunately, there are places in the world, some quite nearby, where the
+enemies of progress are strong. As Joel Mokyr teaches, progress is not
+predestined to win; we have to fight for it and never stop, or we can lose it;
+it’s happened.</p>
+<p>I don’t want to diss the Ancients. It’s just that we know more now.</p>
+</div></content></entry>
+
+<entry>
+ <title>Olympus TG-5 &#x201c;Tough&#x201d; Waterproof</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/08/13/TG-5' />
+ <link rel='replies'        thr:count='10'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/08/13/TG-5#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/08/13/TG-5</id>
+ <published>2017-08-13T12:00:00-07:00</published>
+ <updated>2017-08-14T00:06:41-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Video' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Video' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Photos/Cameras' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Photos' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Cameras' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>I found my&#xad;self vacation-bound to Queens&#xad;land (that&#x2019;s the top right cor&#xad;ner  of Aus&#xad;trali&#xad;a) and the itinerary in&#xad;clud&#xad;ed beach&#xad;es and coral, specif&#xad;i&#xad;cal&#xad;ly the  Great Bar&#xad;ri&#xad;er Reef, which is dy&#xad;ing. I like to pho&#xad;to&#xad;graph the places I vis&#xad;it, and the <a href='http://amzn.to/2hYk08A'>Olym&#xad;pus TG-5</a>  is get&#xad;ting lots of buzz in  waterproof-cam cir&#xad;cles, so I got one.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>I found myself vacation-bound to Queensland (that’s the top right corner
+of Australia) and the itinerary included beaches and coral, specifically the
+Great Barrier Reef, which is dying.  I like to photograph the places I visit, and the
+<a href="http://amzn.to/2hYk08A">Olympus TG-5</a> is getting lots of buzz in
+waterproof-cam circles, so I got one.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/LRM_20170709_164935.png" alt="Olympus TG-5 under water" />
+<div class='caption'><p>The manual says that when it’s been in the ocean,<br/>
+you should give it a ten-minute freshwater soak.</p></div>
+<h2 id='p-1'>Camera geekery</h2>
+<p>The Oly TG “tough” cameras have been underwater stalwarts for years, and
+the -5 differs from its predecessors notably in shooting RAW, offering 4K
+video, and  having <em>fewer</em> megapixels, for better low-light
+sensitivity. Oly obviously knows what camera geeks want to hear.</p>
+<p>Up until the point that phones became good cameras, I’d always had a
+“pocket cam”.  On this trip I had one again, and it was kind of nice.  It
+doesn’t actually take better pix than my Pixel, but unlike any phone-cam it
+has a competent little zoom (30-100mm equivalent).  What’s weird though (if
+you haven’t dealt with a marine model before) is that the zoom is all
+internal, there’s a soft hum but no moving parts.  That’s probably why the
+sensor’s so small.  Anyhow, it’s small
+enough to take along on the airplane and shoot out the window.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0013.png" alt="Pacific Northwest islands" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0018.png" alt="Sandbar somewhere between NZ and Australia" />
+<div class='caption'><p>The first is near Vancouver; the sandbar is somewhere<br/>
+in the blue water between Auckland and Cairns.<br/>
+Couldn’t have captured either with a phone.</p></div>
+<p>It’s pretty easy and fun to use; too many “modes” for a Fujiholic like
+me, but I mostly left it on auto and thought it mostly did the right thing.</p>
+<p>As with all modern cameras, the image quality is not terrible, probably
+better than almost anything digital much before 2010.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0039.png" alt="Beach near Port Douglas, Australia" />
+<p>Could you take that with a phone?  Sure, since it’s zoomed right out; but
+only if you didn’t mind taking your phone into chest-deep seawater.</p>
+<p>It’s also got an interesting “microscope mode” for extreme close-ups.  I
+had a lot of trouble getting anything useful out of that.  These leaves are
+absurdly tiny.  My problem was finding things that were tiny and also interesting.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0121.png" alt="Extreme close-up, Queensland rainforest" />
+<h2 id='p-2'>Under water!</h2>
+<p>Well, that’s what I got it for.  These are all taken at
+<a href="https://goo.gl/maps/JzcgLt5VApL2">Agincourt Reef</a>. Pictures first,
+then a few notes.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0060.png" alt="Agincourt Reef, Great Barrier Reef" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0069.png" alt="Agincourt Reef, Great Barrier Reef" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0086.png" alt="Agincourt Reef, Great Barrier Reef" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0093.png" alt="Agincourt Reef, Great Barrier Reef" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0115.png" alt="Agincourt Reef, Great Barrier Reef" />
+<p>I was just snorkeling and free-diving (on top of which I had a cold, which
+gets in the way)<span class='dashes'> —</span> this would be a lot easier with
+scuba gear and a clear head.  The pix out of the camera were pretty uninspiring, but since it
+shoots RAW, I could bring Lightroom muscle to bear. In particular, its
+Dehaze control (under the Effects menu) was very helpful.  Two things come to
+mind: First, underwater photography is hard, and I’d never done it before.  And
+compared to Hawai’i, the Great Barrier Reef has much less underwater color and
+visual drama; the above are <em>definitely</em> highlight-reel shots.</p> 
+<p>The camera comes with three different underwater presets, but after about
+the first ten minutes, I gave up and put it in the “P” mostly-auto mode and
+went with that.</p>
+<p>It was great fun and I’m looking forward to another outing; I know I can do
+better and I’m determined to try.</p>
+<h2 id='p-3'>Video!</h2>
+<p>The two little pix to the right are linked to short movies, shot at 4K and
+reduced to 1280x720, so “only” 41 and 23 MB respectively.  I trimmed and
+exported them in Lightroom, but that’s all the video editing it offers;
+they’re otherwise straight outta the camera.  I have no idea how
+this will work on your browser, I’m a complete video virgin.</p>
+<a href="PRED0042.mp4"><img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0042-1.png" alt="Incoming waves" class="inline" /></a>
+<p>For <a href="PRED0042.mp4">the first</a>, I set the camera down in the sand
+just where the waves were petering out, let it run for a bit, then zoomed
+out.  Pre-zoom, you can see one wavelet bounce back off the camera.
+After, watch how the auto-focus works with the waves, which 
+is not bad.  I think I’m going to take one of these at every future
+beach I visit.</p> 
+<a href="PRED0091.mp4"><img src="https://www.tbray.org/ongoing/When/201x/2017/08/13/PRED0091-2.png" alt="Free dive" class="inline" /></a>
+<p><a href="PRED0091.mp4">The second</a> is what I guess people buy these
+things for, just a record of part of a short free dive, max depth maybe three meters.
+It shows the coral colors as they mostly are, and without direct sun; not terribly intense
+or exciting. But there are a couple of yellow fish and the ascent is visually satisfying.</p>
+<p>There’s so much craft in producing decent video and I don’t have any of it.  But
+if you do, or if you just like taking pictures underwater, or having a camera
+you can set down on the beach or use in places where no sane person would take
+one, the TG-5 is a pretty good choice, I think.</p>
+<h2 id='p-4'>It’s dying</h2>
+<p>The Great Barrier Reef I mean, killed by this insane uncontrolled
+experiment where we dump megatons of carbon into our planet’s air without
+considering the consequences.  That’s one reason we went.  It’s also a reason
+I don’t want Canada exporting any more of the carbon-laden crap coming out of
+the tar sands, and will do what I can to keep that from happening.</p>
+<p>And, I have to admit, we should all be doing less flying around in
+airplanes.  If the only flights were for vacations, and to worship at
+natural temples like this one, we could probably still save the earth, or at
+least the coral.</p>
+</div></content></entry>
+
+<entry>
+ <title>TLS Wiretap Fear</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/07/24/TLS-1-3-Wiretapping' />
+ <link rel='replies'        thr:count='1'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/07/24/TLS-1-3-Wiretapping#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/07/24/TLS-1-3-Wiretapping</id>
+ <published>2017-07-24T12:00:00-07:00</published>
+ <updated>2017-07-28T16:24:43-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology/Internet' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Internet' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology/Security' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Security' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>There is a hot lengthy ar&#xad;gu&#xad;ment go&#xad;ing on in the IETF&#x2019;s TLS Work&#xad;ing Group which has been mak&#xad;ing me un&#xad;com&#xad;fort&#xad;able. It&#x2019;s be&#xad;ing al&#xad;leged that there is an at&#xad;tempt to weak&#xad;en Web se&#xad;cu&#xad;ri&#xad;ty in a deep fun&#xad;da&#xad;men&#xad;tal way, which if true is ob&#xad;vi&#xad;ous&#xad;ly a Big Deal.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>There is a hot lengthy argument going on in the IETF’s TLS Working Group
+which has been making me uncomfortable.
+It’s being alleged that there is an attempt to weaken Web security in a deep
+fundamental way, which if true is obviously a Big Deal.</p>
+<h2 id='p-1'>What’s an IETF TLS WG?</h2>
+<p>TLS is a broad term for the family of crypto and related security protocols
+that make the Web secure.  You may have noticed that more and more web
+addresses begin with “https:” rather than “http:”, which is
+<a href="/ongoing/When/201x/2012/12/02/HTTPS">a good and important
+thing</a>; TLS in action.</p>
+<p>The standards behind this good and important thing are hammered out by the
+Internet Engineering Task Force’s (IETF’s) Transport Level Security (TLS)
+Working Group (WG).  They do their work in public and
+<a href="https://www.ietf.org/mail-archive/web/tls/current/maillist.html">you
+can watch them</a>.</p>
+<p>Recently, there has been a ferocious outburst of controversy, kicked off by
+a thing called
+<a href="https://tools.ietf.org/html/draft-green-tls-static-dh-in-tls13-00">Data
+Center use of Static Diffie-Hellman in TLS 1.3</a>. 
+Some people say it’s a practical extension to let people who run data centers
+manage their network traffic.  Others say that it’s an attempt to
+build wiretapping into the Web.</p>
+<p>I’ve been reluctant to write about it because I am not a crypto wizard and
+don’t really understand Diffie-Hellman well.  Fortunately, Stephen Checkoway,
+who <em>is</em> an expert, wrote
+<a href="https://www.cs.uic.edu/~s/musings/tls13-enterprises/">TLS 1.3 in
+enterprise networks</a>, and I was pleased to discover that he saw the picture
+more or less the same way I do.</p>
+<p>Clearly, this is a subject on which reasonable people can disagree in good
+faith.  But let me throw a little fuel on the fire:  I think that in fact some
+people and organizations do want to add wiretapping to the Web, and
+in a way that would be overly difficult to detect by people being wiretapped.
+I further think that there’s no excuse for doing this, and agree with
+Checkoway’s take-away: <i>“Yes, switching to TLS 1.3 will prevent operators
+from doing precisely what they’re doing today; however, there is currently no
+need to switch. TLS 1.2 supports their usecase and TLS 1.2, when used
+correctly, is secure as far as we know. Of course the network operators won’t
+receive the benefits of mandatory forward secrecy, but that is precisely what
+they are asking to give up in TLS 1.3.”</i></p>
+<p>So, dear IETF TLS WG: It really looks like you shouldn’t do this.</p>
+<p>Finally (on a related but distinct subject) I’m a little worried how easy
+it seems to be to introduce a wiretapping capability into TLS 1.3.  But that’s
+all I’ll say on the subject because, as already stated, I’m not a crypto
+nerd.</p>
+</div></content></entry>
+
+<entry>
+ <title>Android Auto</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/07/22/On-Android-Auto' />
+ <link rel='replies'        thr:count='3'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/07/22/On-Android-Auto#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/07/22/On-Android-Auto</id>
+ <published>2017-07-22T12:00:00-07:00</published>
+ <updated>2017-07-22T14:50:10-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology/Android' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Android' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>I just had my first ex&#xad;pe&#xad;ri&#xad;ence with <a href='https://www.android.com/auto/'>An&#xad;droid Au&#xad;to</a>  and I sup&#xad;pose there  are lots of oth&#xad;er peo&#xad;ple who haven&#x2019;t been there yet, so a few words might be  use&#xad;ful. Short for&#xad;m: Rough around the edges, but super-helpful.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>I just had my first experience with
+<a href="https://www.android.com/auto/">Android Auto</a> and I suppose there
+are lots of other people who haven’t been there yet, so a few words might be
+useful.  Short form: Rough around the edges, but super-helpful.</p>
+<p>What with my job, I sometimes have to travel between Vancouver and downtown
+Seattle; all the options are lousy. Driving isn’t my favorite but sometimes it happens.
+Recently I rented a car for the purpose; reserved the standard
+corporate-guidance minibox but they were overrun with summer tourists and,
+threatened with a long wait for the right car, I became That Guy you want out
+of your face. So they picked the top key off the stack and gave a brand new
+Dodge Charger with Android Auto (hereinafter AA).</p>
+<img src="Dodge-Charger.png" alt="Dodge Charger" />
+<p>What a ridiculous car.  It has muscle bulges on its muscle bulges.  Nobody
+would call it agile; stomp the gas and it takes a few moments to make sure you
+really meant it. But then, oh my goodness it gets down and boogies, putting
+<em>all</em> those bulges to work.
+I had great fun blasting through gaps in Seattle’s
+infamous perma-jam.  Also, the seats were comfy.</p>
+<p>Would I buy one…  Are you kidding me? But thanks to National for the
+impromptu upgrade.</p>
+<h2 id='p-1'>But I digress</h2>
+<p>Back to Android Auto.  Once I plugged in the USB, my Pixel hooked 
+up to the car right away; all I had to do was tap “OK” a few times.</p>
+<img src="Android-auto-screenshot.png" alt="Android Auto screenie" class="inline" />
+<p>I used it to play music, send and receive
+phone calls and texts (with
+<a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&amp;hl=en">Signal</a> of course), navigate, and listen to a ball game.</p>
+<p>On balance, it works pretty well, albeit with rough edges.  Here’s what you
+need to know about conversing with AA: <em>Your answers should echo the
+questions.</em> For example, if you get a message and AA asks you if you want
+to respond, don’t say “Yes”, say “Respond”.</p>
+<p>Amusingly, I got a front-row seat for
+<a href="http://www.androidpolice.com/2017/07/21/google-fixes-android-auto-issue-left-users-unable-read-reply-messages/">this
+bugfix</a>; on July 16th I couldn’t get texting to work, but it was fine on
+the 18th.</p>
+<h2 id='p-2'>Maps</h2>
+<p>Google Maps are pretty great and so are AA’s.  The UI could use a
+little polishing; if I say “OK Google, directions home.” and there’s only
+really sane choice, don’t make me tap the screen, just go there.</p>
+<p>The real pleasant surprise was when I sort of lost context on where I was
+and how far I had to go.  I pulled over and discovered I could actually pinch,
+zoom, and rotate the on-screen map.  Impressive!</p>
+<h2 id='p-3'>Music</h2>
+<p>This was my fave.  “OK Google, play Led Zeppelin.”  “OK Google, play
+<a href="/ongoing/When/200x/2006/11/13/Rough-Mix">Rough Mix</a>.” “OK Google,
+play
+<a href="/ongoing/When/200x/2007/01/23/Dry-Cleaner-From-Des-Moines">Drycleaner
+from Des Moines</a>”.  Sometimes it takes a surprising amount of time to think
+it over, but I gotta say, it never missed. Now, I didn’t try any
+classical choices, because after all it was a Dodge Charger.</p>
+<p>All this presupposes you have Google Music set up, which
+<a href="/ongoing/When/201x/2015/08/02/Google-Music">I strongly recommend</a>;
+it’s free and good, what’s not to like?</p>
+<h2 id='p-4'>What else?</h2>
+<p>Well, there are
+<a href="https://play.google.com/store/apps/collection/promotion_3001303_android_auto_all?hl=en">lots
+of apps</a>, but I’m not seeing anything that’s making me breathe hard. Well,
+Skype could be handy.  Also, I
+wouldn’t mind having a voice reading my Twitter stream when there’s hot news
+breaking.  But I have to say that maps, music, phone, and text hit a huge
+80/20 point.</p>
+<h2 id='p-5'>Take-aways</h2>
+<ol>
+<li><p>Bigger screens are better.  The Charger’s was only OK, which left AA
+sort of cramped, surrounded by the Charger’s built-in apparatus for radio,
+climate-control, and so on.</p></li>
+<li><p>I think I need AA in my next car.</p></li>
+</ol>
+</div></content></entry>
+
+<entry>
+ <title>On Password Managers</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/07/16/On-Password-Managers' />
+ <link rel='replies'        thr:count='25'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/07/16/On-Password-Managers#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/07/16/On-Password-Managers</id>
+ <published>2017-07-16T12:00:00-07:00</published>
+ <updated>2017-07-22T14:49:53-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology/Security' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Security' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Technology/Internet' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Internet' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>It has come to my at&#xad;ten&#xad;tion that peo&#xad;ple are Wrong On The In&#xad;ter&#xad;net about pass&#xad;word man&#xad;ager&#xad;s. This mat&#xad;ter&#xad;s, be&#xad;cause al&#xad;most ev&#xad;ery&#xad;body should be us&#xad;ing one. Here&#xad;with back&#xad;ground, opin&#xad;ion&#xad;s, and a de&#xad;scrip&#xad;tion of my own se&#xad;tup, which is rea&#xad;son&#xad;ably se&#xad;cure.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>It has come to my attention that people are Wrong On The Internet about
+password managers.  This matters, because almost everybody should be using
+one.  Herewith background, opinions, and a description of my own setup,
+which is reasonably secure.</p>
+<h2 id='p-1'>What is a password manager?</h2>
+<p>It’s a piece of software that does the following (although not all of them
+do all of these):</p>
+<ol>
+<li><p>Store your passwords in a safe way, protected by at least a
+password, which we call the “master password”.</p></li>
+<li><p>Make new passwords for you.  Here’s an example of a generated password:
+<i>QzbaLX}wA8Ad8awk</i>.  You’re not expected to remember these.</p></li>
+<li><p>Make it easy to use passwords.  One way is to copy it out of the
+manager and paste it into a password field.  Another is to use a
+browser plugin that auto-fills login forms.
+On certain combinations of app and mobile device, you can use your fingerprint
+to open the password manager, which makes everything way faster and
+easier.</p></li> 
+<li><p>Store other stuff too.  I keep various Important Numbers and AWS
+credentials and recovery phrases and so on in there.</p></li>
+<li><p>Synchronize between devices.  I have two computers and one phone and I
+need access to my passwords on all of them.</p></li>
+</ol>
+<p>There’s more, but those are the essentials.  The effect is that you end up
+using a different password for every site and app, that they’re all strong,
+and that you don’t have to remember very much.</p>
+<p>My own manager, which
+I’ve been running for years now, contains 504 items, and I use it a few times
+a day, every day.  Granted, many of
+the 504 are for sites and apps that no longer exist (like the dead people I
+can’t bear to erase from my contacts).</p>
+<h2 id='p-2'>How they work</h2>
+<p>It’s pretty straightforward conceptually. They have a little database with
+all the stuff in it, and it’s all encrypted using your password.  So even if
+someone steals the database, you’re probably OK because modern crypto makes it
+really hard to crack the code.</p>
+<p>Where it gets interesting is how these things synchronize between devices,
+and how they use the network.</p>
+<p>Basically, it comes down to this: Can you get access to your passwords over
+the Web?  Lots of password managers allow this, but some don’t.  For example,
+I use
+<a href="https://agilebits.com/downloads">the 1Password app</a>, which has no
+website whatsoever, and has
+<a href="https://support.1password.com/sync-options/">a variety of ways of
+syncing</a> (iCloud, Dropbox, WiFi, local folder) none of which involve
+talking to a website with a browser. <i>[There are lots of other password
+managers, which I’m not gong to write about because I don’t use them.]</i>
+</p>
+<h2 id='p-3'>What’s wrong with a Web site?</h2>
+<p>The problem is that the site has my encrypted
+data, and at some point, wants me to type in the password.  Thus, in
+principle, they can peek and see my passwords.  And hand them over to the
+NSA.  Or to the criminal gang that abducted the CEO’s children.
+This makes me unhappy.</p>
+<p>In principle, this could be OK.  What with modern JavaScript, it’d be
+perfectly practicable to do all the crypto inside my browser, never send the
+password (or anything unencrypted) over the wire, and have me sleep soundly at
+night. 
+Furthermore, since JavaScript is by definition open-source, I could in
+principle look at the code and satisfy myself that it’s wholesome.</p>
+<p>In practice, nope.  The JavaScript platform is dynamic to the core and
+horrifyingly complex even before they start loading massive modern application
+frameworks on it; any teeny little bug or zero-day exploit at any level of the
+stack and I’m
+cooked.  Also, the NSA or a crook only has to make the slightest little
+mod to the code, and take it away a few milliseconds later, and the horse
+would (silently) be out of the barn.</p>
+<p>In the 1Password app’s sync model, however, one assumes they use the
+pretty-secure HTTPS-based APIs for each of these products, machine to machine,
+no  JavaScript in the loop.</p>
+<h2 id='p-6'>Why we’re talking about this</h2>
+<p>Because AgileBits, the company behind
+1Password, is trying to get people to move over to a Web-based thing; that’s
+what you find when you go to
+<a href="https://1password.com/">1password.com</a>.</p>
+<p>There’s a
+<a href="https://www.cyberscoop.com/1password-subscription-no-local-machine-storage/">decent summary 
+at cyberscoop</a> and a longer, more personal
+<a href="https://medium.com/@kennwhite/who-moved-my-cheese-1password-6a98a0fc6c56">narrative from Kenn White</a>.</p>
+<p>I, like many security-conscious people, am just not gonna use anything
+where the same party, who’s not me, gets to see my stored data <em>and</em> my
+password.  Sorry.
+But I love the 1Password apps and I’d really like to go on using them.
+More on that later.</p>
+<h2 id='p-5'>Let’s get serious</h2>
+<p>Am I claiming that my app-only approach is 100% safe?  No, because security
+just isn’t binary, ever.  Let’s see:</p>
+<ol>
+<li><p>The bad guys could slip a sedative into my coffee at a coffee shop and
+install a keylogger on my computer, or</p></li>
+<li><p>install a camera anywhere I work and focus it on my hands, or</p></li>
+<li><p>phish me with a super-clever website or poisoned USB key, and get the
+keylogger in that way, or</p></li>
+<li><p>point a gun at me and ask me to unlock all my devices (then
+probably pull the trigger), or</p></li>
+<li><p>send a National Security Letter to AgileBits and force them to put
+backdoor code in a future 1Password app release that sends the goodies to the enemies.</p></li>
+</ol>
+<p>And anyhow I’m obviously a lame-ass hypocrite because I use the 1Password
+Chrome plugin to fill in forms for me, and this means I type the master
+password into a browser.  Having said that, I verified that it works when I
+have the networks turned off, and at the end of the day, the plug-in is no
+more nor less secure than the app I use all the time.</p>
+<h2 id='p-7'>Is your setup perfect?</h2>
+<p>Well, I only remember four passwords:  For my personal computer,
+for my work computer, for my AWS account, and the 
+1Password master.  And the AWS password is just an accident of history; I
+only need 3.</p>
+<p>Obviously I change them regularly and use password-less ssh access wherever
+I can, and lots of places I go have two-factor, via SMS or hardware token
+(Gemalto, Yubikey) or the Android Authenticator app.</p>
+<p>So, on balance I feel pretty secure.  One downside is when I’m setting up a
+new computer or phone.  The process of typing in long generated passwords on a
+mobile “keyboard” is so impractical as to be hilarious.</p>
+<p>In effect, my security is about as good as my mobile device’s.  Actually a
+bit better, because the 1Password app needs one more
+fingerprint-or-password.</p> 
+<h2 id='p-9'>You sync through Dropbox, are you crazy?!</h2>
+<p>After all, Condi Rice is a board member, which has to worry you.
+But let’s assume the worst: that Dropbox turns turtle for the Feds, or gets
+totally pwned by bad guys.  So, congrats, they have my encrypted password
+file.  It’s not <em>impossible</em> that they might crack it.  But it’d
+probably be easier and cheaper for them to slip a sedative in my coffee,
+or… (see above).</p>
+<h2 id='p-8'>Why is AgileBits doing this?</h2>
+<p>For the same reason that Adobe has been pressuring its customers, for years
+now, to start subscribing to its products, rather than buying each successive
+version of each app.
+A subscription business is much nicer to operate than one 
+where you have to go out and re-convince people to re-buy your software.</p>
+<p>I understand, and I support AgileBits wanting to become a subscription
+biz.  But I still want to keep my data and password away from their servers.
+This all seems fine to me.  I pay my monthly rent to Adobe and it’s for
+Lightroom &amp; Photoshop, not for their unexciting server-side offerings.
+</p>
+<p>So AgileBits, why not? 
+Please go ahead and start asking for subscriptions.  But
+don’t ask paranoid people like me to go anywhere near 1Password.com.</p>
+<p>AgileBits has addressed the situation in
+<a href="https://blog.agilebits.com/2017/07/13/why-we-love-1password-memberships/">Why
+We Love 1Password Memberships</a>, but it’s really unsatisfying, totally
+ignoring the security concerns.  And (I guess I shouldn’t be surprised)
+failing to acknowledge the business advantages for them in making this
+move.</p>
+<h2 id='p-2'>Am I wrong?</h2>
+<p>Maybe there’s something I and the others who are all upset about the
+1Password move are missing; maybe it’s all just OK and there’s really no
+significant loss of security.  In which case, AgileBits really needs to
+explain why.</p>
+</div></content></entry>
+
+<entry>
+ <title>Bye, Rune</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/06/24/Rune-Died' />
+ <link rel='replies'        thr:count='11'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/06/24/Rune-Died#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/06/24/Rune-Died</id>
+ <published>2017-06-24T12:00:00-07:00</published>
+ <updated>2017-07-05T11:48:33-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World/Family' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Family' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>She was a pure&#xad;bred (<a href='https://en.wikipedia.org/wiki/Bengal_cat'>Ben&#xad;gal</a>) ac&#xad;tu&#xad;al&#xad;ly, with a  for&#xad;mal name: Bell&#xad;san&#xad;gels Rune, and a pedi&#xad;gree. Born  March 23, 1998, de&#xad;part&#xad;ed this life June 23rd, 2017, <i>ae&#xad;tat</i>  19 years and  3 month&#xad;s. She pre&#xad;dat&#xad;ed our chil&#xad;dren and dig&#xad;i&#xad;tal cam&#xad;eras and  this is the on&#xad;ly obit she&#x2019;ll get, so it&#x2019;ll be length&#xad;y.  But not  un&#xad;a&#xad;mus&#xad;ing I hope, full of sto&#xad;ries, and book&#xad;end&#xad;ed by base&#xad;bal&#xad;l.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>She was a purebred (<a
+href="https://en.wikipedia.org/wiki/Bengal_cat">Bengal</a>) actually, with a
+formal name: Bellsangels Rune, and a pedigree. Born
+March 23, 1998, departed this life June 23rd, 2017, <i>aetat</i> 19 years and
+3 months.  She predated our children and digital cameras and
+this is the only obit she’ll get, so it’ll be lengthy.
+But not
+unamusing I hope, full of stories, and bookended by baseball.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/RUNE3998.png" alt="Bellsangels Rune" />
+<p>The “Rune” is because when she arrived the
+<a href="/ongoing/When/200x/2005/07/02/Bodoni">senior housecat</a> was named
+“Bodoni” after the typeface, and we failed to find a font we fancied with a 
+feminine feline name; since she was skinny and angular “Rune” seemed
+OK.  Our next-door neighbor called her “Rooney” and there was no point correcting him.</p>
+<p>We bought a fancy cat because we were mad at the Humane Society for
+sending us home with Millie the kitten, who turned out to have distemper and
+died in 48 hours. Which prevented us from adopting another for a full year,
+to avoid lingering microbes.</p>
+<p>Rune was the best cat ever, but the fancy-cat-acquisition process gets you
+into pretty weird territory. Her breeders were in a distant suburb, in a big
+carpet-free house full of kittens and a morose Great Dane, eye 
+bandaged due to kitten-stab.</p>
+<p>Also they operated a cat hotel which we patronized a few times while
+traveling. Its rooms were themed: I only remember the Bridal Suite and the
+Sports Bar (walls lined with real booze in miniatures).  They’d come and pick
+the boarders up in an old limo with a huge stuffed tiger in the back.</p>
+<p>They never, even once, used the word “cat”<span class='dashes'> —</span> “kitty”
+and only “kitty”</p>
+<p>One time I asked them if they showed their cats and they said No; that
+they’d found the people who show cats were a little on the strange side.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/Rune-1.png" alt="Rune on a rafter" class="inline" />
+<div class='caption'><p>A <em>very</em> early digital photograph, captured in December 1998<br/>
+on a miserable little 640x480 first-generation digicam.</p></div>
+<p>Above, Rune’s on our exposed upstairs rafters; she leaped from one to the
+next for pure fun.  It felt a bit odd betimes, when she’d park on the rafter
+over the shower and admire your scrubbing technique; I guess she liked the
+steam.</p> 
+<p>She was lethal in her youth, the terror of the local rodents and even
+biggish birds. One time she and I were chilling on the front steps
+when a crow landed on the neighbor’s porch railing to caw at us with
+attitude. 
+On the third caw Rune was down the stairs, through the hedge, up the side
+of that porch, and the crow’s leg was in her jaws, before the bird or I could
+react.  But she was a small cat 
+and it was a big crow. I intervened to put 
+the bird into the fork of a big tree and the cat inside. Maybe the crow
+survived.</p>
+<p>The other crows learned. In her prime, it was super-annoying the way they’d
+appoint a posse to follow her around the neighborhood, perch on wires and
+trees, and squawk at top
+volume when you were trying to have a conversation or listen to music.
+She hunched and looked oppressed, but I didn’t feel that sorry for her.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/RUNE1811.png" alt="Rune on a vna" />
+<div class='caption'><p>Rune has captured the neighbor’s van<br/>
+and is wondering what to do with it.</p></div>
+<p>She was a people cat. Unfortunately the three-to-five humans co-resident
+during her tenure were not nearly enough to meet her needs, so she adopted the
+neighborhood. The guy who 
+called her “Rooney” is a little bit gruff and territorial; but eventually
+accepted that if the door was open, she’d be in to look for a lap or a
+handout.</p>
+<p>This was mostly OK; but another neighbor (with whom we carpooled kids to
+school), 
+seemed embarrassed not outraged when she confessed that Rune had sent her cat
+to the vet with abscessed wounds.</p>
+<p>My personal fave episode was when she visited the upstairs next-door
+neighbors, which was OK but they forgot she was there and went out. After a
+while she became upset, which she expressed by pushing objects out their open
+bathroom window to the pavement two stories below; I think none survived.</p>
+<p>Her magic, once again: Nobody complained. I guess they thought it was their
+fault.</p>
+<h2 id='p-1'>Imperfections</h2>
+<p>Rune was occasionally a poor citizen of the household; sometimes
+maliciously so.  In her view, the greatest sin, punishable by targeted
+peeing (more below), was ignoring her.</p>
+<p>But the only time she drove me to violence (against any living mammal since
+I turned 18) was the Great Reshelving. We’d reorganized our shelves in a
+way that required that the books all be taken out, stacked on the floor, then
+replaced. This is an onerous task. Our shelves are deeper than strictly
+necessary, 
+and Rune figured out she could get behind the books on a half-filled shelf and
+push them loudly out on the floor. What could be more fun?</p>
+<p>Dear Reader, I must confess that, after a certain number of gleeful
+deshelvings, she impacted the sofa (soft, mind you) at fairly high speed and,
+on the rebound, failed to plant a clean landing on the hardwood. She glared at
+me and left the room 
+in what P.G. Wodehouse used to call a Very Marked Way. Which she had to,
+because I glared back with intent.</p>
+<p>In this case I have evidence. Here she is, disrupting the “T” section.
+Fortunately, she never actually realized that the volumes of Gibbons
+were separable as opposed to just a catwalk.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/PS080874.png" alt="Rune displacing books" />
+<h2 id='p-2'>Peeing with intent</h2>
+<p>This was her worst, purely malicious, sin. She understood the cat litter
+(and of course the garden outside) perfectly well. But if when aggrieved (as
+in, left alone in the house for too many hours) she discovered a garment
+left on the floor near an attractive perch, she would perch, cock
+her tail, and express her smelly feelings with perfect aim from as far as 
+several feet away.</p>
+<p>“Well,” I lectured the children in a superior moral tone, “what can you
+expect if you leave your things lying on the floor all sloppy like that?”
+Having, of course, first suppressed the evidence of my own befouled 
+knapsack.</p> 
+<h2 id='p-3'>Table raider</h2>
+<p>Another major sin.  All the cats who’ve lived with
+us understood that We Do Not Feed Pets From The Table.  The kids learned
+this early too.  As did Rune, but she just didn’t care. 
+If you got up, leaving a pork chop or chicken kebab on your plate,
+and foolishly didn’t push your chair in, you probably wouldn’t get to eat
+the rest of it.</p>
+<p>Once again, I have photographic evidence.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/IMG_0040.png" alt="Rune and boy" />
+<div class='caption'><p>In this case, the meat is mostly gone from the plate,<br/>
+so Rune is immune from instant banishment.<br/>We both understood the rules of the
+game.</p></div>
+<p>That, by the way, is my son, then aged ten, who just graduated from high
+school and may make a named appearance in this space soon if he wants to.</p>
+<p>The best pictures of Rune are all looking up at her, because of course she
+enjoyed looking down on us. </p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/R0010360.png" alt="Rune looking down" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/PS080950.png" alt="Rune looking down" />
+<p>I’ll miss her awfully. But so far I’ve left out her purest love.</p>
+<h2 id='p-5'>Video cat</h2>
+<p>From a cat’s point of view you can’t beat a TV binge, be it baseball or
+Miyazaki or long-narrative-arc series, because the humans’ thighs are
+horizontally immobilized on the sofa. She enjoyed us watching (to name a few)
+<cite>Lost</cite> and <cite>Battlestar Galactica</cite> and <cite>The
+Wire</cite> and <cite>Deep Space Nine</cite> and <cite>Orphan Black</cite>,
+rarely missing an episode.</p> 
+<p>Sometimes, knitting was involved.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/PS088399.png" alt="Rune watching TV" />
+<div class='caption'><p>Not watching out for Cylons.</p></div>
+<h2 id='p-6'>Baseball brackets</h2>
+<p>Her end came fast; she’d been going downhill for months, but with little
+pain it seemed, and then one
+morning her back legs didn’t work, a blood-clot they said and not reversible,
+so the decision was easy. My son and I took her to the vet and held her warm
+while she died.</p> 
+<p>Neither kid had known a time without Rune, so it was a pretty gloomy
+household.  
+Casting about the next day, I noticed a minor-league baseball game at the
+park ten blocks from us, so we went.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/LRM_20170623_212600.png" alt="Minor-league baseball the day after Rune died" />
+<p>Rune had left us gradually, her illnesses mounting; I’d been dealing OK
+with the grief.  But then I remembered a scene from the late summer of 1999
+that our friend Kim photographed on film; a bit low-rez, but look at it 
+anyhow.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/24/BallGame.png" alt="1999" />
+<p>We’d taken our new baby (the same kid you saw above) to a ballgame,
+strapped to my chest. It all went OK, the child pretty drowsy, till the home
+team made a brilliant double play in the second. I leaped up and clapped and
+cheered, and the poor little guy woke up, panicked, and howled fiercely, much
+to the amusement of my fellow fans: Spot the rookie Dad.</p>
+<p>Whatever, we were going home with our new baby and our little cat would be
+happy to see us. Shortly after I took that 2017 ballpark photo, I thought of
+the other, and the empty house we’d be coming home to.  I’m pretty sure nobody
+saw me weeping into my hot dog for a departed friend.</p>
+<p>Tonight, I put on a high-tech fleece in the after-dinner summer cool and
+noticed it still had cat hairs on it in multiple shades of brown. I’m not
+putting it in the laundry any time soon.</p>
+</div></content></entry>
+
+<entry>
+ <title>Map Review Fear</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/06/29/Fear-Google-Reviews' />
+ <link rel='replies'        thr:count='5'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/06/29/Fear-Google-Reviews#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/06/29/Fear-Google-Reviews</id>
+ <published>2017-06-29T12:00:00-07:00</published>
+ <updated>2017-06-30T13:16:30-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Business/Internet' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Business' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Internet' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>My daugh&#xad;ter had a swollen in&#xad;fect&#xad;ed face on a hol&#xad;i&#xad;day morn&#xad;ing, so I looked up near&#xad;by walk-in clin&#xad;ics on Google Map&#xad;s. The one I picked was de&#xad;sert&#xad;ed, ef&#xad;fi&#xad;cien&#xad;t, and kind. After&#xad;ward, with&#xad;out even think&#xad;ing about it, I tapped a good re&#xad;view in&#xad;to the map. Then I won&#xad;dered if I might be part of a re&#xad;al&#xad;ly big prob&#xad;lem.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>My daughter had a swollen infected face on a holiday morning, so I looked up nearby
+walk-in clinics on Google Maps. The one I picked was deserted, efficient, and kind.
+Afterward, without even thinking about it, I tapped a good review into the
+map. Then I wondered if I might be part of a really big problem.</p>
+<h2 id='p-1'>On Google</h2>
+<p>I’m still broadly in sympathy with Google’s efforts on the Internet, which
+have mostly made it better.  And they’re so easy to understand: They
+want everyone to be online all the time to see ads, ideally on a Google
+property where they don’t have to divvy the take.</p>
+<p>Autonomous vehicles? Online while driving. Google Glass?  Online while
+walking. Blogspot? Gmail? Maps? YouTube? Whatever you’re doing, do it here
+please.</p>
+<h2 id='p-2'>On reviews</h2>
+<p>Crowdsourced reviews are, on balance, a Good Thing.  Sure, for anything you
+care deeply about, there are specialist pubs with writing by educated pros:
+DPReview, Wirecutter, Stereophile, and so on.</p>
+<p>But for shopping sites, travel sites, anything sites, a good review
+infrastructure that inspires trust is a huge value-add.</p>
+<p>But, for hardware stores? Clinics? Gastropubs? In fact, anything you use a map
+for?  It dawns on me that I’ve started consulting those reviews that pop up on
+every map search; because they’re useful.  And now, I’ve written one.  And did
+Google ever let me know they were happy; unctuous thanks, gentle encouragement
+to do it again.</p>
+<p>Google’s dominance in the map space never bothered me because the product,
+by and large, is very good. Maps would be very near the top of any list of
+apps I value and use the most.
+But the potential commercial power in that review inventory is awesomely,
+frighteningly, high.  I thought of a few ways you might monetize it and they
+all left bad tastes in my mouth.  On top of which, it’s a moat around Maps,
+making it hard for a competitive technology<span class='dashes'> —</span> this
+is the first generation of online mapping, of course there are huge
+improvements to come<span class='dashes'> —</span> to get a foothold.</p>
+<p>Me declining to review places won’t bend any curves.  But now I don’t feel
+so good about doing it.</p>
+</div></content></entry>
+
+<entry>
+ <title>Phone Obsession</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/06/28/Phone-Harm' />
+ <link rel='replies'        thr:count='7'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/06/28/Phone-Harm#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/06/28/Phone-Harm</id>
+ <published>2017-06-28T12:00:00-07:00</published>
+ <updated>2017-06-29T01:42:11-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>On a re&#xad;cent Satur&#xad;day night, a fam&#xad;i&#xad;ly con&#xad;nec&#xad;tion got in&#xad;to trou&#xad;ble that took me on a res&#xad;cue mis&#xad;sion to a par&#xad;ty gone wrong, then Emer&#xad;gen&#xad;cy. Then it echoed in&#xad;to night&#xad;mare.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>On a recent Saturday night, a family connection got into trouble that
+took me on a rescue mission to a party gone wrong, then Emergency. Then it
+echoed into nightmare.</p>
+<p>At the party scene there was broken glass and shouting and eventually first
+responders, and a partier left by ambulance; I beat the officials there
+and tried to hold things together. This young woman, barefoot
+and disheveled in her party dress, wandered
+through the front room a couple of times, crying. And in between the sobs “<i>I
+can’t find my phone. Fuck you! I’ve lost my phone. Go away! I just gotta get my phone. Shut up!</i>”</p>
+<p>Others rallied around suggesting the back yard, the basement,the bathroom;
+they got the abuse.  I heard she found it, finally.</p>
+<p>So I went off to Emergency to see if I could help out, pretty busy there on
+a weekend night.  I wasn’t there long, but on two occasions a gentleman was escorted out by
+multiple large serious suddenly-appearing security employees, explaining that
+“No she doesn’t want to see you. She doesn’t want you here.”</p>
+<p>One of these guys was telling them how much he loved her and respected
+her and would never want to hurt her and that he was terribly sorry for
+anything that might have gone wrong. A wasted-looking woman, thin as a wraith,
+wandered through trying to bum a smoke and told the dude “Nobody wants you here.”</p>
+<p>He broke down suddenly: “OK, whatever, it’s just I really need my phone, I
+dunno if she’s got it or it at’s her Mom’s.”  The security guy said “If I ask,
+will you just get out of here?”  I never heard how that one ended.</p>
+<p>Apparently there were no disastrous effects from the bad-party
+night, but I think it planted a seed, because a couple days later I woke up
+after a nightmare that I remember (rarely happens) in vivid
+full-color detail.</p>
+<p>Riding a train to Boston with colleagues, I was between cars on my
+phone and accidentally stepped off the train at the last stop before our
+destination. As it pulled away I was furious but I knew what to do: Contact my
+party and ask them to grab my stuff before they got off, I’d catch up somehow.  It was
+a pretty short stretch, so I’d have to get through fast.</p>
+<p>But my dream-phone went into pathological-resistance mode; we’ve all been
+in that place where a device decides it’s not going to wake up, then
+won’t let you sign in, then the app you need won’t start, then it stupidly
+won’t recognize the name of a contact you’ve used lots of times, then drops
+into autocorrect-Swahili-emoji mode, then an update notice jumps in front of
+what you’re trying to do and captures a tap that that it thinks means “go
+ahead”.</p>
+<p>Maybe not <em>all</em> those things happened in my dream, but what did happen was
+the UI finally morphed into this weird red/yellow dragon motif like a cheap Chinatown
+awning, and simply ignored all forms of input, as the seconds ticked away.  
+I woke up sweating with that instant profound “that-wasn’t-real” relief.
+I’m pretty sure now that Chinese-torture UI mode is lurking somewhere in
+Android’s bowels waiting to leap out at me.</p>
+<h2 id='p-1'>So what is this about?</h2>
+<p>Maybe we’re all getting a little overly intimate with
+our mobiles?</p>
+</div></content></entry>
+
+<entry>
+ <title>Games with Girls</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/06/17/Games-with-Girls' />
+ <link rel='replies'        thr:count='3'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/06/17/Games-with-Girls#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/06/17/Games-with-Girls</id>
+ <published>2017-06-17T12:00:00-07:00</published>
+ <updated>2017-06-17T14:31:25-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Games' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Games' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>Weird&#xad;ly enough, for the first time in my life I&#x2019;ve been spend&#xad;ing videogame time with mem&#xad;bers of the op&#xad;po&#xad;site gen&#xad;der; specif&#xad;i&#xad;cal&#xad;ly, my wife and daugh&#xad;ter. Which is an ex&#xad;cuse for re&#xad;flec&#xad;tions on (and groovy pic&#xad;tures from) No Man&#x2019;s Sky.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Weirdly enough, for the first time in my life I’ve been spending videogame
+time with members of the opposite gender; specifically, my wife and
+daughter.  Which is an excuse for reflections on (and groovy
+pictures from) No Man’s Sky.</p>
+<h2 id='p-1'>Open world, with spouse</h2>
+<p>I saw a review somewhere and on impulse picked up
+<a href="https://en.wikipedia.org/wiki/Horizon_Zero_Dawn">Horizon Zero
+Dawn</a>, a pretty and fast-moving open-world bowshooter.  I was watching one
+of the early cinematics when
+<a href="https://twitter.com/laurendw">Lauren</a> walked by, got stuck, and
+sat on the sofa.  Surprisingly, she stayed there after the movie while I
+steered Aloy (the female protagonist) off into the game.  Very surprisingly, a
+bit later she started pointing out opportunities to harvest goodies and dodge
+monsters. Shockingly, the next evening she wondered if I was going to turn on
+the PS4.</p>
+<img src="Aloy.png" alt="Aloy" />
+<div class='caption'><p>Aloy</p></div>
+<p>Now, I’m not in love with HZD.  All the shooters I’ve played have been on
+PC, and I find the PS4 joystick combo hard to aim with, full of
+overshoot. Also, HZD’s designers love snowy backgrounds, and I just have
+trouble seeing the targeting glyph in white-on-white mode.</p>
+<p>But I’m going to play some more.  Sorry, I mean <em>we’re</em> going to
+play some more.  And Lauren has to drive occasionally.  It turns out that she
+sees lots of things on the screen that I don’t; very helpful.</p>
+<h2 id='p-2'>No Man’s Sky, again</h2>
+<p>I played a while when it came out (see blogs 
+<a href="/ongoing/When/201x/2016/08/13/Ten-Zen-No-Mans-Sky-Things">here</a>
+and
+<a href="/ongoing/When/201x/2016/09/26/No-Mans-Sky">here</a>), enjoyed it a
+lot, but got bored and stopped.  I noticed a couple big add-ons had dropped
+and one evening decided to poke my head in.  My 11-year-old daughter walked by
+just as I went near some animal and the “Feed?” dialogue popped up.  “You can
+<em>feed the animals</em>?!” and she was hooked.  So we play for an hour a few
+evenings a week, and I’ll occasionally do a late run.
+She still won’t do space battles, but has mastered the trick of gunning down
+sentinels.  (BTW, if you’re playing the game and not murdering a few
+sentinels, you’re working too hard for your zinc and titanium.  Use your
+grenade launcher.)</p>
+<p>So, doing things with your kids is good, but I’ll be honest, I’m enjoying
+it again. I like trading up ships
+and building bases and fighting pirates and discovering weird planets and
+laughing at silly creatures.  I think what I really like is that it’s a
+relaxing dreamy time (with the occasional short space battle), I can do it for
+a while then knock off and head for bed not feeling too wired at all.</p>
+<p>For those who haven’t sampled the game, or who did so briefly then fell
+away, go pay it a visit.  Also, word on the street is more goodies
+coming.</p>
+<p>Anyhow, the other thing I like is taking pictures; the game now includes a
+“photo mode” to make that easy. 
+No Man’s Sky photography is definitely a thing; one of the subreddits
+recently ran
+<a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/6f3m0q/photo_competition_winners_and_recruiting/">a
+photo contest</a>.
+One reason is that there’s a lot of attention to light in this game; while
+there are still things to complain about, they completely nailed that bit.</p>
+<p>So, here are a few.  Let’s start with exotic
+alien landscapes.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms1.png" alt="No Man’s Sky, red landscape" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms3.png" alt="No Man’s Sky, water world" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms6.png" alt="No Man’s Sky, scary cave" />
+<p>Then there’s our ship.  Oddly, we traded down from A-class to a C-class,
+because it was bigger and well-set-up and cool-looking. But a freighter is in
+our near future.</p>
+<p>The opening mountain-top shot is the only one from my homeworld
+“Bengal’s Moon”, a nice little moon with lots to harvest and really no
+irritants.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms2.png" alt="No Man’s Sky; mountaintop parking" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms4.png" alt="No Man’s Sky; by the beach" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms7.png" alt="No Man’s Sky; heading for an anomaly" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms11.png" alt="No Man’s Sky; space battle" />
+<p>That last one is actually a space battle; those two trails you see are
+pirates trying to kill me, but they’re doomed.</p>
+<p>Now let’s look at some creatures.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms5.png" alt="No Man’s sky; crab thing" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms10.png" alt="No Man’s Sky; headlight creature" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms12.png" alt="No Man’s Sky; wings on the head" />
+<p>That last is ridiculous, a galumphing beast with aetherial blue wings on
+its neck that flutter furiously as it drifts about.</p>
+<p>I’ll close with a couple of shots of a nice Gek.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms8.png" alt="No Man’s Sky; Gek" />
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/17/nms9.png" alt="No Man’s Sky; Gek close-up" />
+<p>No Man’s Sky has been accused of being little more than a generator of
+synthetic space-opera covers.  I’m OK with that.</p>
+</div></content></entry>
+
+<entry>
+ <title>Pie Pride</title>
+ <link href='https://www.tbray.org/ongoing/When/201x/2017/06/15/Pie-Pride' />
+ <link rel='replies'        thr:count='6'        type='application/xhtml+xml'        href='/ongoing/When/201x/2017/06/15/Pie-Pride#comments' />
+ <id>https://www.tbray.org/ongoing/When/201x/2017/06/15/Pie-Pride</id>
+ <published>2017-06-15T12:00:00-07:00</published>
+ <updated>2017-06-16T14:29:23-07:00</updated>
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts/Photos' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Arts' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Photos' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World/Food and Drink' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='The World' />
+ <category scheme='https://www.tbray.org/ongoing/What/' term='Food and Drink' />
+ <summary type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>I apol&#xad;o&#xad;gize in ad&#xad;vance for brag&#xad;ging, some&#xad;thing I do here on&#xad;ly rarely. But my Mom taught me to make pie and now I make pies. It&#x2019;s a beau&#xad;ti&#xad;ful thing, and there are lessons to be had.</div></summary>
+<content type='xhtml'><div xmlns='http://www.w3.org/1999/xhtml'>
+<p>I apologize in advance for bragging, something I do here only rarely.  But
+my Mom taught me to make pie and now I make pies.  It’s a beautiful
+thing, and there are lessons to be had.</p>
+<p>I’ve made two in fact. Here’s the first, with Granny Smith apples
+inside.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/15/FXT19110.png" alt="Apple pie by T. Bray" />
+<p>If you want the recipe, just roll the blog clock back a decade to
+August 2006, when I recorded
+<a href="/ongoing/When/200x/2006/08/25/Apple-Pie">my mother’s narration</a>.
+A lot of wisdom packed into six minutes or so of lousy but appealing
+audio.</p>
+<p>We visited her again this spring and I took a more intense lesson with
+hands-on and copious textual notes.</p>
+<p>The second pie was rhubarb from our own back yard; I
+cranked up the sugar a bit because rhubarb; fortunately not too much and it
+was still tart.  Here’s a piece; the picture suggests the flavor sensation:</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/15/LRM_20170610_195911.png" alt="A piece of rhubarb pie" />
+<div class='caption'><p>The color is because I inadvertently purchased
+“golden” rather than regular Crisco. I’ve been told that pie crust is better
+with real actual lard, but I wouldn’t know how to buy that.</p></div>
+<h2 id='p-2'>Pie supplies</h2>
+<p>You need equipment and technique to make pie.  Specifically, a 
+<a href="http://amzn.to/2sw985f">pastry cloth</a> and
+<a href="http://amzn.to/2sw83dJ">dough blender</a>.  
+The first provides a surface to roll the crust out on, and then you use it to
+flip the crust over the rolling pin so you can unflip it into the pie pan.</p>
+<p>As for techniques, two stand out. First, mixing up the flour and
+Crisco into the right crumbly consistency. My notes say “Dig, don’t mash,
+longtitudinally” and you definitely have to twist the wrist. I’m sure there
+are YouTube videos, or you could ask for an intro to my Mom, who can show
+you. It’s what the dough blender is for; here’s ours.</p>
+<img src="https://www.tbray.org/ongoing/When/201x/2017/06/15/LRM_20170615_191841.png" alt="Dough blender" />
+<p>Second, there’s that business of flipping and unflipping and rolling pins
+and pie pans.  The bad news is, it’s hard. The good news is, when (not if) you
+miss, you can maneuver the crust around and repair any damage pretty
+straightforwardly with leftover dough and a bit of water to make it
+sticky.  I should mention that my Mom doesn’t miss, she drops the bottom and
+top crusts on dead center every time.  Maybe when I’m 86 I’ll be able to do that
+too.</p>
+<h2 id='p-1'>What are you proud of?</h2>
+<p>Someone asked me that not too long ago, and while I have this highly
+visible geek persona, on that front I always feel like I’m stumbling in the
+dark pushing through cobwebs, benefiting unfairly from
+multidimensional good 
+luck, straining at the 
+edges of what I can understand, asking people to explain things over and
+over. Imposter syndrome? Yeah, but extreme cynicism, plus suspicion of anyone
+who sounds over-confident, are super helpful.</p>
+<p>So I’ll tell you what I’m proud of: Being a functional domestic
+adult. I can conjure up an OK dinner for the family from whatever catches
+my eye in the grocery on the way home, and have it on the table pretty damn
+quick after I come in the door.  I can iron a shirt and calm a baby and clean
+a kitchen and prune a shrub and chainsaw firewood, then split it.
+I can untangle a ten-year-old’s hair after she’s been on the trampoline.</p>
+<p>I’ve got a kid inside my head who’s in awe of my awesome mastery of these
+grown-up mysteries.</p>
+<p>On top of which, I can now make pie.
+It’s the opposite of imposter syndrome, and it’s really OK, I think.</p>
+</div></content></entry>
+
+</feed>
