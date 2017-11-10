@@ -4,7 +4,7 @@ Here is a collection of random notes/code samples that I will keep
 here until I find a better place for them. I hope to have a website
 up and running soon where a lot of this stuff can go.
 
-## Notes
+## ISO dates on command line
 
 Getting an ISO-8601 date/time:
 
@@ -26,7 +26,7 @@ From:
 
 https://stackoverflow.com/questions/7216358/date-command-on-os-x-doesnt-have-iso-8601-i-option#7216394
 
-
+## UUID on command line
 
 To generate UUID on command line use:
 
