@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Coffee and Code  Feed</title>
+  <link href="https://coffeeandcode.neocities.org/"/>
+  <updated>2017-11-10T08:15:26+0000</updated>
+  <author>
+    <name>Tony Bedford</name>
+  </author>
+  <id>urn:uuid:B2F5F303-9B73-4D58-B4DF-32EC8F74136F</id>
+  <!-- Entries go here -->
+</feed>
