@@ -4,6 +4,42 @@ Here is a collection of random notes/code samples that I will keep
 here until I find a better place for them. I hope to have a website
 up and running soon where a lot of this stuff can go.
 
+## RTOS course notes
+
+1) Super loop
+- Determinism (no)
+- Responsiveness (variable)
+- Polling periodicity - (variable: for loops, conditionals)
+
+2) Foreground / background
+- superloop + interrupts
+- determinism affected by interrupts
+
+3) RTOS
+- deadlines (hard, form, soft)
+- bounded response time to events
+- kernel
+  - objects (data types)
+  - services (functions)
+  - scheduler
+    - algorithm
+    - dispatcher
+      - task context switching
+
+kernel
+- co-operative
+- pre-emptive
+  - low priority task can be pre-empted and a higher-priority task scheduled
+  
+Without RTOS you can end up with:
+- excessive polling (can be alleviated with loop counters for multi-rate cycling) 
+- busy waiting (waiting for some operation to complete - everything stops at this point)
+
+Micrium
+uC/OS-II
+- 255 tasks - no two tasks can have the same priority
+- 
+
 ## ISO dates on command line
 
 Getting an ISO-8601 date/time:
