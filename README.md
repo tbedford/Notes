@@ -4,6 +4,44 @@ Here is a collection of random notes/code samples that I will keep
 here until I find a better place for them. I hope to have a website
 up and running soon where a lot of this stuff can go.
 
+## IoT notes
+
+- Not all sensors have a MAC ID, and use of TCP/IP at edge of network is impractical.
+- Because of very low cost requirements, sensors and IoT devices may
+  be manufactired without references to centralized authority, leading
+  to challenges around addressability.
+- Machine to machine communication, rather than human to web server (therefore different requirement)
+- Sensors are mostly generating data (asymmetrical comms)
+- Sensors/control circuits need to be resposnive and deterministic (round trip nework protocols are not efficient here)
+- Pub/Sub model works better than peer to peer
+- Ultimately about connection into a network of unparalleled size
+
+
+Architecture
+
+- smart sensors (packet pumps) wirelessly feeding into router
+- smart sensors have limited to no permanent storage
+- routers have permanent storage so they can cache
+- routers can transmit packet stream to pub/sub network
+- smartphone (or smartphone type device) could become the router/concentrator
+- management of software (updates, patches etc), device connections, device discovert is a big challenge
+- we could be looking at 700+ billion IoT devices
+- sensors need to be cheap enough to be disposable (they can easily be lost or damaged), whereas smart phone is not disposable
+- sensor data is often infrequent, and tiny, compared to Internet human oriented apps such as web browsing and video streaming
+- cost, battery life. 
+- often sensor data will be quite compact - a few hundred bytes a day (but aggregated data from devices is vast)
+- sensor will often be wireless (reduces cost and complexity, not need for cables, more practical)
+- solar power
+- example: oil rig would be a good testbed for low voltage wireless sensors connected to main logging unit
+  - interesting issue. I put a level sensor in mud pit 3. Back at the
+  logging unit how do I identify that sensor (it probably has a ID of
+  some kind, but how to I associate that with location?)
+- eample: car, multiple wireless sensors
+- smart sensor would probably be Arduino (or less) in capability. Concentrators might be Pi level.
+
+
+
+
 ## RTOS course notes
 
 1) Super loop
@@ -303,18 +341,14 @@ allocators.
 Implement a circular list (doubly-linked).
 
 
-# Elephant in the room - Go's garbage collector
-
-Some thoughts on how the use of a garbage collector impacts on
-Go's potential.
-
-# Big O Notation
+## Big O Notation
 
 O(1) constant time. For example, adding a node to the beginning of a
 list is a constant time operation. Walking a list is not a constant
 time operation because the duration of the operation would depend on
 how many items in the list.
 
+## Single address space
 
 * Single process with single address space shared with kernel. While
 it may sound "dodgy" there are advantages to having a single address
@@ -417,7 +451,8 @@ Surely there must be a better way?
 I did find the [kernel grok site](http://syscalls.kernelgrok.com)
 though. Very cool, but not quite what I was looking for.
 
-* Markdown converter:
+
+## Markdown converter:
 
 ``` shell
 brew install npm
@@ -470,9 +505,6 @@ sudo less /etc/services | grep mysql
 * [NTP research](https://www.eecis.udel.edu/~mills/ntp.html)
 
   
-## Scratchpad (or a brain dump in progress)
-
-   
 ## Threads vs event-driven (brief notes)
 
 Event-driven is essentially:
