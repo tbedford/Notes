@@ -26,9 +26,12 @@ Of particular note:
 - Use simple and direct language
 - Address the reader as "you"
 - Avoid latin phrases
-- Avoid statements that predict the future e.g. "the next version will have super xxx feature..."
-- Avoid time sensitive information (specify exact version (e.g. 1.1) rather than 'current version' - current version may change)
+- Avoid statements that predict the future, for example, "the next version will have super xxx feature..."
+- Avoid time sensitive information (specify exact version (for example 1.1) rather than 'current version' - current version may change)
 
+The .NET docs are a good resource. There is a styleguide:
+
+https://github.com/dotnet/docs/blob/master/styleguide/voice-tone.md
 
 ## Present tense
 
@@ -41,7 +44,6 @@ This command will start the server
 Present:
 
 This command starts the server.
-
 
 ## Second person
 
@@ -115,14 +117,18 @@ Consider UX copy.
 
 ## Bulleted lists
 
-- Terminate each sentence in a bulleted list with a full stop.
+This is an example of a bulleted list:
+
+- Precede a list with a sentence and a colon.
+- Terminate each sentence in a list with a full stop.
 - Use bulleted lists for lists.
 - Use numbered lists for ordered sequences (procedures, tasks and so on).
 
 ## Miscellaneous
 
+- Try to explain to the reader *why* they need a particular feature and not just what the feature is.
 - Clear, simple language is much easier to translate
-- Avoid jargon/idioms (e.g. bring up a server, fire it up, behind the scenes) - reader's first language may not be English
+- Avoid jargon/idioms (for example: bring up a server, fire it up, behind the scenes) - reader's first language may not be English
 - Avoid 'we'
 - Mouse is clicked
 - Keyboard is pressed (not hit, avoid "hit any key to continue")
@@ -133,3 +139,6 @@ Consider UX copy.
 - Avoid wasted words/phrase/slang - "this is really cool", "a supercool feature is...".
 - Avoid judgements "You can easily..." (it might not be easy for the user/developer!)
 
+
+
+---
