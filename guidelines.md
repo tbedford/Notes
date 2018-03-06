@@ -55,7 +55,7 @@ Avoid 'we'.
 
 ## Language
 
-Clear, simple, directive (without sounding too bossy).
+Clear, simple, directive (without sounding too bossy), conversational.
 
 Avoid cautious/conditional language. For example:
 
