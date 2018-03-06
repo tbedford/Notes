@@ -116,7 +116,8 @@ Consider UX copy.
 ## Bulleted lists
 
 - Terminate each sentence in a bulleted list with a full stop.
-- 
+- Use bulleted lists for lists.
+- Use numbered lists for ordered sequences (procedures, tasks and so on).
 
 ## Miscellaneous
 
@@ -124,11 +125,11 @@ Consider UX copy.
 - Avoid jargon/idioms (e.g. bring up a server, fire it up, behind the scenes) - reader's first language may not be English
 - Avoid 'we'
 - Mouse is clicked
-- Keyboard is pressed (not hit, avoid "hot any key to continue")
+- Keyboard is pressed (not hit, avoid "hit any key to continue")
 - "He or she" (use user/developer as appropriate)
-- e.g. use for example i.e. use that is etc. and so on.
-- Filler words
-- Contractions e.g. don't should be do not.
+- e.g. use 'for example' i.e. use 'that is etc. use 'and so on'.
+- Filler words superfluous adjectives 'really', 'easily', 'it may be that', 'and that's it'.
+- Avoid contractions e.g. don't should be do not.
 - Avoid wasted words/phrase/slang - "this is really cool", "a supercool feature is...".
 - Avoid judgements "You can easily..." (it might not be easy for the user/developer!)
 
