@@ -25,6 +25,27 @@ Create a new tracking branch based on a remote branch:
 git checkout --track <remote/branch>
 ```
 
+Push to remote:
 
+``` shell
+git push origin <branch_name>
+```
 
+Delete local branch:
+
+``` shell
+git branch -d feature/login
+```
+
+Delete remote branch:
+
+``` shell
+git push origin --delete feature/login
+```
+
+Rename a file:
+
+``` shell
+git mv old_filename new_filename
+```
 
