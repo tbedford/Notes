@@ -1,39 +1,33 @@
 # Technical writing style guide
 
-Some initial thoughts/pointers. This is a starting point and is open
-for discussion.
-
 ## Overview
 
-My suggestion would be to obtain an existing style guide (such as
-Microsoft Style for Technical Publications) and then tailor it to
-Nexmo's needs. A subset would be sufficient.
+Some initial thoughts/pointers on a consistent writing style. This is
+a starting point and is open for discussion.
+
+## Examples of writing style guides
+
+Microsoft Style for Technical Publications:
 
 https://books.google.co.uk/books/about/The_Microsoft_Manual_of_Style_for_Techni.html
 
-Other examples:
+Magento:
 
 http://devdocs.magento.com/guides/v2.0/contributor-guide/contributing_docs.html
 
-Another good example:
+Kubernetes:
 
 https://kubernetes.io/docs/home/contribute/style-guide/
 
-Of particular note:
 
-- Use present tense
-- Use active voice
-- Use simple and direct language
-- Address the reader as "you"
-- Avoid latin phrases
-- Avoid statements that predict the future, for example, "the next version will have super xxx feature..."
-- Avoid time sensitive information (specify exact version (for example 1.1) rather than 'current version' - current version may change)
-
-The .NET docs are a good resource. There is a styleguide:
+.NET:
 
 https://github.com/dotnet/docs/blob/master/styleguide/voice-tone.md
 
-## Present tense
+
+## Style
+
+### Present tense
 
 Use present tense.
 
@@ -45,15 +39,17 @@ Present:
 
 This command starts the server.
 
-## Second person
+### Active voice
 
-You.
+Active:
 
-You can now click the dialog to display.
+You can register your account in the dashboard.
 
-Avoid 'we'.
+Passive:
 
-## Language
+Your account can be registered in the dashboard.
+
+### Use simple and direct language
 
 Clear, simple, directive (without sounding too bossy), conversational.
 
@@ -67,15 +63,31 @@ If you run the Nexmo CLI a help message is displayed.
 
 Avoid words like would, should, might and so on.
 
-## US English
+### Second person
+
+You.
+
+You can now click the dialog to display.
+
+Avoid 'we'.
+
+### US English
 
 Use US spelling as per:
 
 https://www.merriam-webster.com
 
-## Tone
 
-Tome can range from very casual to very formal (1 to 5) Nexmo should be a 3 (open for discussion). 
+### Avoid Latin phrases, slang, contractions
+
+- Use for example, instead of e.g.
+- Don't use words like 'crash', use 'error'. Use launch or start rather than 'fire up'.
+- Don't use words like `don't`, use 'do not'. You will rather than you've.
+
+### Tone
+
+Tone can range from very casual to very formal (1 to 5) Nexmo should
+be a 3 (open for discussion).
 
 Example (probably a 2 or 3):
 
@@ -92,30 +104,12 @@ UX - specific but covers topics around voice, tone, style:
 http://docs.alfresco.com/sites/docs.alfresco.com/files/public/docs_team/u2/Alfresco-Writing-Guide.pdf
 
 
-## Active voice
-
-Active:
-
-You can register your account in the dashboard.
-
-Passive:
-
-Your account can be registered in the dashboard.
-
-## UX
-
-Maybe beyond scope but good background reading:
-
-https://uxdesign.cc/how-to-make-ux-writing-a-thing-in-your-org-2b802576b702
-
-Consider UX copy.
-
-## Headings
+### Headings
 
 - Word case for document title
 - Sentence case for section headings
 
-## Bulleted lists
+### Bulleted lists
 
 This is an example of a bulleted list:
 
@@ -124,21 +118,24 @@ This is an example of a bulleted list:
 - Use bulleted lists for lists.
 - Use numbered lists for ordered sequences (procedures, tasks and so on).
 
-## Miscellaneous
+### Codeblocks
+
+- Specify coding language
+- Break text before codeblock with colon, not period. Also, there should not be a space before the colon.
+
+### Miscellaneous
 
 - Try to explain to the reader *why* they need a particular feature and not just what the feature is.
-- Clear, simple language is much easier to translate
-- Avoid jargon/idioms (for example: bring up a server, fire it up, behind the scenes) - reader's first language may not be English
-- Avoid 'we'
-- Mouse is clicked
-- Keyboard is pressed (not hit, avoid "hit any key to continue")
+- Clear, simple language is much easier to translate.
+- Avoid jargon/idioms (for example: bring up a server, fire it up, behind the scenes) - reader's first language may not be English.
+- Avoid 'we'.
+- Mouse is clicked and keyboard is pressed. Avoid terms such as `hit`.
 - "He or she" (use user/developer as appropriate)
 - e.g. use 'for example' i.e. use 'that is etc. use 'and so on'.
 - Filler words superfluous adjectives 'really', 'easily', 'it may be that', 'and that's it'.
-- Avoid contractions e.g. don't should be do not.
 - Avoid wasted words/phrase/slang - "this is really cool", "a supercool feature is...".
 - Avoid judgements "You can easily..." (it might not be easy for the user/developer!)
-
-
+- Avoid statements that predict the future, for example, "the next version will have super xxx feature..."
+- Avoid time sensitive information (specify exact version (for example 1.1) rather than 'current version' - current version may change)
 
 ---
