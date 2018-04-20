@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <style>
+      #c {
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         height: 100%;
+         background: radial-gradient(circle, #777, #233);
+      }
+    </style>
+  </head>
+  <body>
+
+    <canvas id = "c" >
+      <audio id = "aud"></audio>
+      <script>
+
+        var canvas = document.getElementById("c");
+        var ctx = canvas.getContext("2d");
+        
+        ctx.fillStyle = "#ee44ff";
+        ctx.shadowBlur=20;
+        ctx.shadowColor="black";
+
+        ctx.rotate(10*Math.PI/180);
+        ctx.fillRect(40,40,20,20);
+       
+      </script>
+    </canvas>
+    
+  </body>
+</html>

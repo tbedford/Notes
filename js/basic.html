@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <style>
+      #c {
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         height: 100%;
+         background: radial-gradient(circle, #777, #233);
+      }
+    </style>
+  </head>
+  <body>
+
+    <canvas id = "c" >
+      <audio id = "aud"></audio>
+      <script>
+
+        var canvas = document.getElementById("c");
+        var ctx = canvas.getContext("2d");
+        
+        ctx.shadowBlur=20;
+        ctx.shadowColor="black";
+        
+        ctx.fillStyle = "#ee44ff";
+        ctx.fillRect(10,10,20,20);
+        
+        // Create gradient
+        var grd = ctx.createRadialGradient(75,50,5,90,60,100);
+        grd.addColorStop(1,"red");
+        grd.addColorStop(0,"white");
+        
+        ctx.fillStyle = grd;
+        ctx.fillRect(30,30,100,80);
+
+        ctx.moveTo(100,100);
+        ctx.lineTo(50,50);
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.arc(95,50,40,0,2*Math.PI);
+        ctx.stroke();
+
+        ctx.font = "20px Arial";
+        ctx.fillText("Hello World",110,120);
+
+        
+        
+      </script>
+    </canvas>
+    
+  </body>
+</html>
