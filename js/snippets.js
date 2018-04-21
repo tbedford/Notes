@@ -14,6 +14,32 @@ for (var i=0; i<1000; i++) {
     }
 }
 
+var obj = {
+    name: 'Tony',
+    age: 55
+};
+
+function print_obj (o){
+
+    console.log(o.name, o.age);
+
+}
+
+print_obj(obj);
+
+let people = [];
+
+people.push(obj);
+people.push({name: 'Fred', age:23});
+
+console.log(people.length);
+
+for (var i=0; i<people.length; i++)
+{
+    print_obj(people[i]); 
+
+}
+
 
 
 

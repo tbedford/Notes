@@ -24,21 +24,21 @@
     y: 40,
     rad: 20,
 
-    draw_ball: function ()
+  };
+
+  function draw_ball(ball)
     {
         ctx.beginPath();
-        ctx.arc(this.x, this.y, this.rad, 0, Math.PI*2, false);
+        ctx.arc(ball.x, ball.y, ball.rad, 0, Math.PI*2, false);
         ctx.fillStyle = this.color;
         ctx.fill();
         ctx.closePath();    
     }
 
-  };
-
   
   function draw(){
 
-    Ball.draw_ball();
+    Ball.draw();
 
   }
   setInterval(draw, 30);
