@@ -14,7 +14,7 @@
   <body>
 
     <canvas id = "c" >
-      <audio id = "aud"></audio>
+      <audio id = "a"></audio>
       <script>
 
         var canvas = document.getElementById("c");
@@ -31,7 +31,11 @@
         ctx.fillStyle = 'white';
         ctx.fillRect(x-(w/2),y-(h/2),w,h);
 
-        
+        ctx.beginPath();
+        ctx.arc(20, 20, 10, 0, Math.PI*2, false);
+        ctx.fillStyle = "green";
+        ctx.fill();
+        ctx.closePath();        
 
       </script>
     </canvas>
