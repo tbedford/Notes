@@ -2,6 +2,13 @@
 
 C-x g -- Magit / Git status
 
+## Pulling
+
+F -- display menu
+p to pull
+
+## Staging / unstaging
+
 s -- to stage changes
 u -- to unstage changes
 
