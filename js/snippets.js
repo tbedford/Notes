@@ -20,9 +20,7 @@ var obj = {
 };
 
 function print_obj (o){
-
     console.log(o.name, o.age);
-
 }
 
 print_obj(obj);
