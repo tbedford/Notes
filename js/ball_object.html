@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Balls</title>
+    <title>Ball</title>
     <style>
     	* { padding: 40; margin: 40; }
     	canvas { background: #EEE; display: block; margin: 0 auto; }
@@ -17,30 +17,19 @@
   var canvas = document.getElementById("myCanvas");
   var ctx = canvas.getContext("2d");
 
-  var Ball = {
-
-    color: "#00FF00",
-    x: 40,
-    y: 40,
-    rad: 20,
-
-  };
-
-  function draw_ball(ball)
-    {
-        ctx.beginPath();
-        ctx.arc(ball.x, ball.y, ball.rad, 0, Math.PI*2, false);
-        ctx.fillStyle = this.color;
-        ctx.fill();
-        ctx.closePath();    
-    }
-
-  
-  function draw(){
-
-    Ball.draw();
-
+  function draw_ball(ball) {
+     ctx.beginPath();
+     ctx.arc(ball.x, ball.y, ball.rad, 0, Math.PI*2, false);
+     ctx.fillStyle = ball.color;
+     ctx.fill();
+     ctx.closePath();    
   }
+
+  function draw(){
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    draw_ball({x: 40, y: 40, rad: 30, color: "#00FF00"});
+  }
+  
   setInterval(draw, 30);
   
 </script>

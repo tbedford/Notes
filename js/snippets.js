@@ -14,21 +14,19 @@ for (var i=0; i<1000; i++) {
     }
 }
 
-var obj = {
-    name: 'Tony',
-    age: 55
-};
 
 function print_obj (o){
     console.log(o.name, o.age);
 }
 
-print_obj(obj);
+var t = {name: 'Tony', age: 55};
+print_obj(t);
+console.log(t.name);
 
 let people = [];
 
-people.push(obj);
-people.push({name: 'Fred', age:23});
+people.push(t);
+people.push({name: 'Fred', age: 23});
 
 console.log(people.length);
 
@@ -38,7 +36,36 @@ for (var i=0; i<people.length; i++)
 
 }
 
+// random colours
+
+  function rgb (r, g, b)
+  {
+      return "rgb(" + r + "," + g + "," + b + ")";  
+  }
 
 
+  function random_color()
+  {
+
+      var r = Math.floor(Math.random() * 255);
+      var g = Math.floor(Math.random() * 255);
+      var b = Math.floor(Math.random() * 255);
+
+      console.log ("r:%d g:%d b:%d",r,g,b);
+  
+      return rgb(r,g,b);
+  }
 
 
+for (var i=0; i<10;i++){
+    console.log("Random color: %s", random_color());
+}
+
+function adjust_obj (obj){
+    obj.x = obj.x +10;
+}
+
+var ob = {x: 1};
+console.log(ob.x);
+adjust_obj (ob);
+console.log(ob.x);
