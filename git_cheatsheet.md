@@ -49,3 +49,47 @@ Rename a file:
 git mv old_filename new_filename
 ```
 
+Link local branch with upstream server:
+
+``` shell
+git push --set-upstream origin test-branch
+```
+
+Create and checkout a branch (on one command)
+
+``` shell
+git checkout -b new-branch
+```
+
+
+How to merge the master branch into the feature branch:
+
+``` shell
+git checkout feature1
+git merge master
+```
+
+Compare differences in two local branches:
+
+``` shell
+git diff master test-branch
+```
+
+Compare a file between branches:
+
+``` shell
+git diff master test-branch README.md
+```
+
+Compare local file in feature branch with local master:
+
+``` shell
+git diff HEAD:README.md README.md 
+```
+
+Compare a file between two branches:
+
+``` shell
+git diff mybranch master -- file.md
+```
+
