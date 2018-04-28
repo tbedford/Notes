@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<!-- Algorithm converted from original Abe's Demoschool C code to JavaScript. -->
+<head>
+  <meta charset="utf-8" />
+  <title>Lens</title>
+  <style>
+    * {
+      padding: 40;
+      margin: 40;
+    }
+
+    canvas {
+      background: #EEE;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+
+  <canvas id="myCanvas" width="480" height="320"></canvas>
+
+  <script>
+    var D = 64; // D is the Diameter of the lens, I use 64
+    var M = 10; // Magnificationfactor
+    var tfm = []; // The transformation array
+    var r, m, y, x, a, b;
+    var s, z; // floating point
+
+    r = D / 2;
+    s = Math.sqrt(r * r - M * M);
+
+    for (y = -r; y < r; y++) {
+      for (x = -r; x < r; x++) {
+        if (x * x + y * y >= s * s) {
+          a = x;
+          b = y;
+        } else {
+          z = Math.sqrt(r * r - x * x - y * y);
+          a = (x * M / z + 0.5);
+          b = (y * M / z + 0.5);
+        }
+        tfm[(y + r) * D + (x + r)] = (b + r) * D + (a + r);
+      }
+    }
+
+    console.log ("TFM: %d", tfm.length);
+
+  </script>
+
+</body>
+</html>
