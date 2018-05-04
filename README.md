@@ -8,6 +8,13 @@ This particular file has turned out to be something of a scratchpad.
 In this repo I also have possibly more useful files on Magit, Git and
 Emacs.
 
+## Useful Python date page
+
+- Very useful page on Python dates:
+
+[https://stackoverflow.com/questions/2150739/iso-time-iso-8601-in-python]
+
+
 ## Node / brew shenanigans
 
 
