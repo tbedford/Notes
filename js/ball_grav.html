@@ -13,23 +13,21 @@
 <canvas id="myCanvas" width="480" height="320"></canvas>
 
 <script>
-  
+
   var canvas = document.getElementById("myCanvas");
   var ctx = canvas.getContext("2d");
 
-  var x = canvas.width / 2;
-  var y = canvas.height /2;
+  var x = 60;
+  var y = 60;
 
   var dx = 2;
-  var dy = 2;
+  var dy = 0;
 
-  var r = Math.floor(Math.random() * 255);
-  var g = Math.floor(Math.random() * 255);
-  var b = Math.floor(Math.random() * 255);
+  var grav = 1;
 
-  var col = "rgb(" + r + "," + g + "," + b + ")";
+  var col = "#FF2233"
   console.log("col is: >%s<", col);
-  
+
   var b = {x: x, y: y, rad: 30, color: col};
 
   function move_ball(ball){
@@ -40,41 +38,33 @@
     if (ball.y > (canvas.height - ball.rad) || ball.y < (0 + ball.rad)) {
        dy = -dy;
     }
-          
+
     ball.x = ball.x + dx;
     ball.y = ball.y + dy;
-                                                        
+
   }
-  
+
   function draw_ball(ball)
   {
     ctx.beginPath();
     ctx.arc(ball.x, ball.y, ball.rad, 0, Math.PI*2, false);
     ctx.fillStyle = ball.color;
     ctx.fill();
-    ctx.closePath();    
+    ctx.closePath();
   }
 
-  
+
   function draw(){
 
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-      // draw small static ball at centre (for debugging)
-      ctx.beginPath();
-      ctx.arc(canvas.width/2, canvas.height/2, 10, 0, Math.PI*2, false);
-      ctx.fillStyle = "#FF0022";
-      ctx.fill();
-      ctx.closePath();    
-
-
-    move_ball(b);                                                    
+    move_ball(b);
     draw_ball(b);
 
   }
   setInterval(draw, 30);
-  
+
 </script>
-<p>Some text just to see what happens.</p>
+
 </body>
 </html>
