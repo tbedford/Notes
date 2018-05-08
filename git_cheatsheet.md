@@ -1,5 +1,11 @@
 # My Git cheatsheet
 
+Help on Git workflows:
+
+```
+git help workflows
+```
+
 List branches:
 
 ``` shell

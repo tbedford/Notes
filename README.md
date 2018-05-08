@@ -1,8 +1,46 @@
 # Notes
 
-Here is a collection of random notes/code samples that I will keep
-here until I find a better place for them. I hope to have a website
-up and running soon where a lot of this stuff can go.
+Here is a collection of random notes that I will keep
+here until I find a better place for them. 
+
+This particular file has turned out to be something of a scratchpad.
+
+In this repo I also have possibly more useful files on Magit, Git and
+Emacs.
+
+## Useful Python date page
+
+- Very useful page on Python dates:
+
+[https://stackoverflow.com/questions/2150739/iso-time-iso-8601-in-python]
+
+
+## Node / brew shenanigans
+
+
+Got node error running rails web app locally. Tried upgrading node
+with brew, upgraded from 9.8.x to 10.0.0. Still same problem. Turned
+out I needed a downgrade.
+
+Had to use version 9 of node.
+
+`brew switch node 9.0` didn’t work. Some library failed to load (can’t remember which).
+
+So had to uninstall yarn and then node (you can’t uninstall node
+without uninstalling yarn - brew gives an error, unless you force)
+
+Downloaded specific version of node
+
+Installed (basically unzip and then set path in `.bash_profile`)
+
+Then use brew to install yarn again. It will also install node 10.0.0
+but your manually installed node will override it (as long as you’ve
+edited your path in your `.bash_profile` and restarted the terminal
+(or used `source .bash_profile`))
+
+You should be good to go. Do a `node --version` to see which version
+of node you are running.
+
 
 ## IoT notes
 
