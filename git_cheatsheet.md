@@ -99,3 +99,11 @@ Compare a file between two branches:
 git diff mybranch master -- file.md
 ```
 
+When you are using auto complete on the command line you sometimes find a whole load of branches that have been deleted from GitHub (via the GitHub web interface after merging) that still appear (they are actually in .git/refs/remotes/origin). Anyway, you can remove these unwanted branches using:
+
+```
+git remote prune origin
+```
+
+They then no longer appear as autocomplete options.
+
