@@ -17,6 +17,7 @@ rbenv: version `2.5.3' is not installed (set by /Users/abedford/checkouts/nexmo/
 Do this:
 
 $ brew upgrade ruby-build
+
 $ rbenv install 2.5.3
 
 $ ruby --version
