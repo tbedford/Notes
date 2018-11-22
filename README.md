@@ -8,6 +8,14 @@ This particular file has turned out to be something of a scratchpad.
 In this repo I also have possibly more useful files on Magit, Git and
 Emacs.
 
+## Ruby version for NDP
+
+rbenv: version `2.5.3' is not installed (set by /Users/abedford/checkouts/nexmo/nexmo-developer/.ruby-version)
+
+$ brew upgrade ruby-build
+$ rbenv install 2.5.3
+
+
 ## Useful Python date page
 
 - Very useful page on Python dates:
