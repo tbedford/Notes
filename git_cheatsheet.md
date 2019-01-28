@@ -107,3 +107,26 @@ git remote prune origin
 
 They then no longer appear as autocomplete options.
 
+## Submodules
+
+```
+git submodule init && git submodule update
+git checkout master && git pull origin master
+git config --global submodule.recurse true
+```
+
+To find out info about submodules:
+
+```
+.gitmodules file (subdirectories -> repo)
+```
+
+### When a submodule is needed to be updated you need to:
+
+1. Cd into submodule directory root
+2. Git checkout master
+3. Git pull
+
+Then back in VSCode do a commit for your main (parent/container) branch.
+
+
