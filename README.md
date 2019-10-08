@@ -1,5 +1,7 @@
 # Notes
 
+---
+
 Here is a collection of random notes that I will keep
 here until I find a better place for them. 
 
