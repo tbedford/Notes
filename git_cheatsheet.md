@@ -13,6 +13,18 @@ token. This can be done in the GitHub UI.
 After you generate the token, when prompted, use your GitHub username
 and paste the token into the password field.
 
+## Checking credential helper
+
+You can check whether your credential helper is configured with:
+
+``` shell
+git config --local credential.helper
+git config --global credential.helper
+osxkeychain
+git config --system credential.helper
+osxkeychain
+```
+
 ## Git workflows
 
 Help on Git workflows
