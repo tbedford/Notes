@@ -8,6 +8,15 @@ This particular file has turned out to be something of a scratchpad.
 In this repo I also have possibly more useful files on Magit, Git and
 Emacs.
 
+## Mac OS X keychain
+
+The password for the keychain should be the same as your Mac login
+password. If you change your Mac login password you need to change the
+keychain password to match it. To do this in Keychain Access you can
+go to Edit and select Change password for Keychain login. If that is
+greyed out consult your IT admin - your company has some kind of
+spooky control over it!
+
 ## Node/JS ladder of doom
 
 It's possible to convert non-blocking calls into blocking calls using
