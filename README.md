@@ -1,12 +1,18 @@
 # Notes
 
-Here is a collection of random notes that I will keep
-here until I find a better place for them. 
+Here is a collection of random notes that I will keep here until I
+find a better place for them.
 
 This particular file has turned out to be something of a scratchpad.
 
 In this repo I also have possibly more useful files on Magit, Git and
 Emacs.
+
+## Node/JS ladder of doom
+
+It's possible to convert non-blocking calls into blocking calls using
+`async`/`await`. That this is sometimes done to avoid the horrendous
+'ladder of doom' and a plethora of closing braces is a bit worrying!
 
 ## Ruby version for NDP
 

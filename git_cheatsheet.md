@@ -1,6 +1,21 @@
 # My Git cheatsheet
 
-Help on Git workflows:
+## GitHub access
+
+When 2-factor authentication is used you can't use your GitHub
+password on the CLI. You need to generate a personal access
+token. This can be done in the GitHub UI. 
+
+> **IMPORTANT:** When generating the token it is vital to ensure you
+> select repo access rights, otherwise you will not have access to
+> push to repos.
+
+After you generate the token, when prompted, use your GitHub username
+and paste the token into the password field.
+
+## Git workflows
+
+Help on Git workflows
 
 ```
 git help workflows
@@ -121,7 +136,7 @@ To find out info about submodules:
 .gitmodules file (subdirectories -> repo)
 ```
 
-### When a submodule is needed to be updated you need to:
+### When a submodule needs to be updated you need to:
 
 1. Cd into submodule directory root
 2. Git checkout master
