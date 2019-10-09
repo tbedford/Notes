@@ -15,7 +15,22 @@ password. If you change your Mac login password you need to change the
 keychain password to match it. To do this in Keychain Access you can
 go to Edit and select Change password for Keychain login. If that is
 greyed out consult your IT admin - your company has some kind of
-spooky control over it!
+spooky control over it! 
+
+Sometimes the corporate network enforces changing your company system
+password periodically. What happens in some cases is this will then
+change your MacOS system password when you connect to the corporate
+network. This results in your keychain password suddenly being out of
+sink with your system password. You will need to chain the keychain
+password to match your system password.
+
+To further complicate things there's also iCloud keychain. The idea
+behind this is that you make available credentials, passwords
+etc. available across multiple devices. For example, let's say you
+save username and password for a site on your MacBook Pro, you might
+then want to be able to login to that site from your iPhone. Rather
+than having to re-enter the username and password again, you would
+have these credentials automatically pulled from the iCloud keychain.
 
 ## Node/JS ladder of doom
 
