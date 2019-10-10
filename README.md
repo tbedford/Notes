@@ -8,6 +8,59 @@ This particular file has turned out to be something of a scratchpad.
 In this repo I also have possibly more useful files on Magit, Git and
 Emacs.
 
+## Postgres
+
+I ran into a situation due to a `brew upgrade` where Postgres got
+upgraded from 10 to 11. This meant my existing database was not
+compatible with the new version of Postgres. The solution is to
+upgrade your database:
+
+``` shell
+brew postgresql-upgrade-database
+```
+
+That seems to do the trick!
+
+You alsp might need to start and stop the server manually which you
+can do with:
+
+``` shell
+pg_ctl -D /usr/local/var/postgres start
+pg_ctl -D /usr/local/var/postgres stop
+```
+
+p.s. Be careful with `brew upgrade` - I actually meant to do `brew
+update`! The upgrade command updates everything Brew has installed,
+whereas the update command only updates Brew itself.
+
+## Curl POST commands
+
+Curl is a very useful tool for quick testing of web apps and REST
+APIs. This is a quick note on testing `POST` type requests.
+
+With `GET` requests the data is provided through the use of parameters
+in the URL, but with `POST` requests data is provided in the body of
+the request. To handle this with Curl you use the `-d`, `--data`
+option. The data can be formatted in two main ways:
+
+1. JSON
+2. Form data
+
+Here's an example of JSON data:
+
+``` shell
+curl -d '{"username":"fred-1", "password":"Very-secret"}' -H "Content-Type: application/json" -X POST http://localhost:9000/user
+```
+
+Here's an example of form data
+
+``` shell
+curl -d "username=fred-1&password=Very-secret" -H "Content-Type: application/x-www-form-urlencoded" -X POST http://localhost:9000/user
+```
+
+This can be especially useful where you need to test your server code,
+but don't want to whip up a form UI just for testing.
+
 ## Mac OS X keychain
 
 The password for the keychain should be the same as your Mac login
