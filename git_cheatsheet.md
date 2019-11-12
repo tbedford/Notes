@@ -128,7 +128,7 @@ git diff mybranch master -- file.md
 
 When you are using auto complete on the command line you sometimes find a whole load of branches that have been deleted from GitHub (via the GitHub web interface after merging) that still appear (they are actually in .git/refs/remotes/origin). Anyway, you can remove these unwanted branches using:
 
-```
+``` shell
 git remote prune origin
 ```
 
@@ -136,7 +136,7 @@ They then no longer appear as autocomplete options.
 
 ## Submodules
 
-```
+``` shell
 git submodule init && git submodule update
 git checkout master && git pull origin master
 git config --global submodule.recurse true
@@ -144,7 +144,7 @@ git config --global submodule.recurse true
 
 To find out info about submodules:
 
-```
+``` shell
 .gitmodules file (subdirectories -> repo)
 ```
 
@@ -156,4 +156,11 @@ To find out info about submodules:
 
 Then back in VSCode do a commit for your main (parent/container) branch.
 
+## REVERTING!
+
+How to revert a commit that's been pushed up:
+
+``` shell
+git revert <commit_number>
+```
 
