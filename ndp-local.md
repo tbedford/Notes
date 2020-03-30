@@ -2,6 +2,7 @@
 
 * This assumes you have Git installed and running
 * Also assumes you have brew installed and running
+* Assumes you have cloned NDP locally
 
 ## Install your bits
 
