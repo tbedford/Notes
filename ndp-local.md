@@ -76,8 +76,8 @@ Run the following:
 
 ``` shell
 bundle install
-rails db:setup
 yarn install
+rails db:setup
 rails s
 ```
 
