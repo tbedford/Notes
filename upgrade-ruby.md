@@ -2,7 +2,9 @@
 
 If you get this error (or similar):
 
+```
 rbenv: version `2.5.3' is not installed (set by /Users/abedford/checkouts/nexmo/nexmo-developer/.ruby-version)
+```
 
 Do this:
 
