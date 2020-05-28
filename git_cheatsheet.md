@@ -156,11 +156,20 @@ To find out info about submodules:
 
 Then back in VSCode do a commit for your main (parent/container) branch.
 
-## REVERTING!
+## Revert a specific commit
 
 How to revert a commit that's been pushed up:
 
 ``` shell
 git revert <commit_number>
 ```
+
+## Abort a merge
+
+If you do something like a `git merge master` and you want to undo that:
+
+```
+git merge --abort
+```
+
 
