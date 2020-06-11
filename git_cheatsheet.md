@@ -181,3 +181,10 @@ git branch --merged
 ```
 
 Useful for clean up. Once a local branch has been merged you can get rid of it.
+
+You can also find out which local branches have **not** been merged:
+
+```
+git branch --no-merged
+```
+
