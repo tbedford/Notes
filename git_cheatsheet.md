@@ -172,4 +172,12 @@ If you do something like a `git merge master` and you want to undo that:
 git merge --abort
 ```
 
+## Merged branches
 
+To find out what branches have been merged into your current branch type:
+
+```
+git branch --merged
+```
+
+Useful for clean up. Once a local branch has been merged you can get rid of it.
