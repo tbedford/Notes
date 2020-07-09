@@ -2,14 +2,36 @@
 
 * This assumes you have Git installed and running
 * Also assumes you have brew installed and running
-* Assumes you have cloned NDP locally
+* Assumes you have cloned NDP locally (git clone https://github.com/Nexmo/nexmo-developer.git)
 * Assumes you are running on a Mac (tweaks required if not)
 
 ## Updated 2020-07-09
 
-We have now Gemified NDP
+We have now 'Gemified' NDP. 
 
-You need to run Ruby 2.5.8
+## Authentication
+
+If you look at the Gemfile:
+
+```
+source 'https://rubygems.org'
+
+source "https://rubygems.pkg.github.com/nexmo" do
+  gem "nexmo-developer", "0.0.74"
+end
+
+gem 'oas_parser', '0.25.1'
+gem 'nexmo-oas-renderer', github: 'nexmo/nexmo-oas-renderer', branch: 'ndp-gemification', require: false
+gem 'nexmo_markdown_renderer', github: 'nexmo/nexmo-markdown-renderer', branch: 'consider-rails-root-for-views'
+```
+
+You can see you require access to https://rubygems.pkg.github.com/nexmo 
+
+Instructions on how to do this are here: https://docs.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-rubygems-for-use-with-github-packages
+
+For example, I authenticated using Bundler and a GitHub personal access token, using the command in the GitHub docs. The credentials can then be found in `~/.bundle/config`
+
+In future this Gem will be in the public Gems repo, rubygems.org.
 
 ## Install your bits
 
