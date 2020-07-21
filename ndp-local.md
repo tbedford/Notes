@@ -1,13 +1,15 @@
 # Simplified guide to running NDP locally
 
+## Updated 2020-07-09
+
+We have now 'Gemified' NDP. 
+
+## Prerequisites
+
 * This assumes you have `git` installed and running
 * Also assumes you have `brew` installed and running
 * Assumes you have cloned NDP locally (git clone https://github.com/Nexmo/nexmo-developer.git)
 * Assumes you are running on a Mac (tweaks required if not)
-
-## Updated 2020-07-09
-
-We have now 'Gemified' NDP. 
 
 ## Authentication
 
