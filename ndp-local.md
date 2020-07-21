@@ -60,6 +60,11 @@ Open the file and comment out the Redis line as we're not using it locally (for 
 ``` shell
 rbenv 2.5.8
 rbenv global 2.5.8
+```
+
+## Install packages
+
+``` shell
 gem install bundle
 bundle install
 ```
