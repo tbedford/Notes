@@ -35,6 +35,16 @@ For example, I authenticated using Bundler and a GitHub personal access token, u
 
 In future this Gem will be in the public Gems repo, rubygems.org.
 
+### SSO
+
+If you sign up to Nexmo's SSO, then you will need to Enable SSO for this PAT in the GitHub interface. For the PAT you use for authentication, you choose 'Enable SSO' and then select Nexmo. If you don't do this when you run bundler you will get the following error:
+
+```shell
+$ bundle
+Fetching gem metadata from https://rubygems.pkg.github.com/nexmo/.
+Retrying dependency api due to error (2/4): Bundler::HTTPError Net::HTTPForbidden: Resource protected by organization SAML enforcement. You must grant your personal token access to this organization.
+```
+
 ## Install your bits
 
 Install tools:
