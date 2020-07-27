@@ -38,7 +38,7 @@ In future this Gem will be in the public Gems repo, rubygems.org.
 
 ### SSO
 
-If you sign up to Nexmo's SSO, then you will need to Enable SSO for this PAT in the GitHub interface. For the PAT you use for authentication, you choose 'Enable SSO' and then select Nexmo. If you don't do this when you run bundler you will get the following error:
+If you sign up to Nexmo's SSO, then you will need to Enable SSO for the PAT you use to authenticate access to the Gem in the GitHub interface. For the PAT you use for authentication, you choose 'Enable SSO' and then select Nexmo. If you don't do this when you run bundler (to install the NDP Gem) you will get the following error:
 
 ```shell
 $ bundle
