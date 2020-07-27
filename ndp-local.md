@@ -10,6 +10,7 @@ We have now 'Gemified' NDP.
 * Also assumes you have `brew` installed and running
 * Assumes you have cloned NDP locally (git clone https://github.com/Nexmo/nexmo-developer.git)
 * Assumes you are running on a Mac (tweaks required if not)
+* Assumes you know how to create GitHub Personal Access Tokens (PATs)
 
 ## Authentication
 
@@ -31,7 +32,7 @@ You can see you require access to https://rubygems.pkg.github.com/nexmo
 
 Instructions on how to do this are here: https://docs.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-rubygems-for-use-with-github-packages
 
-For example, I authenticated using Bundler and a GitHub personal access token, using the command in the GitHub docs. The credentials can then be found in `~/.bundle/config`
+For example, I authenticated using Bundler and a GitHub Personal Access Token (PAT), using the command in the GitHub docs. The credentials can then be found in `~/.bundle/config`
 
 In future this Gem will be in the public Gems repo, rubygems.org.
 
