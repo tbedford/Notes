@@ -1,50 +1,20 @@
-# Simplified guide to running NDP locally
+# Simplified guide to running Vonage ADP locally
 
-## Updated 2020-07-09
+## Updated 2020-11-17
 
-We have now 'Gemified' NDP. 
+We have now 'Gemified' Vonage API Developer Portal. 
 
 ## Prerequisites
 
 * This assumes you have `git` installed and running
 * Also assumes you have `brew` installed and running
-* Assumes you have cloned NDP locally (git clone https://github.com/Nexmo/nexmo-developer.git)
+* Assumes you have cloned ADP locally (git clone https://github.com/Nexmo/nexmo-developer.git)
 * Assumes you are running on a Mac (tweaks required if not)
 * Assumes you know how to create GitHub Personal Access Tokens (PATs)
 
 ## Authentication
 
-If you look at the Gemfile:
-
-```
-source 'https://rubygems.org'
-
-source "https://rubygems.pkg.github.com/nexmo" do
-  gem "nexmo-developer", "0.0.74"
-end
-
-gem 'oas_parser', '0.25.1'
-gem 'nexmo-oas-renderer', github: 'nexmo/nexmo-oas-renderer', branch: 'ndp-gemification', require: false
-gem 'nexmo_markdown_renderer', github: 'nexmo/nexmo-markdown-renderer', branch: 'consider-rails-root-for-views'
-```
-
-You can see you require access to https://rubygems.pkg.github.com/nexmo 
-
-Instructions on how to do this are here: https://docs.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-rubygems-for-use-with-github-packages
-
-For example, I authenticated using Bundler and a GitHub Personal Access Token (PAT), using the command in the GitHub docs. The credentials can then be found in `~/.bundle/config`
-
-In future this Gem will be in the public Gems repo, rubygems.org.
-
-### SSO
-
-If you sign up to Nexmo's SSO, then you will need to Enable SSO for the PAT you use to authenticate access to the Gem in the GitHub interface. For the PAT you use for authentication, you choose 'Enable SSO' and then select Nexmo. If you don't do this when you run bundler (to install the NDP Gem) you will get the following error:
-
-```shell
-$ bundle
-Fetching gem metadata from https://rubygems.pkg.github.com/nexmo/.
-Retrying dependency api due to error (2/4): Bundler::HTTPError Net::HTTPForbidden: Resource protected by organization SAML enforcement. You must grant your personal token access to this organization.
-```
+Station Gem is now available in the public Gems repo, rubygems.org.
 
 ## Install your bits
 
